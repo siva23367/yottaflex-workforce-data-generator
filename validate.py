@@ -672,7 +672,7 @@ def validate(
 
 
 def validate_output_directory(output: Path) -> list[str]:
-    """Validate exported CSV tables and ground truth from an output directory."""
+    """Validate exported CSV tables and exact CSV/JSON ground-truth parity."""
     tables: dict[str, list[dict[str, object]]] = {}
     errors: list[str] = []
     nullable_csv_fields = {
@@ -701,7 +701,9 @@ def validate_output_directory(output: Path) -> list[str]:
         except (OSError, UnicodeDecodeError, csv.Error) as exc:
             errors.append(f"Could not read {path.name}: {exc}")
     truth_path = output / "ground_truth" / "ground_truth.csv"
+    truth_json_path = output / "ground_truth" / "ground_truth.json"
     truth: list[dict[str, str]] = []
+    truth_json: list[dict[str, object]] = []
     if not truth_path.is_file():
         errors.append("Missing required CSV file: ground_truth/ground_truth.csv")
     else:
@@ -710,6 +712,27 @@ def validate_output_directory(output: Path) -> list[str]:
                 truth = list(csv.DictReader(file))
         except (OSError, UnicodeDecodeError, csv.Error) as exc:
             errors.append(f"Could not read ground_truth/ground_truth.csv: {exc}")
+    if not truth_json_path.is_file():
+        errors.append("Missing required JSON file: ground_truth/ground_truth.json")
+    else:
+        try:
+            parsed_truth = json.loads(truth_json_path.read_text(encoding="utf-8"))
+            if not isinstance(parsed_truth, list) or any(
+                not isinstance(row, dict)
+                or set(row) != {"table_name", "entity_id", "issue_type"}
+                for row in parsed_truth
+            ):
+                errors.append(
+                    "ground_truth/ground_truth.json must contain a list of labelled records"
+                )
+            else:
+                truth_json = parsed_truth
+                if truth_json != truth:
+                    errors.append(
+                        "ground_truth CSV/JSON mismatch: exported labels must match exactly"
+                    )
+        except (OSError, UnicodeDecodeError, json.JSONDecodeError) as exc:
+            errors.append(f"Could not read ground_truth/ground_truth.json: {exc}")
     if errors:
         return errors
     return validate(tables, truth)
@@ -719,7 +742,7 @@ def output_hashes(
     tables: dict[str, list[dict[str, object]]],
     truth: list[dict[str, str]],
 ) -> dict[str, str]:
-    """Return MD5 checksums of the exact deterministic CSV payloads."""
+    """Return MD5 checksums of deterministic table and ground-truth exports."""
     hashes: dict[str, str] = {}
     for table_name, rows in sorted(tables.items()):
         stream = io.StringIO(newline="")
@@ -741,6 +764,10 @@ def output_hashes(
     writer.writerows(truth)
     hashes["ground_truth/ground_truth.csv"] = hashlib.md5(
         stream.getvalue().encode("utf-8"), usedforsecurity=False
+    ).hexdigest()
+    json_payload = json.dumps(truth, indent=2, sort_keys=True) + "\n"
+    hashes["ground_truth/ground_truth.json"] = hashlib.md5(
+        json_payload.encode("utf-8"), usedforsecurity=False
     ).hexdigest()
     return hashes
 
@@ -776,7 +803,7 @@ def main() -> None:
     parser.add_argument(
         "--check-output",
         type=Path,
-        help="validate CSV files in an existing generated output directory",
+        help="validate exported records in an existing generated output directory",
     )
     args = parser.parse_args()
 
@@ -784,7 +811,7 @@ def main() -> None:
         errors = validate_output_directory(args.check_output)
         if errors:
             raise SystemExit("\n".join(errors))
-        print(f"CSV validation passed for {args.check_output}.")
+        print(f"Output validation passed for {args.check_output}.")
         return
 
     from generator import GenerationConfig, generate_dataset

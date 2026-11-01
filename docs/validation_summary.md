@@ -15,7 +15,7 @@ validation completed successfully.
 | ShiftAssignmentEvent | 54,559 |
 | AttendanceEvent | 54,432 |
 | LeaveRequest / LeaveRequestEvent | 5,000 each |
-| HolidayCalendar | 4 |
+| HolidayCalendar | 5 |
 | CoverageRequirement / CoverageGap | 2,160 each |
 | SwapRequest / SwapRequestEvent | 138 / 290 |
 | OvertimeSummary | 27,118 |
@@ -35,11 +35,22 @@ assignments contribute scheduled hours but zero actual worked seconds.
   checked as a complete Cartesian product. Shift-assignment history records an initial
   state for every assignment and each of the 127 later swaps/reassignments.
 - Audited the exported CSV files and confirmed SQLite `integrity_check` returned `ok` with
-  no foreign-key violations.
-- All 17 files listed in the manifest matched their SHA-256 checksums.
-- Canonical test suite (legacy duplicate generator tests removed): 12 tests passed.
+  no foreign-key violations. Both `data/full` and `data/starter` passed the exported-output
+  validator; ground-truth CSV and JSON records matched exactly in each.
+- All 18 files listed in each manifest matched their SHA-256 checksums; both SQLite
+  databases passed `integrity_check` with zero foreign-key violations.
+- Canonical test suite (legacy duplicate generator tests removed): 14 tests passed.
 - Full-scale reproducibility: two independent workflow executions with the same seed
-  produced 33 matching MD5 hashes (16 table CSVs, 16 table JSON files, and ground truth).
+  produced 34 matching MD5 hashes (16 table CSVs, 16 table JSON files, and both
+  ground-truth exports).
+
+The five `HolidayCalendar` rows are the Central Government Gazetted holidays falling in
+the 90-day schedule window: Republic Day (2026-01-26), Holi (2026-03-04), Id- ul- Fitr
+(2026-03-21), Ram Navami (2026-03-26), and Mahavir Jayanti (2026-03-31). Dates and names
+were retrieved from the [National Portal of India Holiday Calendar](https://www.india.gov.in/calendar)
+on 2026-11-01; the portal states the holidays follow a circular issued by the Ministry of
+Personnel, Public Grievances and Pensions. The manifest records this source, scope, and
+retrieval date.
 
 The two records involved in each double-booking are both mapped in ground truth. The
 ground-truth layer is derived from the completed schedule and includes every affected

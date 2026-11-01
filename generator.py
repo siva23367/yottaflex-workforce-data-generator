@@ -57,6 +57,29 @@ SHIFT_DEFINITIONS = (
     ("B", "Evening", time(14), time(22)),
     ("C", "Night", time(22), time(6)),
 )
+CENTRAL_GAZETTED_HOLIDAYS_2026 = (
+    (date(2026, 1, 26), "Republic Day"),
+    (date(2026, 3, 4), "Holi"),
+    (date(2026, 3, 21), "Id- ul- Fitr"),
+    (date(2026, 3, 26), "Ram Navami"),
+    (date(2026, 3, 31), "Mahavir Jayanti"),
+)
+HOLIDAY_SOURCE_MANIFEST = {
+    "name": "Holiday Calendar | National Portal of India",
+    "url": "https://www.india.gov.in/calendar",
+    "api_url": "https://www.india.gov.in/calendar/api",
+    "scope": "Central Government Gazetted holidays for calendar year 2026",
+    "retrieved_on": "2026-11-01",
+    "source_note": (
+        "The portal states that holidays follow a circular issued by the Ministry "
+        "of Personnel, Public Grievances and Pensions."
+    ),
+    "license_note": (
+        "No explicit reuse license was identified on the calendar page. Only "
+        "factual holiday names and dates are transcribed; no source content is "
+        "redistributed."
+    ),
+}
 LEGACY_TABLE_FILES = ("LeaveBalanceSummary",)
 
 
@@ -183,14 +206,9 @@ class WorkforceGenerator:
                     ),
                 )
 
-        for holiday_offset, holiday_name in (
-            (0, "New Year Observance"),
-            (25, "Synthetic Holiday 1"),
-            (59, "Synthetic Holiday 2"),
-            (75, "Synthetic Holiday 3"),
-        ):
-            holiday_date = self.config.start + timedelta(days=holiday_offset)
-            if holiday_date < self.config.start + timedelta(days=self.config.days):
+        final_date = self.config.start + timedelta(days=self.config.days - 1)
+        for holiday_date, holiday_name in CENTRAL_GAZETTED_HOLIDAYS_2026:
+            if self.config.start <= holiday_date <= final_date:
                 self.add(
                     "HolidayCalendar",
                     _record(
@@ -1229,6 +1247,9 @@ def export_dataset(
     ground_truth_dir.mkdir(parents=True, exist_ok=True)
     truth_payload = _csv_payload(truth, ("table_name", "entity_id", "issue_type"))
     (ground_truth_dir / "ground_truth.csv").write_bytes(truth_payload)
+    (ground_truth_dir / "ground_truth.json").write_text(
+        json.dumps(truth, indent=2, sort_keys=True) + "\n", encoding="utf-8"
+    )
 
     for filename in ("workforce_seed.sqlite", "workforce_seed.sql"):
         stale = output / filename
@@ -1281,8 +1302,11 @@ def export_dataset(
         "ground_truth_rows": len(truth),
         "metrics": dataset_metrics(tables, truth),
         "source_manifest": {
-            "provenance": "Fully synthetic data generated locally",
-            "external_sources": [],
+            "provenance": (
+                "Synthetic workforce records generated locally; holiday dates "
+                "transcribed from the official National Portal of India calendar."
+            ),
+            "external_sources": [HOLIDAY_SOURCE_MANIFEST],
             "personal_data": False,
         },
     }
@@ -1297,6 +1321,11 @@ def export_dataset(
             "rows": row_count,
             "sha256": digest,
         }
+    truth_json_path = ground_truth_dir / "ground_truth.json"
+    manifest_tables[str(truth_json_path.relative_to(output))] = {
+        "rows": len(truth),
+        "sha256": hashlib.sha256(truth_json_path.read_bytes()).hexdigest(),
+    }
     manifest["tables"] = manifest_tables
     (output / "manifest.json").write_text(
         json.dumps(manifest, indent=2, sort_keys=True) + "\n", encoding="utf-8"

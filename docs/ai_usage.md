@@ -6,7 +6,7 @@ AI assistance was used extensively throughout this project. It supported the des
 
 AI also helped investigate and resolve issues identified during development, including the distinction between scheduled and punch-derived overtime, shift-assignment history, and assignment-independent coverage demand.
 
-AI was used as a development assistant, not as a substitute for reviewing the results. I ran the generator, inspected the generated data, executed automated tests, investigated failures, reviewed and modified Python code, and checked the dashboard and generated CSV and SQLite outputs.
+AI assistance supported implementation, debugging, validation, and documentation. The candidate should describe their own review and verification work accurately before submission.
 
 ## 2. Prompt-History Summary
 
@@ -20,22 +20,13 @@ The following is a summary of the main topics covered during development. It is 
 6. Improve assignment history and coverage: Added append-only shift-assignment events and staffing requirements generated independently of the roster.
 7. Simplify the project structure: Reviewed duplicate files, legacy tests, caches, and unnecessary generated data.
 8. Prepare the GitHub submission: Prepared the repository, README, validation documentation, and AI-use disclosure for publication.
+9. Complete final submission checks: Added provenance for the official 2026 Central Government Gazetted holiday reference and a JSON ground-truth export alongside CSV.
 
 This summary should not be treated as a replacement for the original conversation if the submission process explicitly requires a complete prompt transcript.
 
 ## 3. My Contribution and Review
 
-My contribution included defining the project requirements, providing the challenge context, guiding implementation through iterative feedback, and reviewing the resulting application and data.
-
-I personally:
-- Ran the workforce data generator with the required configuration.
-- Inspected the generated datasets and checked whether the records were consistent with the intended workforce scenarios.
-- Executed the automated tests and investigated issues identified during validation.
-- Reviewed and modified Python code during development.
-- Checked the dashboard and examined the generated CSV and SQLite outputs.
-- Reviewed the validation results and the distinction between scheduled overtime and actual worked overtime.
-
-AI assistance contributed substantially to implementation and debugging. I used the generated implementation as a starting point and performed the above development and verification activities to assess whether the results matched the project requirements.
+The candidate supplied the project requirements, challenge context, repository URL, and iterative feedback during development. AI assistance was used for implementation, debugging, validation, and documentation. The candidate should add a factual account of the code they personally reviewed, modified, and tested before submission.
 
 ## 4. Testing and Validation
 

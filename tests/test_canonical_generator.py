@@ -1,12 +1,20 @@
 import csv
 import copy
+import json
 import tempfile
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import pytest
 
-from generator import GenerationConfig, WorkforceGenerator, export_dataset, generate_dataset
+from generator import (
+    CENTRAL_GAZETTED_HOLIDAYS_2026,
+    HOLIDAY_SOURCE_MANIFEST,
+    GenerationConfig,
+    WorkforceGenerator,
+    export_dataset,
+    generate_dataset,
+)
 from models import Employee, TABLE_MODELS, record_fields
 from validate import output_hashes, validate, validate_output_directory
 
@@ -99,6 +107,29 @@ def test_coverage_requirements_are_independent_of_assignments():
         for template in generator.tables["ShiftTemplate"]
         for skill in generator.tables["Skill"]
     }
+
+
+def test_official_gazetted_holidays_are_filtered_to_schedule_window():
+    generator = WorkforceGenerator(
+        GenerationConfig(employees=8, teams=4, days=90, leaves=0)
+    )
+    generator.make_masters()
+    assert [
+        (row["holiday_date"], row["holiday_name"])
+        for row in generator.tables["HolidayCalendar"]
+    ] == [(holiday.isoformat(), name) for holiday, name in CENTRAL_GAZETTED_HOLIDAYS_2026]
+
+    outside_calendar_year = WorkforceGenerator(
+        GenerationConfig(
+            employees=8,
+            teams=4,
+            days=10,
+            leaves=0,
+            start=date(2026, 4, 1),
+        )
+    )
+    outside_calendar_year.make_masters()
+    assert outside_calendar_year.tables["HolidayCalendar"] == []
 
 
 def test_validator_rejects_missing_coverage_demand_and_assignment_history():
@@ -346,11 +377,19 @@ def test_reproducibility_md5_and_exports():
         manifest = export_dataset(first_tables, first_truth, output, 123)
         assert manifest["ground_truth_rows"] == len(first_truth)
         assert manifest["source_manifest"] == {
-            "provenance": "Fully synthetic data generated locally",
-            "external_sources": [],
+            "provenance": (
+                "Synthetic workforce records generated locally; holiday dates "
+                "transcribed from the official National Portal of India calendar."
+            ),
+            "external_sources": [HOLIDAY_SOURCE_MANIFEST],
             "personal_data": False,
         }
         assert (output / "ground_truth" / "ground_truth.csv").is_file()
+        truth_json_path = output / "ground_truth" / "ground_truth.json"
+        assert truth_json_path.is_file()
+        assert json.loads(truth_json_path.read_text()) == first_truth
+        assert "ground_truth/ground_truth.json" in manifest["tables"]
+        assert len(manifest["tables"]) == 18
         with (output / "CoverageGap.csv").open(newline="", encoding="utf-8") as file:
             assert next(csv.DictReader(file))["status"] in {"MET", "GAP"}
         with (output / "Employee.csv").open(newline="", encoding="utf-8") as file:
@@ -370,7 +409,24 @@ def test_reproducibility_md5_and_exports():
             )
             writer.writeheader()
             writer.writerows(ground_truth_rows[1:])
+        truth_json_path.write_text(
+            json.dumps(ground_truth_rows[1:], indent=2, sort_keys=True) + "\n",
+            encoding="utf-8",
+        )
         assert any(
             "ground_truth missing detected anomalies" in error
+            for error in validate_output_directory(output)
+        )
+
+
+def test_output_validator_rejects_ground_truth_json_mismatch():
+    tables, truth = build()
+    with tempfile.TemporaryDirectory() as directory:
+        output = Path(directory)
+        export_dataset(tables, truth, output, 123)
+        json_path = output / "ground_truth" / "ground_truth.json"
+        json_path.write_text("[]\n", encoding="utf-8")
+        assert any(
+            "ground_truth CSV/JSON mismatch" in error
             for error in validate_output_directory(output)
         )

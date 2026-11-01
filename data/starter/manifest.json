@@ -40,9 +40,19 @@
   },
   "seed": 77,
   "source_manifest": {
-    "external_sources": [],
+    "external_sources": [
+      {
+        "api_url": "https://www.india.gov.in/calendar/api",
+        "license_note": "No explicit reuse license was identified on the calendar page. Only factual holiday names and dates are transcribed; no source content is redistributed.",
+        "name": "Holiday Calendar | National Portal of India",
+        "retrieved_on": "2026-11-01",
+        "scope": "Central Government Gazetted holidays for calendar year 2026",
+        "source_note": "The portal states that holidays follow a circular issued by the Ministry of Personnel, Public Grievances and Pensions.",
+        "url": "https://www.india.gov.in/calendar"
+      }
+    ],
     "personal_data": false,
-    "provenance": "Fully synthetic data generated locally"
+    "provenance": "Synthetic workforce records generated locally; holiday dates transcribed from the official National Portal of India calendar."
   },
   "tables": {
     "AttendanceEvent.csv": {
@@ -66,8 +76,8 @@
       "sha256": "7e927863f26b4f98df72f45958f0509832c2f3b4a6876a4300cde552fdcee96c"
     },
     "HolidayCalendar.csv": {
-      "rows": 1,
-      "sha256": "a56824b954c1131629bf6bba4121c50364cdedaa647628fe45bfcae7b3242d8b"
+      "rows": 0,
+      "sha256": "2db42bff6b7fdb34b1e75249a1f490cc6860637f85be902c263f1abaaecafbd9"
     },
     "LeaveRequest.csv": {
       "rows": 30,
@@ -112,6 +122,10 @@
     "ground_truth/ground_truth.csv": {
       "rows": 122,
       "sha256": "d8ef09d23a3c28d9a6e1fc436ae523f7046cab9ad9b1dcef64d823b74ad2b838"
+    },
+    "ground_truth/ground_truth.json": {
+      "rows": 122,
+      "sha256": "ecb780b0e374561d4052c4271dad3ef053d53048bbee3998a43ace2800a7e986"
     }
   }
 }

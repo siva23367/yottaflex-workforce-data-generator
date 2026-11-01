@@ -1,0 +1,3112 @@
+[
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000001",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000002",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000007",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000008",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000013",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000014",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000019",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000020",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000025",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000026",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000031",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000032",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000037",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000038",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000043",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000044",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000049",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000050",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000055",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000056",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000061",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000062",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000067",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000068",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000073",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000074",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000079",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000080",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000085",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000086",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000091",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000092",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000097",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000098",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000103",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000104",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054325",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054326",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054331",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054332",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054337",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054338",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054343",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054344",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054349",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054350",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054355",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054356",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054361",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054362",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054367",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054368",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054373",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054374",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054379",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054380",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054385",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054386",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054391",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054392",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054397",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054398",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054403",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054404",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054409",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054410",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054415",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054416",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054421",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054422",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054427",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-054428",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000003",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000004",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000009",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000010",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000015",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000016",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000021",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000022",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000027",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000028",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000033",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000034",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000039",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000040",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000045",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000046",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000051",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000052",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000057",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000058",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000063",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000064",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000069",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000070",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000075",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000076",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000081",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000082",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000087",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000088",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000093",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000094",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000099",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000100",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000105",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-000106",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054327",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054328",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054333",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054334",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054339",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054340",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054345",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054346",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054351",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054352",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054357",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054358",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054363",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054364",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054369",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054370",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054375",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054376",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054381",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054382",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054387",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054388",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054393",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054394",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054399",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054400",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054405",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054406",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054411",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054412",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054417",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054418",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054423",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054424",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054429",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-B-054430",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000005",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000006",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000011",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000012",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000017",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000018",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000023",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000024",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000029",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000030",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000035",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000036",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000041",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000042",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000047",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000048",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000053",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000054",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000059",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000060",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000065",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000066",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000071",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000072",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000077",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000078",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000083",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000084",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000089",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000090",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000095",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000096",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000101",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000102",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000107",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-000108",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054329",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054330",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054335",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054336",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054341",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054342",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054347",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054348",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054353",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054354",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054359",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054360",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054365",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054366",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054371",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054372",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054377",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054378",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054383",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054384",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054389",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054390",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054395",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054396",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054401",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054402",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054407",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054408",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054413",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054414",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054419",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054420",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054425",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054426",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054431",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-C-054432",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004321",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004322",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004323",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004324",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004325",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004326",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004327",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004328",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004329",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004330",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004331",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004332",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004333",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004334",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004335",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004336",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004337",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004338",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004339",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004340",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004341",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004342",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004343",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004344",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004345",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004346",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004347",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004348",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004349",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004350",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004351",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004352",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004353",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004354",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004355",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004356",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004357",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004358",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004359",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004360",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004361",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004362",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004363",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004364",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004365",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004366",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004367",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004368",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004369",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004370",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004371",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004372",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004373",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004374",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004375",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004376",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004377",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004378",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004379",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004380",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004381",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004382",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004383",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004384",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004385",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004386",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004387",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004388",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004389",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004390",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004391",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004392",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004393",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004394",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004395",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004396",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004397",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004398",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004399",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004400",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004401",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004402",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004403",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004404",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004405",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004406",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004407",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004408",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004409",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004410",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004411",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004412",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004413",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004414",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004415",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004416",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004417",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004418",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004419",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004420",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004421",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004422",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004423",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-A-004424",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004425",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-B-004426",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004427",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-08-C-004428",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "COV-000025",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000026",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000027",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000028",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000029",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000030",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000031",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000032",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000033",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000034",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000035",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000036",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000037",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000038",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000039",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000040",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000041",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000042",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000043",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000044",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000045",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000046",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000047",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000048",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000049",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000050",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000051",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000052",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000053",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000055",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000056",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000057",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000058",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000059",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000060",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000061",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000062",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000063",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000064",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000065",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000066",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000067",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000068",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000069",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000070",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000071",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000072",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000073",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000074",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000075",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000076",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000077",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000078",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000079",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000080",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000081",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000082",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000083",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000084",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000085",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000086",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000087",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000088",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000089",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000090",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000091",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000092",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000093",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000094",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000095",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000096",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000097",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000098",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000099",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000100",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000101",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000102",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000103",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000104",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000105",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000106",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000107",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000108",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-11-C-006215",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-18-B-010258",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-18-C-010283",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-18-C-010565",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-25-C-014699",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-25-C-014663",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-25-C-014705",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-02-01-C-019109",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-02-01-C-018611",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-02-22-C-031422",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-02-22-C-031523",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-02-22-C-031259",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-02-22-C-031541",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035406",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035424",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035436",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035442",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035454",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035466",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035490",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035502",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035514",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035532",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035538",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035562",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035573",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035580",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035586",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035592",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035634",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035663",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035670",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035675",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035688",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035694",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035700",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035712",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-B-035716",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035754",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035772",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035814",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035820",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035826",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035832",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035850",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035880",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035897",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-01-C-035928",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039610",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039617",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039629",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039647",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039659",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039677",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039682",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039694",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039707",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039719",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039725",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039743",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039749",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039755",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039766",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039797",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039802",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039815",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039827",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039839",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039845",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039851",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039857",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039880",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039905",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039929",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039935",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039947",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039959",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039964",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039976",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039982",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039989",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039995",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039999",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040007",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040037",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040055",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-040060",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-040066",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-040072",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040085",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040091",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-040102",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040109",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040115",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040133",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040139",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040145",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-040042",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-040121",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-B-039670",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-08-C-039809",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-15-B-044320",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-15-C-044220",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-22-C-048533",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-22-B-048232",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-29-C-052224",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-29-B-052330",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-03-29-C-052673",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SWP-2026-000001",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000002",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000003",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000004",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000005",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000006",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000007",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000008",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000009",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000010",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000011",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000012",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000013",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000014",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000015",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000016",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000017",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000018",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000019",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000020",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000021",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000022",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000023",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000024",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000025",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000026",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000027",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000028",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000029",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000030",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000031",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000032",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000033",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000034",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000035",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000036",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000037",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000038",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000039",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000040",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000041",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000042",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000043",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000044",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000045",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000046",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000047",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000048",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000049",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000050",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000051",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000052",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000053",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000054",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000055",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000056",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000057",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000058",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000059",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000060",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000061",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000062",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000063",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000064",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000065",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000066",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000067",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000068",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000069",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000070",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000071",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000073",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000074",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000075",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000076",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000077",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000078",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000079",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000080",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000081",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000082",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000083",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000084",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000085",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000086",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000087",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000088",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000089",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000090",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000091",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000092",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000093",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000094",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000095",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000096",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000097",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000098",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000099",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000100",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000101",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000102",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000103",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000104",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000105",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000106",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000107",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  },
+  {
+    "entity_id": "SWP-2026-000108",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  }
+]

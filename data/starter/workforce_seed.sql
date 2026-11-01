@@ -1108,7 +1108,6 @@ INSERT INTO "EmployeeSkill" VALUES('EMP-000039','SKL-03','Intermediate');
 INSERT INTO "EmployeeSkill" VALUES('EMP-000040','SKL-04','Basic');
 INSERT INTO "EmployeeSkill" VALUES('EMP-000040','SKL-08','Basic');
 CREATE TABLE "HolidayCalendar" ("holiday_date" TEXT, "holiday_name" TEXT, PRIMARY KEY ("holiday_date"));
-INSERT INTO "HolidayCalendar" VALUES('2026-01-01','New Year Observance');
 CREATE TABLE "LeaveRequest" ("leave_id" TEXT, "emp_id" TEXT, "start_date" TEXT, "end_date" TEXT, "status" TEXT, PRIMARY KEY ("leave_id"), FOREIGN KEY ("emp_id") REFERENCES "Employee"("emp_id"));
 INSERT INTO "LeaveRequest" VALUES('LVE-2026-000001','EMP-000003','2026-01-02','2026-01-02','Approved');
 INSERT INTO "LeaveRequest" VALUES('LVE-2026-000002','EMP-000033','2026-01-04','2026-01-05','Rejected');

@@ -21,7 +21,8 @@ ALLOWED_FILES = {
     "AttendanceEvent.json", "CoverageRequirement.json", "CoverageGap.json",
     "SwapRequest.json", "SwapRequestEvent.json", "OvertimeSummary.json",
     "manifest.json",
-    "workforce_seed.sqlite", "workforce_seed.sql", "ground_truth/ground_truth.csv",
+    "workforce_seed.sqlite", "workforce_seed.sql",
+    "ground_truth/ground_truth.csv", "ground_truth/ground_truth.json",
 }
 app = Flask(__name__)
 _generation_lock = Lock()

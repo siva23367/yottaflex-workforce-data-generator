@@ -14,7 +14,7 @@ definitions. Every listed primary and foreign key is validated before export.
 | ShiftAssignment | `assignment_id` | `emp_id` (Employee FK); `date`; `template_id` (ShiftTemplate FK) |
 | ShiftAssignmentEvent | `assignment_event_id` | `assignment_id` (ShiftAssignment FK); `previous_emp_id` (nullable Employee FK for initial assignment); `new_emp_id` (Employee FK); `event_type` (`ASSIGNED`, `SWAP_APPLIED`, `SWAP_APPLIED_WITHOUT_APPROVAL`); `event_at`; `actor`; `related_swap_id` (nullable SwapRequest FK) |
 | LeaveRequest | `leave_id` | `emp_id` (Employee FK); `start_date`; `end_date` (not before start); `status` (`Approved`, `Rejected`, `Pending`) |
-| HolidayCalendar | `holiday_date` | `holiday_name` |
+| HolidayCalendar | `holiday_date` | `holiday_name` (Central Government Gazetted holiday name; 2026 dates from the cited official calendar) |
 | AttendanceEvent | `attendance_id` | `assignment_id` (ShiftAssignment FK); `emp_id` (Employee FK); `attendance_status` (`Present`, `Late`, `Absent`); `check_in`, `check_out` (optional timestamps, null for absence; check-out follows check-in) |
 | CoverageRequirement | `requirement_id` | `date`; `template_id` (ShiftTemplate FK); `skill_id` (Skill FK); `min_staff_required` (positive integer) |
 | SwapRequest | `swap_id` | `requesting_emp_id`, `target_emp_id` (Employee FKs); `assignment_id` (ShiftAssignment FK); `status` (`Approved`, `Pending`, `Denied`) |
@@ -44,7 +44,8 @@ the calendar date on which the shift starts.
 
 ## Ground truth
 
-`ground_truth/ground_truth.csv` has exactly these columns:
+`ground_truth/ground_truth.csv` and `ground_truth/ground_truth.json` contain the same
+labelled records. Each has exactly these fields:
 
 | Column | Meaning |
 |---|---|
@@ -57,6 +58,8 @@ The five labels are `EMPLOYEE_DOUBLE_BOOKED`, `APPROVED_LEAVE_OVERLAP`,
 `SWAP_APPLIED_WITHOUT_APPROVAL`. The required-skill scenario raises a coverage shortfall
 for an existing date/template/skill requirement. This table has no `team_id` column, so
 coverage is represented by date, shift template, and skill across the workforce.
+The CSV and JSON files are independently exported, checksummed, and validated for exact
+record parity.
 
 ## Relationships and derived values
 
@@ -82,9 +85,11 @@ coverage is represented by date, shift template, and skill across the workforce.
   generated snapshot. LeaveRequest to LeaveRequestEvent and SwapRequest to
   SwapRequestEvent: 1:N append-only histories. CoverageRequirement to CoverageGap: 1:1
   derived result.
-- `HolidayCalendar.holiday_date` is a unique calendar key. Attendance punch timestamps are
-  null only when `attendance_status` is `Absent`; every generated assignment has one
-  attendance record.
+- `HolidayCalendar.holiday_date` is a unique calendar key. The 2026 Central Government
+  Gazetted dates are transcribed from the [National Portal of India Holiday Calendar](https://www.india.gov.in/calendar);
+  no restricted, state, or local holidays are included. See `manifest.json` for source
+  scope, retrieval date, and reuse-license note. Attendance punch timestamps are null only
+  when `attendance_status` is `Absent`; every generated assignment has one attendance record.
 - Baseline assignments avoid approved leave, avoid overlapping work, and stay at or below
   each employee's weekly cap. Explicitly injected exceptions are identified in ground truth.
 - Check-in and check-out timestamps are based on shift template start/end values.

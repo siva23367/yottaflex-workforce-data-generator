@@ -1,18 +1,22 @@
 [
   {
-    "holiday_date": "2026-01-01",
-    "holiday_name": "New Year Observance"
-  },
-  {
     "holiday_date": "2026-01-26",
-    "holiday_name": "Synthetic Holiday 1"
+    "holiday_name": "Republic Day"
   },
   {
-    "holiday_date": "2026-03-01",
-    "holiday_name": "Synthetic Holiday 2"
+    "holiday_date": "2026-03-04",
+    "holiday_name": "Holi"
   },
   {
-    "holiday_date": "2026-03-17",
-    "holiday_name": "Synthetic Holiday 3"
+    "holiday_date": "2026-03-21",
+    "holiday_name": "Id- ul- Fitr"
+  },
+  {
+    "holiday_date": "2026-03-26",
+    "holiday_name": "Ram Navami"
+  },
+  {
+    "holiday_date": "2026-03-31",
+    "holiday_name": "Mahavir Jayanti"
   }
 ]

@@ -1,0 +1,612 @@
+[
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000001",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-01-A-000338",
+    "issue_type": "EMPLOYEE_DOUBLE_BOOKED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-02-C-000041",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "COV-000005",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000006",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000013",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000014",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000015",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000016",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000021",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000022",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000023",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000029",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000030",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000031",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000037",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000039",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000045",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000046",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000053",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000054",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000055",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000056",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000061",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000062",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000063",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000069",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000070",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000071",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000077",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000079",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000085",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000086",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000093",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000094",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000095",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000096",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000101",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000102",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000103",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000109",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000111",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000117",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000118",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000119",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000125",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000126",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000133",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000134",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000135",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000136",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000141",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000142",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000143",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000149",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000150",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000151",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000157",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000158",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000159",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000165",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000166",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000173",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000174",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000175",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000181",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000182",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000183",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000189",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000191",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000197",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000198",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000199",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000205",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000206",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000208",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000213",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000214",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000215",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000221",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000222",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000223",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000224",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000229",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000230",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000231",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000237",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000239",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000245",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000246",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000248",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000253",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000254",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000255",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000261",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000262",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000263",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000269",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000270",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000271",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000277",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000279",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000285",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000286",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000293",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000294",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000295",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000301",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000302",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000303",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000309",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000310",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000311",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000317",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000319",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000325",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000326",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000333",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000334",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "COV-000335",
+    "issue_type": "REQUIRED_SKILL_ABSENT",
+    "table_name": "CoverageRequirement"
+  },
+  {
+    "entity_id": "SHIFT-2026-01-11-C-000257",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "table_name": "ShiftAssignment"
+  },
+  {
+    "entity_id": "SWP-2026-000001",
+    "issue_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "table_name": "SwapRequest"
+  }
+]

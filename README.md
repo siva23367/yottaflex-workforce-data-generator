@@ -44,13 +44,19 @@ always generated, including when the rate is zero.
 
 Each output directory contains a CSV and JSON file per table, including EmployeeSkill,
 shift/leave/swap event history and derived CoverageGap results, `ground_truth/ground_truth.csv`,
-`workforce_seed.sqlite`, `workforce_seed.sql`, and `manifest.json`. CSV/JSON records use
-the field names and identifiers defined in [`docs/data_dictionary.md`](./docs/data_dictionary.md).
+`ground_truth/ground_truth.json`, `workforce_seed.sqlite`, `workforce_seed.sql`, and
+`manifest.json`. CSV/JSON records use the field names and identifiers defined in
+[`docs/data_dictionary.md`](./docs/data_dictionary.md).
 The manifest records the seed, CSV row counts and SHA-256 checksums, derived dashboard
-metrics, and a source-provenance record. The source manifest identifies the output as fully
-synthetic, with no external sources or personal data. Ground truth contains only
-`table_name`, `entity_id`, and `issue_type`; no issue labels are mixed into ordinary entity
-rows.
+metrics, and a source-provenance record. Workforce records are synthetic; the Central
+Government Gazetted holidays in the 2026 schedule window are transcribed from the
+[National Portal of India Holiday Calendar](https://www.india.gov.in/calendar), which says
+its dates follow a Ministry of Personnel, Public Grievances and Pensions circular. The
+manifest identifies this external reference and its retrieval date. The calendar page did
+not identify an explicit reuse license, so the project transcribes only factual holiday
+names and dates. No personal data is used. Ground truth contains only `table_name`,
+`entity_id`, and `issue_type`; no issue labels are mixed into ordinary entity rows. The
+CSV and JSON ground-truth exports must match exactly and are validated as a pair.
 
 ## Generation pipeline
 
@@ -92,7 +98,7 @@ python -m pytest -q
 ```
 
 Run structural validation and execute the same generation workflow twice, comparing MD5
-checksums for each table's CSV and JSON payloads and the ground-truth CSV:
+checksums for each table's CSV and JSON payloads and both ground-truth exports:
 
 ```bash
 python validate.py --seed 20261022 --employees 40 --teams 4 \
@@ -101,7 +107,8 @@ python validate.py --seed 20261022 --employees 40 --teams 4 \
 
 The validator independently recomputes all five anomaly types from the records, and checks
 that ground truth labels every detected violation exactly once without unsupported labels.
-To audit exported CSVs, including a full-scale output directory:
+To audit exported tables and ground-truth CSV/JSON parity, including a full-scale output
+directory:
 
 ```bash
 python validate.py --check-output data/full
@@ -129,6 +136,8 @@ development, not public deployment.
 
 ## Synthetic-data limitations
 
-All names, leave decisions, attendance times, and holiday labels are synthetic. Holiday
-dates are illustrative placeholders, not an authoritative public calendar. This dataset
-is for development and evaluation, not an HR, payroll, or compliance system.
+All employees, teams, skills, leave decisions, and attendance times are synthetic. Holiday
+records are limited to Central Government Gazetted holidays listed for calendar year 2026;
+they are a cited reference calendar, not a substitute for state, restricted, local, or
+organization-specific calendars. This dataset is for development and evaluation, not an HR,
+payroll, or compliance system.
