@@ -110,6 +110,12 @@ python validate.py --check-output data/full
 Generation raises an error if structural validation fails. SQLite exports are additionally
 checked with `integrity_check` and `foreign_key_check`.
 
+## AI-use disclosure
+
+See [`docs/ai_usage.md`](./docs/ai_usage.md) for a draft AI-use disclosure and prompt-history
+summary. Review and personalize it before submission; it is a summary, not a raw prompt
+transcript.
+
 ## Optional local dashboard
 
 ```bash
