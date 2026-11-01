@@ -1,0 +1,6 @@
+.scenario-results{margin-top:13px;padding:14px;background:#f7faf7;border:1px solid #edf1ed;border-radius:10px}
+.scenario-results>strong{font:700 11px Manrope}
+#scenario-list{display:flex;flex-wrap:wrap;gap:7px;margin-top:10px}
+#scenario-list span{display:flex;align-items:center;gap:8px;padding:7px 9px;background:#fff;border:1px solid var(--line);border-radius:8px}
+#scenario-list code{font:9px 'DM Mono';color:var(--green)}
+#scenario-list b{font:700 10px 'DM Mono';color:var(--ink)}

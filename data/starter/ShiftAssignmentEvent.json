@@ -1,0 +1,3402 @@
+[
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000001",
+    "assignment_id": "SHIFT-2026-01-01-A-000001",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000002",
+    "assignment_id": "SHIFT-2026-01-01-A-000002",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000003",
+    "assignment_id": "SHIFT-2026-01-01-B-000003",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000004",
+    "assignment_id": "SHIFT-2026-01-01-B-000004",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000005",
+    "assignment_id": "SHIFT-2026-01-01-C-000005",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000006",
+    "assignment_id": "SHIFT-2026-01-01-C-000006",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000007",
+    "assignment_id": "SHIFT-2026-01-01-A-000007",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000008",
+    "assignment_id": "SHIFT-2026-01-01-A-000008",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000009",
+    "assignment_id": "SHIFT-2026-01-01-B-000009",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000010",
+    "assignment_id": "SHIFT-2026-01-01-B-000010",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000011",
+    "assignment_id": "SHIFT-2026-01-01-C-000011",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000012",
+    "assignment_id": "SHIFT-2026-01-01-C-000012",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000013",
+    "assignment_id": "SHIFT-2026-01-01-A-000013",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000014",
+    "assignment_id": "SHIFT-2026-01-01-A-000014",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000015",
+    "assignment_id": "SHIFT-2026-01-01-B-000015",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000016",
+    "assignment_id": "SHIFT-2026-01-01-B-000016",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000017",
+    "assignment_id": "SHIFT-2026-01-01-C-000017",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000018",
+    "assignment_id": "SHIFT-2026-01-01-C-000018",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000019",
+    "assignment_id": "SHIFT-2026-01-01-A-000019",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000020",
+    "assignment_id": "SHIFT-2026-01-01-A-000020",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000021",
+    "assignment_id": "SHIFT-2026-01-01-B-000021",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000012",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000022",
+    "assignment_id": "SHIFT-2026-01-01-B-000022",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000023",
+    "assignment_id": "SHIFT-2026-01-01-C-000023",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000024",
+    "assignment_id": "SHIFT-2026-01-01-C-000024",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000025",
+    "assignment_id": "SHIFT-2026-01-02-A-000025",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000026",
+    "assignment_id": "SHIFT-2026-01-02-A-000026",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000027",
+    "assignment_id": "SHIFT-2026-01-02-B-000027",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000028",
+    "assignment_id": "SHIFT-2026-01-02-B-000028",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000029",
+    "assignment_id": "SHIFT-2026-01-02-C-000029",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000030",
+    "assignment_id": "SHIFT-2026-01-02-C-000030",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000031",
+    "assignment_id": "SHIFT-2026-01-02-A-000031",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000032",
+    "assignment_id": "SHIFT-2026-01-02-A-000032",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000033",
+    "assignment_id": "SHIFT-2026-01-02-B-000033",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000034",
+    "assignment_id": "SHIFT-2026-01-02-B-000034",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000035",
+    "assignment_id": "SHIFT-2026-01-02-C-000035",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000036",
+    "assignment_id": "SHIFT-2026-01-02-C-000036",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000037",
+    "assignment_id": "SHIFT-2026-01-02-A-000037",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000038",
+    "assignment_id": "SHIFT-2026-01-02-A-000038",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000039",
+    "assignment_id": "SHIFT-2026-01-02-B-000039",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000040",
+    "assignment_id": "SHIFT-2026-01-02-B-000040",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000041",
+    "assignment_id": "SHIFT-2026-01-02-C-000041",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000042",
+    "assignment_id": "SHIFT-2026-01-02-C-000042",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000043",
+    "assignment_id": "SHIFT-2026-01-02-A-000043",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000044",
+    "assignment_id": "SHIFT-2026-01-02-A-000044",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000032",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000045",
+    "assignment_id": "SHIFT-2026-01-02-B-000045",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000046",
+    "assignment_id": "SHIFT-2026-01-02-B-000046",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000047",
+    "assignment_id": "SHIFT-2026-01-02-C-000047",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000048",
+    "assignment_id": "SHIFT-2026-01-02-C-000048",
+    "event_at": "2025-12-26T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000049",
+    "assignment_id": "SHIFT-2026-01-03-A-000049",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000050",
+    "assignment_id": "SHIFT-2026-01-03-A-000050",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000051",
+    "assignment_id": "SHIFT-2026-01-03-B-000051",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000052",
+    "assignment_id": "SHIFT-2026-01-03-B-000052",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000053",
+    "assignment_id": "SHIFT-2026-01-03-C-000053",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000054",
+    "assignment_id": "SHIFT-2026-01-03-C-000054",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000055",
+    "assignment_id": "SHIFT-2026-01-03-A-000055",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000056",
+    "assignment_id": "SHIFT-2026-01-03-A-000056",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000057",
+    "assignment_id": "SHIFT-2026-01-03-B-000057",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000058",
+    "assignment_id": "SHIFT-2026-01-03-B-000058",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000059",
+    "assignment_id": "SHIFT-2026-01-03-C-000059",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000060",
+    "assignment_id": "SHIFT-2026-01-03-C-000060",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000061",
+    "assignment_id": "SHIFT-2026-01-03-A-000061",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000062",
+    "assignment_id": "SHIFT-2026-01-03-A-000062",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000063",
+    "assignment_id": "SHIFT-2026-01-03-B-000063",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000064",
+    "assignment_id": "SHIFT-2026-01-03-B-000064",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000065",
+    "assignment_id": "SHIFT-2026-01-03-C-000065",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000066",
+    "assignment_id": "SHIFT-2026-01-03-C-000066",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000067",
+    "assignment_id": "SHIFT-2026-01-03-A-000067",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000012",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000068",
+    "assignment_id": "SHIFT-2026-01-03-A-000068",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000069",
+    "assignment_id": "SHIFT-2026-01-03-B-000069",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000070",
+    "assignment_id": "SHIFT-2026-01-03-B-000070",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000071",
+    "assignment_id": "SHIFT-2026-01-03-C-000071",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000072",
+    "assignment_id": "SHIFT-2026-01-03-C-000072",
+    "event_at": "2025-12-27T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000032",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000073",
+    "assignment_id": "SHIFT-2026-01-04-A-000073",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000074",
+    "assignment_id": "SHIFT-2026-01-04-A-000074",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000075",
+    "assignment_id": "SHIFT-2026-01-04-B-000075",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000076",
+    "assignment_id": "SHIFT-2026-01-04-B-000076",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000077",
+    "assignment_id": "SHIFT-2026-01-04-C-000077",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000078",
+    "assignment_id": "SHIFT-2026-01-04-C-000078",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000079",
+    "assignment_id": "SHIFT-2026-01-04-A-000079",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000080",
+    "assignment_id": "SHIFT-2026-01-04-A-000080",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000081",
+    "assignment_id": "SHIFT-2026-01-04-B-000081",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000082",
+    "assignment_id": "SHIFT-2026-01-04-B-000082",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000083",
+    "assignment_id": "SHIFT-2026-01-04-C-000083",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000084",
+    "assignment_id": "SHIFT-2026-01-04-C-000084",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000085",
+    "assignment_id": "SHIFT-2026-01-04-A-000085",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000086",
+    "assignment_id": "SHIFT-2026-01-04-A-000086",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000087",
+    "assignment_id": "SHIFT-2026-01-04-B-000087",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000088",
+    "assignment_id": "SHIFT-2026-01-04-B-000088",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000089",
+    "assignment_id": "SHIFT-2026-01-04-C-000089",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000090",
+    "assignment_id": "SHIFT-2026-01-04-C-000090",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000091",
+    "assignment_id": "SHIFT-2026-01-04-A-000091",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000092",
+    "assignment_id": "SHIFT-2026-01-04-A-000092",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000093",
+    "assignment_id": "SHIFT-2026-01-04-B-000093",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000094",
+    "assignment_id": "SHIFT-2026-01-04-B-000094",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000095",
+    "assignment_id": "SHIFT-2026-01-04-C-000095",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000012",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000096",
+    "assignment_id": "SHIFT-2026-01-04-C-000096",
+    "event_at": "2025-12-28T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000097",
+    "assignment_id": "SHIFT-2026-01-05-A-000097",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000098",
+    "assignment_id": "SHIFT-2026-01-05-A-000098",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000099",
+    "assignment_id": "SHIFT-2026-01-05-B-000099",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000100",
+    "assignment_id": "SHIFT-2026-01-05-B-000100",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000101",
+    "assignment_id": "SHIFT-2026-01-05-C-000101",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000102",
+    "assignment_id": "SHIFT-2026-01-05-C-000102",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000103",
+    "assignment_id": "SHIFT-2026-01-05-A-000103",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000104",
+    "assignment_id": "SHIFT-2026-01-05-A-000104",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000105",
+    "assignment_id": "SHIFT-2026-01-05-B-000105",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000106",
+    "assignment_id": "SHIFT-2026-01-05-B-000106",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000107",
+    "assignment_id": "SHIFT-2026-01-05-C-000107",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000108",
+    "assignment_id": "SHIFT-2026-01-05-C-000108",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000109",
+    "assignment_id": "SHIFT-2026-01-05-A-000109",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000110",
+    "assignment_id": "SHIFT-2026-01-05-A-000110",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000111",
+    "assignment_id": "SHIFT-2026-01-05-B-000111",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000112",
+    "assignment_id": "SHIFT-2026-01-05-B-000112",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000113",
+    "assignment_id": "SHIFT-2026-01-05-C-000113",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000114",
+    "assignment_id": "SHIFT-2026-01-05-C-000114",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000115",
+    "assignment_id": "SHIFT-2026-01-05-A-000115",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000116",
+    "assignment_id": "SHIFT-2026-01-05-A-000116",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000117",
+    "assignment_id": "SHIFT-2026-01-05-B-000117",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000118",
+    "assignment_id": "SHIFT-2026-01-05-B-000118",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000032",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000119",
+    "assignment_id": "SHIFT-2026-01-05-C-000119",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000120",
+    "assignment_id": "SHIFT-2026-01-05-C-000120",
+    "event_at": "2025-12-29T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000121",
+    "assignment_id": "SHIFT-2026-01-06-A-000121",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000025",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000122",
+    "assignment_id": "SHIFT-2026-01-06-A-000122",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000123",
+    "assignment_id": "SHIFT-2026-01-06-B-000123",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000124",
+    "assignment_id": "SHIFT-2026-01-06-B-000124",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000125",
+    "assignment_id": "SHIFT-2026-01-06-C-000125",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000126",
+    "assignment_id": "SHIFT-2026-01-06-C-000126",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000127",
+    "assignment_id": "SHIFT-2026-01-06-A-000127",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000128",
+    "assignment_id": "SHIFT-2026-01-06-A-000128",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000129",
+    "assignment_id": "SHIFT-2026-01-06-B-000129",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000130",
+    "assignment_id": "SHIFT-2026-01-06-B-000130",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000131",
+    "assignment_id": "SHIFT-2026-01-06-C-000131",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000132",
+    "assignment_id": "SHIFT-2026-01-06-C-000132",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000133",
+    "assignment_id": "SHIFT-2026-01-06-A-000133",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000134",
+    "assignment_id": "SHIFT-2026-01-06-A-000134",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000135",
+    "assignment_id": "SHIFT-2026-01-06-B-000135",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000136",
+    "assignment_id": "SHIFT-2026-01-06-B-000136",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000137",
+    "assignment_id": "SHIFT-2026-01-06-C-000137",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000138",
+    "assignment_id": "SHIFT-2026-01-06-C-000138",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000139",
+    "assignment_id": "SHIFT-2026-01-06-A-000139",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000140",
+    "assignment_id": "SHIFT-2026-01-06-A-000140",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000141",
+    "assignment_id": "SHIFT-2026-01-06-B-000141",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000012",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000142",
+    "assignment_id": "SHIFT-2026-01-06-B-000142",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000143",
+    "assignment_id": "SHIFT-2026-01-06-C-000143",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000144",
+    "assignment_id": "SHIFT-2026-01-06-C-000144",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000145",
+    "assignment_id": "SHIFT-2026-01-07-A-000145",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000025",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000146",
+    "assignment_id": "SHIFT-2026-01-07-A-000146",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000147",
+    "assignment_id": "SHIFT-2026-01-07-B-000147",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000148",
+    "assignment_id": "SHIFT-2026-01-07-B-000148",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000149",
+    "assignment_id": "SHIFT-2026-01-07-C-000149",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000150",
+    "assignment_id": "SHIFT-2026-01-07-C-000150",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000151",
+    "assignment_id": "SHIFT-2026-01-07-A-000151",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000152",
+    "assignment_id": "SHIFT-2026-01-07-A-000152",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000153",
+    "assignment_id": "SHIFT-2026-01-07-B-000153",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000154",
+    "assignment_id": "SHIFT-2026-01-07-B-000154",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000155",
+    "assignment_id": "SHIFT-2026-01-07-C-000155",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000156",
+    "assignment_id": "SHIFT-2026-01-07-C-000156",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000157",
+    "assignment_id": "SHIFT-2026-01-07-A-000157",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000158",
+    "assignment_id": "SHIFT-2026-01-07-A-000158",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000159",
+    "assignment_id": "SHIFT-2026-01-07-B-000159",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000160",
+    "assignment_id": "SHIFT-2026-01-07-B-000160",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000161",
+    "assignment_id": "SHIFT-2026-01-07-C-000161",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000162",
+    "assignment_id": "SHIFT-2026-01-07-C-000162",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000163",
+    "assignment_id": "SHIFT-2026-01-07-A-000163",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000164",
+    "assignment_id": "SHIFT-2026-01-07-A-000164",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000165",
+    "assignment_id": "SHIFT-2026-01-07-B-000165",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000166",
+    "assignment_id": "SHIFT-2026-01-07-B-000166",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000167",
+    "assignment_id": "SHIFT-2026-01-07-C-000167",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000168",
+    "assignment_id": "SHIFT-2026-01-07-C-000168",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000012",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000169",
+    "assignment_id": "SHIFT-2026-01-08-A-000169",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000170",
+    "assignment_id": "SHIFT-2026-01-08-A-000170",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000025",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000171",
+    "assignment_id": "SHIFT-2026-01-08-B-000171",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000172",
+    "assignment_id": "SHIFT-2026-01-08-B-000172",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000173",
+    "assignment_id": "SHIFT-2026-01-08-C-000173",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000174",
+    "assignment_id": "SHIFT-2026-01-08-C-000174",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000175",
+    "assignment_id": "SHIFT-2026-01-08-A-000175",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000176",
+    "assignment_id": "SHIFT-2026-01-08-A-000176",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000177",
+    "assignment_id": "SHIFT-2026-01-08-B-000177",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000178",
+    "assignment_id": "SHIFT-2026-01-08-B-000178",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000179",
+    "assignment_id": "SHIFT-2026-01-08-C-000179",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000180",
+    "assignment_id": "SHIFT-2026-01-08-C-000180",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000181",
+    "assignment_id": "SHIFT-2026-01-08-A-000181",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000182",
+    "assignment_id": "SHIFT-2026-01-08-A-000182",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000183",
+    "assignment_id": "SHIFT-2026-01-08-B-000183",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000184",
+    "assignment_id": "SHIFT-2026-01-08-B-000184",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000185",
+    "assignment_id": "SHIFT-2026-01-08-C-000185",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000186",
+    "assignment_id": "SHIFT-2026-01-08-C-000186",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000187",
+    "assignment_id": "SHIFT-2026-01-08-A-000187",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000188",
+    "assignment_id": "SHIFT-2026-01-08-A-000188",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000189",
+    "assignment_id": "SHIFT-2026-01-08-B-000189",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000190",
+    "assignment_id": "SHIFT-2026-01-08-B-000190",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000191",
+    "assignment_id": "SHIFT-2026-01-08-C-000191",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000192",
+    "assignment_id": "SHIFT-2026-01-08-C-000192",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000193",
+    "assignment_id": "SHIFT-2026-01-09-A-000193",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000194",
+    "assignment_id": "SHIFT-2026-01-09-A-000194",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000195",
+    "assignment_id": "SHIFT-2026-01-09-B-000195",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000196",
+    "assignment_id": "SHIFT-2026-01-09-B-000196",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000197",
+    "assignment_id": "SHIFT-2026-01-09-C-000197",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000198",
+    "assignment_id": "SHIFT-2026-01-09-C-000198",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000025",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000199",
+    "assignment_id": "SHIFT-2026-01-09-A-000199",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000200",
+    "assignment_id": "SHIFT-2026-01-09-A-000200",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000201",
+    "assignment_id": "SHIFT-2026-01-09-B-000201",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000202",
+    "assignment_id": "SHIFT-2026-01-09-B-000202",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000203",
+    "assignment_id": "SHIFT-2026-01-09-C-000203",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000204",
+    "assignment_id": "SHIFT-2026-01-09-C-000204",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000205",
+    "assignment_id": "SHIFT-2026-01-09-A-000205",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000206",
+    "assignment_id": "SHIFT-2026-01-09-A-000206",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000207",
+    "assignment_id": "SHIFT-2026-01-09-B-000207",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000208",
+    "assignment_id": "SHIFT-2026-01-09-B-000208",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000209",
+    "assignment_id": "SHIFT-2026-01-09-C-000209",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000210",
+    "assignment_id": "SHIFT-2026-01-09-C-000210",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000211",
+    "assignment_id": "SHIFT-2026-01-09-A-000211",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000212",
+    "assignment_id": "SHIFT-2026-01-09-A-000212",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000213",
+    "assignment_id": "SHIFT-2026-01-09-B-000213",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000214",
+    "assignment_id": "SHIFT-2026-01-09-B-000214",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000215",
+    "assignment_id": "SHIFT-2026-01-09-C-000215",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000216",
+    "assignment_id": "SHIFT-2026-01-09-C-000216",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000217",
+    "assignment_id": "SHIFT-2026-01-10-A-000217",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000218",
+    "assignment_id": "SHIFT-2026-01-10-A-000218",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000219",
+    "assignment_id": "SHIFT-2026-01-10-B-000219",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000220",
+    "assignment_id": "SHIFT-2026-01-10-B-000220",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000221",
+    "assignment_id": "SHIFT-2026-01-10-C-000221",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000222",
+    "assignment_id": "SHIFT-2026-01-10-C-000222",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000223",
+    "assignment_id": "SHIFT-2026-01-10-A-000223",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000224",
+    "assignment_id": "SHIFT-2026-01-10-A-000224",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000225",
+    "assignment_id": "SHIFT-2026-01-10-B-000225",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000226",
+    "assignment_id": "SHIFT-2026-01-10-B-000226",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000227",
+    "assignment_id": "SHIFT-2026-01-10-C-000227",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000228",
+    "assignment_id": "SHIFT-2026-01-10-C-000228",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000229",
+    "assignment_id": "SHIFT-2026-01-10-A-000229",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000230",
+    "assignment_id": "SHIFT-2026-01-10-A-000230",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000231",
+    "assignment_id": "SHIFT-2026-01-10-B-000231",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000232",
+    "assignment_id": "SHIFT-2026-01-10-B-000232",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000233",
+    "assignment_id": "SHIFT-2026-01-10-C-000233",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000234",
+    "assignment_id": "SHIFT-2026-01-10-C-000234",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000235",
+    "assignment_id": "SHIFT-2026-01-10-A-000235",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000032",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000236",
+    "assignment_id": "SHIFT-2026-01-10-A-000236",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000237",
+    "assignment_id": "SHIFT-2026-01-10-B-000237",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000238",
+    "assignment_id": "SHIFT-2026-01-10-B-000238",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000239",
+    "assignment_id": "SHIFT-2026-01-10-C-000239",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000240",
+    "assignment_id": "SHIFT-2026-01-10-C-000240",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000241",
+    "assignment_id": "SHIFT-2026-01-11-A-000241",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000242",
+    "assignment_id": "SHIFT-2026-01-11-A-000242",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000243",
+    "assignment_id": "SHIFT-2026-01-11-B-000243",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000244",
+    "assignment_id": "SHIFT-2026-01-11-B-000244",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000245",
+    "assignment_id": "SHIFT-2026-01-11-C-000245",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000025",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000246",
+    "assignment_id": "SHIFT-2026-01-11-C-000246",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000247",
+    "assignment_id": "SHIFT-2026-01-11-A-000247",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000248",
+    "assignment_id": "SHIFT-2026-01-11-A-000248",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000249",
+    "assignment_id": "SHIFT-2026-01-11-B-000249",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000250",
+    "assignment_id": "SHIFT-2026-01-11-B-000250",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000251",
+    "assignment_id": "SHIFT-2026-01-11-C-000251",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000252",
+    "assignment_id": "SHIFT-2026-01-11-C-000252",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000253",
+    "assignment_id": "SHIFT-2026-01-11-A-000253",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000254",
+    "assignment_id": "SHIFT-2026-01-11-A-000254",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000255",
+    "assignment_id": "SHIFT-2026-01-11-B-000255",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000256",
+    "assignment_id": "SHIFT-2026-01-11-B-000256",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000257",
+    "assignment_id": "SHIFT-2026-01-11-C-000257",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000258",
+    "assignment_id": "SHIFT-2026-01-11-C-000258",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000259",
+    "assignment_id": "SHIFT-2026-01-11-A-000259",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000032",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000260",
+    "assignment_id": "SHIFT-2026-01-11-A-000260",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000261",
+    "assignment_id": "SHIFT-2026-01-11-B-000261",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000262",
+    "assignment_id": "SHIFT-2026-01-11-B-000262",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000263",
+    "assignment_id": "SHIFT-2026-01-11-C-000263",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000264",
+    "assignment_id": "SHIFT-2026-01-11-C-000264",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000265",
+    "assignment_id": "SHIFT-2026-01-12-A-000265",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000025",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000266",
+    "assignment_id": "SHIFT-2026-01-12-A-000266",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000267",
+    "assignment_id": "SHIFT-2026-01-12-B-000267",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000268",
+    "assignment_id": "SHIFT-2026-01-12-B-000268",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000269",
+    "assignment_id": "SHIFT-2026-01-12-C-000269",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000270",
+    "assignment_id": "SHIFT-2026-01-12-C-000270",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000271",
+    "assignment_id": "SHIFT-2026-01-12-A-000271",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000272",
+    "assignment_id": "SHIFT-2026-01-12-A-000272",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000273",
+    "assignment_id": "SHIFT-2026-01-12-B-000273",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000274",
+    "assignment_id": "SHIFT-2026-01-12-B-000274",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000275",
+    "assignment_id": "SHIFT-2026-01-12-C-000275",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000276",
+    "assignment_id": "SHIFT-2026-01-12-C-000276",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000277",
+    "assignment_id": "SHIFT-2026-01-12-A-000277",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000278",
+    "assignment_id": "SHIFT-2026-01-12-A-000278",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000279",
+    "assignment_id": "SHIFT-2026-01-12-B-000279",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000280",
+    "assignment_id": "SHIFT-2026-01-12-B-000280",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000281",
+    "assignment_id": "SHIFT-2026-01-12-C-000281",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000282",
+    "assignment_id": "SHIFT-2026-01-12-C-000282",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000283",
+    "assignment_id": "SHIFT-2026-01-12-A-000283",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000032",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000284",
+    "assignment_id": "SHIFT-2026-01-12-A-000284",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000285",
+    "assignment_id": "SHIFT-2026-01-12-B-000285",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000286",
+    "assignment_id": "SHIFT-2026-01-12-B-000286",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000287",
+    "assignment_id": "SHIFT-2026-01-12-C-000287",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000288",
+    "assignment_id": "SHIFT-2026-01-12-C-000288",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000289",
+    "assignment_id": "SHIFT-2026-01-13-A-000289",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000290",
+    "assignment_id": "SHIFT-2026-01-13-A-000290",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000017",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000291",
+    "assignment_id": "SHIFT-2026-01-13-B-000291",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000292",
+    "assignment_id": "SHIFT-2026-01-13-B-000292",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000029",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000293",
+    "assignment_id": "SHIFT-2026-01-13-C-000293",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000025",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000294",
+    "assignment_id": "SHIFT-2026-01-13-C-000294",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000033",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000295",
+    "assignment_id": "SHIFT-2026-01-13-A-000295",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000296",
+    "assignment_id": "SHIFT-2026-01-13-A-000296",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000014",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000297",
+    "assignment_id": "SHIFT-2026-01-13-B-000297",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000298",
+    "assignment_id": "SHIFT-2026-01-13-B-000298",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000022",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000299",
+    "assignment_id": "SHIFT-2026-01-13-C-000299",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000026",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000300",
+    "assignment_id": "SHIFT-2026-01-13-C-000300",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000030",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000301",
+    "assignment_id": "SHIFT-2026-01-13-A-000301",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000302",
+    "assignment_id": "SHIFT-2026-01-13-A-000302",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000303",
+    "assignment_id": "SHIFT-2026-01-13-B-000303",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000023",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000304",
+    "assignment_id": "SHIFT-2026-01-13-B-000304",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000027",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000305",
+    "assignment_id": "SHIFT-2026-01-13-C-000305",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000306",
+    "assignment_id": "SHIFT-2026-01-13-C-000306",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000031",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000307",
+    "assignment_id": "SHIFT-2026-01-13-A-000307",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000012",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000308",
+    "assignment_id": "SHIFT-2026-01-13-A-000308",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000309",
+    "assignment_id": "SHIFT-2026-01-13-B-000309",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000036",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000310",
+    "assignment_id": "SHIFT-2026-01-13-B-000310",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000040",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000311",
+    "assignment_id": "SHIFT-2026-01-13-C-000311",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000032",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000312",
+    "assignment_id": "SHIFT-2026-01-13-C-000312",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000313",
+    "assignment_id": "SHIFT-2026-01-14-A-000313",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000037",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000314",
+    "assignment_id": "SHIFT-2026-01-14-A-000314",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000001",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000315",
+    "assignment_id": "SHIFT-2026-01-14-B-000315",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000005",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000316",
+    "assignment_id": "SHIFT-2026-01-14-B-000316",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000317",
+    "assignment_id": "SHIFT-2026-01-14-C-000317",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000013",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000318",
+    "assignment_id": "SHIFT-2026-01-14-C-000318",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000021",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000319",
+    "assignment_id": "SHIFT-2026-01-14-A-000319",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000034",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000320",
+    "assignment_id": "SHIFT-2026-01-14-A-000320",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000038",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000321",
+    "assignment_id": "SHIFT-2026-01-14-B-000321",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000002",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000322",
+    "assignment_id": "SHIFT-2026-01-14-B-000322",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000006",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000323",
+    "assignment_id": "SHIFT-2026-01-14-C-000323",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000010",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000324",
+    "assignment_id": "SHIFT-2026-01-14-C-000324",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000018",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000325",
+    "assignment_id": "SHIFT-2026-01-14-A-000325",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000035",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000326",
+    "assignment_id": "SHIFT-2026-01-14-A-000326",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000039",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000327",
+    "assignment_id": "SHIFT-2026-01-14-B-000327",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000003",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000328",
+    "assignment_id": "SHIFT-2026-01-14-B-000328",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000007",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000329",
+    "assignment_id": "SHIFT-2026-01-14-C-000329",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000015",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000330",
+    "assignment_id": "SHIFT-2026-01-14-C-000330",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000019",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000331",
+    "assignment_id": "SHIFT-2026-01-14-A-000331",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000012",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000332",
+    "assignment_id": "SHIFT-2026-01-14-A-000332",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000008",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000333",
+    "assignment_id": "SHIFT-2026-01-14-B-000333",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000016",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000334",
+    "assignment_id": "SHIFT-2026-01-14-B-000334",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000020",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000335",
+    "assignment_id": "SHIFT-2026-01-14-C-000335",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000024",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000336",
+    "assignment_id": "SHIFT-2026-01-14-C-000336",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000028",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000337",
+    "assignment_id": "SHIFT-2026-01-07-B-000337",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000011",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  },
+  {
+    "actor": "SYSTEM",
+    "assignment_event_id": "SAE-0000338",
+    "assignment_id": "SHIFT-2026-01-01-B-000021",
+    "event_at": "2026-01-01T06:00:00",
+    "event_type": "SWAP_APPLIED_WITHOUT_APPROVAL",
+    "new_emp_id": "EMP-000004",
+    "previous_emp_id": "EMP-000012",
+    "related_swap_id": "SWP-2026-000001"
+  },
+  {
+    "actor": "SYSTEM",
+    "assignment_event_id": "SAE-0000339",
+    "assignment_id": "SHIFT-2026-01-01-A-000001",
+    "event_at": "2026-01-01T06:00:00",
+    "event_type": "SWAP_APPLIED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": "EMP-000001",
+    "related_swap_id": "SWP-2026-000002"
+  },
+  {
+    "actor": "SCHEDULER",
+    "assignment_event_id": "SAE-0000340",
+    "assignment_id": "SHIFT-2026-01-01-A-000338",
+    "event_at": "2025-12-25T09:00:00",
+    "event_type": "ASSIGNED",
+    "new_emp_id": "EMP-000009",
+    "previous_emp_id": null,
+    "related_swap_id": null
+  }
+]

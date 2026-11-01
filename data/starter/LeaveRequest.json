@@ -1,0 +1,212 @@
+[
+  {
+    "emp_id": "EMP-000003",
+    "end_date": "2026-01-02",
+    "leave_id": "LVE-2026-000001",
+    "start_date": "2026-01-02",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000033",
+    "end_date": "2026-01-05",
+    "leave_id": "LVE-2026-000002",
+    "start_date": "2026-01-04",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000011",
+    "end_date": "2026-01-06",
+    "leave_id": "LVE-2026-000003",
+    "start_date": "2026-01-02",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000030",
+    "end_date": "2026-01-09",
+    "leave_id": "LVE-2026-000004",
+    "start_date": "2026-01-08",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000026",
+    "end_date": "2026-01-07",
+    "leave_id": "LVE-2026-000005",
+    "start_date": "2026-01-04",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000017",
+    "end_date": "2026-01-08",
+    "leave_id": "LVE-2026-000006",
+    "start_date": "2026-01-05",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000034",
+    "end_date": "2026-01-06",
+    "leave_id": "LVE-2026-000007",
+    "start_date": "2026-01-06",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000018",
+    "end_date": "2026-01-08",
+    "leave_id": "LVE-2026-000008",
+    "start_date": "2026-01-06",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000031",
+    "end_date": "2026-01-14",
+    "leave_id": "LVE-2026-000009",
+    "start_date": "2026-01-12",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000026",
+    "end_date": "2026-01-10",
+    "leave_id": "LVE-2026-000010",
+    "start_date": "2026-01-09",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000017",
+    "end_date": "2026-01-11",
+    "leave_id": "LVE-2026-000011",
+    "start_date": "2026-01-07",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000020",
+    "end_date": "2026-01-02",
+    "leave_id": "LVE-2026-000012",
+    "start_date": "2026-01-02",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000009",
+    "end_date": "2026-01-09",
+    "leave_id": "LVE-2026-000013",
+    "start_date": "2026-01-06",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000014",
+    "end_date": "2026-01-14",
+    "leave_id": "LVE-2026-000014",
+    "start_date": "2026-01-14",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000038",
+    "end_date": "2026-01-02",
+    "leave_id": "LVE-2026-000015",
+    "start_date": "2026-01-01",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000038",
+    "end_date": "2026-01-03",
+    "leave_id": "LVE-2026-000016",
+    "start_date": "2026-01-02",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000018",
+    "end_date": "2026-01-13",
+    "leave_id": "LVE-2026-000017",
+    "start_date": "2026-01-13",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000004",
+    "end_date": "2026-01-12",
+    "leave_id": "LVE-2026-000018",
+    "start_date": "2026-01-11",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000025",
+    "end_date": "2026-01-05",
+    "leave_id": "LVE-2026-000019",
+    "start_date": "2026-01-02",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000024",
+    "end_date": "2026-01-09",
+    "leave_id": "LVE-2026-000020",
+    "start_date": "2026-01-08",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000001",
+    "end_date": "2026-01-01",
+    "leave_id": "LVE-2026-000021",
+    "start_date": "2026-01-01",
+    "status": "Pending"
+  },
+  {
+    "emp_id": "EMP-000032",
+    "end_date": "2026-01-09",
+    "leave_id": "LVE-2026-000022",
+    "start_date": "2026-01-07",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000005",
+    "end_date": "2026-01-07",
+    "leave_id": "LVE-2026-000023",
+    "start_date": "2026-01-07",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000009",
+    "end_date": "2026-01-04",
+    "leave_id": "LVE-2026-000024",
+    "start_date": "2026-01-01",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000017",
+    "end_date": "2026-01-14",
+    "leave_id": "LVE-2026-000025",
+    "start_date": "2026-01-14",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000012",
+    "end_date": "2026-01-12",
+    "leave_id": "LVE-2026-000026",
+    "start_date": "2026-01-09",
+    "status": "Approved"
+  },
+  {
+    "emp_id": "EMP-000003",
+    "end_date": "2026-01-13",
+    "leave_id": "LVE-2026-000027",
+    "start_date": "2026-01-09",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000033",
+    "end_date": "2026-01-12",
+    "leave_id": "LVE-2026-000028",
+    "start_date": "2026-01-12",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000014",
+    "end_date": "2026-01-10",
+    "leave_id": "LVE-2026-000029",
+    "start_date": "2026-01-09",
+    "status": "Rejected"
+  },
+  {
+    "emp_id": "EMP-000021",
+    "end_date": "2026-01-08",
+    "leave_id": "LVE-2026-000030",
+    "start_date": "2026-01-08",
+    "status": "Approved"
+  }
+]

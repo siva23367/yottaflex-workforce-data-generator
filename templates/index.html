@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>YottaFlex | Workforce Data Studio</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='metrics.css') }}">
+</head>
+<body>
+<header class="topbar"><div class="brand"><span class="brandmark">Y</span><div><strong>YottaFlex</strong><small>WORKFORCE DATA STUDIO</small></div></div><span class="local-tag">LOCAL DEVELOPMENT</span></header>
+<main class="wrap">
+<section class="hero"><div><p class="eyebrow">SYNTHETIC DATA GENERATOR</p><h1>Workforce operations,<br><em>made observable.</em></h1><p class="sub">Configure a dataset, run the scheduling generator, inspect validation and download its outputs.</p></div><div class="hero-stat"><span class="pulse"></span><span>Generator ready</span><strong>v1.0</strong></div></section>
+<section class="layout">
+<div class="panel config"><div class="panel-head"><div><p class="eyebrow">01 / CONFIGURATION</p><h2>Generate dataset</h2></div><span class="tag">Python engine</span></div>
+<form id="generate-form">
+<div class="field-grid">
+<label>Random seed<input type="number" id="seed" value="20261022" required></label>
+<label>Employees<input type="number" id="employees" value="2000" min="1" max="10000" required></label>
+<label>Teams<input type="number" id="teams" value="100" min="1" required></label>
+<label>Scheduling days<input type="number" id="days" value="90" min="1" max="365" required></label>
+<label>Leave requests<input type="number" id="leaves" value="5000" min="0" max="100000" required></label>
+<label>Anomaly rate (%)<input type="number" id="anomaly_rate" value="1" min="0" max="5" step="0.1" required></label>
+</div>
+<div class="hint">Challenge defaults are prefilled. Use a smaller employee/team/day count for a quick test.</div>
+<button id="run-btn" type="submit"><span>▶</span> Generate workforce data</button>
+<div id="progress" class="progress hidden"><div class="spinner"></div><div><strong>Generating and validating…</strong><small>Large datasets can take a little while. Keep this tab open.</small></div></div>
+<div id="error" class="error hidden"></div>
+</form></div>
+<div class="panel summary"><div class="panel-head"><div><p class="eyebrow">02 / SYSTEM STATUS</p><h2>Run overview</h2></div><span id="status-pill" class="status">Waiting</span></div>
+<div class="metric-grid"><div class="metric"><small>Employees</small><strong id="m-employees">—</strong></div><div class="metric"><small>Teams</small><strong id="m-teams">—</strong></div><div class="metric"><small>Shift assignments</small><strong id="m-assignments">—</strong></div><div class="metric"><small>Leave requests</small><strong id="m-leaves">—</strong></div><div class="metric"><small>Coverage gaps</small><strong id="m-gaps">—</strong></div><div class="metric"><small>Absent events</small><strong id="m-absences">—</strong></div><div class="metric"><small>Scheduled OT hours</small><strong id="m-scheduled-overtime">—</strong></div><div class="metric"><small>Worked OT hours</small><strong id="m-actual-overtime">—</strong></div><div class="metric"><small>Ground-truth cases</small><strong id="m-truth">—</strong></div></div>
+<div class="validation"><div><span class="check">✓</span><div><strong id="validation-title">Waiting for first run</strong><small id="validation-detail">Validation summary will appear here.</small></div></div><span id="error-count" class="count">—</span></div>
+<div id="scenario-results" class="scenario-results hidden"><strong>Known exceptions</strong><div id="scenario-list"></div></div>
+</div>
+</section>
+<section class="panel downloads"><div class="panel-head"><div><p class="eyebrow">03 / OUTPUTS</p><h2>Generated files</h2></div><button class="secondary" id="refresh-files" type="button">Refresh files ↻</button></div><div id="file-list" class="file-list empty">Run the generator to make downloadable files.</div></section>
+<footer><span>YottaFlex workforce generator</span><span>Runs locally · Synthetic data only</span></footer>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const number = n => Number(n || 0).toLocaleString('en-IN');
+const hours = n => n == null ? '—' : Number(n).toLocaleString('en-IN', {maximumFractionDigits:2});
+function showResult(data) {
+ const rows = data.rows || {};
+ $('m-employees').textContent = number(rows.Employee);
+ $('m-teams').textContent = number(rows.Team);
+ $('m-assignments').textContent = number(rows.ShiftAssignment);
+ $('m-leaves').textContent = number(rows.LeaveRequest);
+ $('m-gaps').textContent = number(data.coverage_gap_count ?? rows.CoverageGap);
+ $('m-absences').textContent = number((data.metrics || {}).absence_count);
+ const metrics = data.metrics || {};
+ $('m-scheduled-overtime').textContent = hours(metrics.total_scheduled_overtime_hours ?? metrics.total_overtime_hours);
+ $('m-actual-overtime').textContent = hours(metrics.total_actual_overtime_hours);
+ $('m-truth').textContent = number(data.ground_truth);
+ const ok = data.valid && !(data.validation_errors || []).length;
+ $('status-pill').textContent = ok ? 'Valid run' : 'Review required';
+ $('status-pill').className = 'status ' + (ok ? 'good' : 'bad');
+ $('validation-title').textContent = ok ? 'Validation completed' : 'Validation found issues';
+ $('validation-detail').textContent = ok ? `No validation errors. Coverage shortfall: ${number(data.coverage_shortfall_total ?? 0)} staff slots.` : (data.validation_errors || []).join('; ');
+ $('error-count').textContent = number((data.validation_errors || []).length) + ' errors';
+ const scenarioCounts = (data.metrics || {}).scenario_counts || {};
+ const scenarios = Object.entries(scenarioCounts);
+ $('scenario-results').classList.toggle('hidden', scenarios.length === 0);
+ $('scenario-list').innerHTML = scenarios.map(([label, count]) => `<span><code>${label}</code><b>${number(count)}</b></span>`).join('');
+}
+async function loadFiles() {
+ const r = await fetch('/api/files'); const d = await r.json();
+ const el = $('file-list');
+ if (!d.files.length) { el.className='file-list empty'; el.textContent='No generated files yet. Run the generator first.'; return; }
+ el.className='file-list';
+ el.innerHTML = d.files.map(f => `<div class="file"><div class="file-icon">${f.name.endsWith('.csv')?'CSV':f.name.endsWith('.json')?'JSON':f.name.endsWith('.sqlite')?'DB':f.name.endsWith('.sql')?'SQL':'DOC'}</div><div class="file-name"><strong>${f.name}</strong><small>${(f.size/1024).toFixed(1)} KB</small></div><a href="/download/${f.name.split('/').map(encodeURIComponent).join('/')}">Download ↓</a></div>`).join('');
+}
+$('generate-form').addEventListener('submit', async e => {
+ e.preventDefault(); $('error').classList.add('hidden'); $('progress').classList.remove('hidden'); $('run-btn').disabled=true;
+ const payload = {seed:$('seed').value, employees:$('employees').value, teams:$('teams').value, days:$('days').value, leaves:$('leaves').value, anomaly_rate:Number($('anomaly_rate').value)/100};
+ try {
+  const response = await fetch('/api/generate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
+  const data = await response.json();
+  if (!response.ok || !data.ok) throw new Error(data.error || 'Generation or validation failed.');
+  showResult(data.result); await loadFiles();
+ } catch(err) { $('error').textContent=err.message; $('error').classList.remove('hidden'); }
+ finally { $('progress').classList.add('hidden'); $('run-btn').disabled=false; }
+});
+$('refresh-files').addEventListener('click', loadFiles);
+(async()=>{try{const r=await fetch('/api/status');const d=await r.json();if(d.manifest){const t=d.manifest.tables||{};const metrics=d.manifest.metrics||{};const rows={};for(const [k,v] of Object.entries(t)){if(k.endsWith('.csv')&&!k.startsWith('ground_truth/'))rows[k.slice(0,-4)]=v.rows;}showResult({rows,ground_truth:d.manifest.ground_truth_rows,metrics,coverage_gap_count:metrics.coverage_gap_count,coverage_shortfall_total:metrics.coverage_shortfall_total,valid:true,validation_errors:[]});}await loadFiles();}catch(e){}})();
+</script>
+</body></html>

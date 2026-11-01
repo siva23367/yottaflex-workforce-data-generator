@@ -1,0 +1,2706 @@
+[
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000001",
+    "attendance_id": "ATT-EMP-000009-20260101T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:05:00",
+    "check_out": "2026-01-01T14:10:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000002",
+    "attendance_id": "ATT-EMP-000005-20260101T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:00:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000003",
+    "attendance_id": "ATT-EMP-000009-20260101T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:00:00",
+    "check_out": "2026-01-01T22:00:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000004",
+    "attendance_id": "ATT-EMP-000013-20260101T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:00:00",
+    "check_out": "2026-01-01T22:15:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000005",
+    "attendance_id": "ATT-EMP-000017-20260101T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T22:00:00",
+    "check_out": "2026-01-02T06:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000006",
+    "attendance_id": "ATT-EMP-000021-20260101T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T22:00:00",
+    "check_out": "2026-01-02T06:05:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000007",
+    "attendance_id": "ATT-EMP-000002-20260101T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-01T06:00:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000008",
+    "attendance_id": "ATT-EMP-000006-20260101T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:15:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000009",
+    "attendance_id": "ATT-EMP-000010-20260101T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:00:00",
+    "check_out": "2026-01-01T22:00:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000010",
+    "attendance_id": "ATT-EMP-000014-20260101T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:00:00",
+    "check_out": "2026-01-01T22:00:00",
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000011",
+    "attendance_id": "ATT-EMP-000018-20260101T220000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000012",
+    "attendance_id": "ATT-EMP-000022-20260101T220000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-01T22:00:00",
+    "check_out": "2026-01-02T06:00:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000013",
+    "attendance_id": "ATT-EMP-000003-20260101T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:00:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000014",
+    "attendance_id": "ATT-EMP-000007-20260101T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:00:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000015",
+    "attendance_id": "ATT-EMP-000011-20260101T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:00:00",
+    "check_out": "2026-01-01T22:00:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000016",
+    "attendance_id": "ATT-EMP-000015-20260101T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:00:00",
+    "check_out": "2026-01-01T22:00:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000017",
+    "attendance_id": "ATT-EMP-000019-20260101T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T22:00:00",
+    "check_out": "2026-01-02T06:00:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000018",
+    "attendance_id": "ATT-EMP-000023-20260101T220000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000019",
+    "attendance_id": "ATT-EMP-000004-20260101T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:00:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000020",
+    "attendance_id": "ATT-EMP-000008-20260101T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:00:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000021",
+    "attendance_id": "ATT-EMP-000004-20260101T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:10:00",
+    "check_out": "2026-01-01T22:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000022",
+    "attendance_id": "ATT-EMP-000016-20260101T141500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T14:15:00",
+    "check_out": "2026-01-01T22:00:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000023",
+    "attendance_id": "ATT-EMP-000020-20260101T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T22:00:00",
+    "check_out": "2026-01-02T06:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000024",
+    "attendance_id": "ATT-EMP-000024-20260101T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T22:00:00",
+    "check_out": "2026-01-02T06:00:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000025",
+    "attendance_id": "ATT-EMP-000029-20260102T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T06:10:00",
+    "check_out": "2026-01-02T14:10:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000026",
+    "attendance_id": "ATT-EMP-000033-20260102T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T06:05:00",
+    "check_out": "2026-01-02T14:00:00",
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000027",
+    "attendance_id": "ATT-EMP-000037-20260102T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T14:00:00",
+    "check_out": "2026-01-02T22:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000028",
+    "attendance_id": "ATT-EMP-000001-20260102T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T14:00:00",
+    "check_out": "2026-01-02T22:00:00",
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000029",
+    "attendance_id": "ATT-EMP-000005-20260102T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T22:00:00",
+    "check_out": "2026-01-03T06:10:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000030",
+    "attendance_id": "ATT-EMP-000009-20260102T220000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-02T22:00:00",
+    "check_out": "2026-01-03T06:15:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000031",
+    "attendance_id": "ATT-EMP-000026-20260102T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-02T06:00:00",
+    "check_out": "2026-01-02T14:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000032",
+    "attendance_id": "ATT-EMP-000030-20260102T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T06:00:00",
+    "check_out": "2026-01-02T14:00:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000033",
+    "attendance_id": "ATT-EMP-000034-20260102T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T14:00:00",
+    "check_out": "2026-01-02T22:00:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000034",
+    "attendance_id": "ATT-EMP-000038-20260102T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T14:10:00",
+    "check_out": "2026-01-02T22:05:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000035",
+    "attendance_id": "ATT-EMP-000002-20260102T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T22:05:00",
+    "check_out": "2026-01-03T06:15:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000036",
+    "attendance_id": "ATT-EMP-000006-20260102T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T22:00:00",
+    "check_out": "2026-01-03T06:00:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000037",
+    "attendance_id": "ATT-EMP-000027-20260102T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T06:00:00",
+    "check_out": "2026-01-02T14:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000038",
+    "attendance_id": "ATT-EMP-000031-20260102T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T06:00:00",
+    "check_out": "2026-01-02T14:00:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000039",
+    "attendance_id": "ATT-EMP-000035-20260102T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T14:00:00",
+    "check_out": "2026-01-02T22:00:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000040",
+    "attendance_id": "ATT-EMP-000039-20260102T140000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-02T14:00:00",
+    "check_out": "2026-01-02T22:00:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000041",
+    "attendance_id": "ATT-EMP-000003-20260102T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T22:05:00",
+    "check_out": "2026-01-03T06:00:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000042",
+    "attendance_id": "ATT-EMP-000007-20260102T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T22:00:00",
+    "check_out": "2026-01-03T06:00:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000043",
+    "attendance_id": "ATT-EMP-000028-20260102T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T06:05:00",
+    "check_out": "2026-01-02T14:00:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000044",
+    "attendance_id": "ATT-EMP-000032-20260102T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T06:00:00",
+    "check_out": "2026-01-02T14:10:00",
+    "emp_id": "EMP-000032"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000045",
+    "attendance_id": "ATT-EMP-000036-20260102T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T14:00:00",
+    "check_out": "2026-01-02T22:10:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000046",
+    "attendance_id": "ATT-EMP-000040-20260102T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T14:00:00",
+    "check_out": "2026-01-02T22:15:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000047",
+    "attendance_id": "ATT-EMP-000004-20260102T221500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T22:15:00",
+    "check_out": "2026-01-03T06:05:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000048",
+    "attendance_id": "ATT-EMP-000008-20260102T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-02T22:10:00",
+    "check_out": "2026-01-03T06:10:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000049",
+    "attendance_id": "ATT-EMP-000013-20260103T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T06:00:00",
+    "check_out": "2026-01-03T14:00:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000050",
+    "attendance_id": "ATT-EMP-000017-20260103T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T06:05:00",
+    "check_out": "2026-01-03T14:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000051",
+    "attendance_id": "ATT-EMP-000021-20260103T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:10:00",
+    "check_out": "2026-01-03T22:15:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000052",
+    "attendance_id": "ATT-EMP-000029-20260103T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:00:00",
+    "check_out": "2026-01-03T22:00:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000053",
+    "attendance_id": "ATT-EMP-000033-20260103T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T22:00:00",
+    "check_out": "2026-01-04T06:10:00",
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000054",
+    "attendance_id": "ATT-EMP-000037-20260103T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T22:00:00",
+    "check_out": "2026-01-04T06:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000055",
+    "attendance_id": "ATT-EMP-000010-20260103T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T06:15:00",
+    "check_out": "2026-01-03T14:15:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000056",
+    "attendance_id": "ATT-EMP-000014-20260103T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T06:00:00",
+    "check_out": "2026-01-03T14:00:00",
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000057",
+    "attendance_id": "ATT-EMP-000018-20260103T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:00:00",
+    "check_out": "2026-01-03T22:10:00",
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000058",
+    "attendance_id": "ATT-EMP-000022-20260103T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:00:00",
+    "check_out": "2026-01-03T22:10:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000059",
+    "attendance_id": "ATT-EMP-000026-20260103T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T22:10:00",
+    "check_out": "2026-01-04T06:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000060",
+    "attendance_id": "ATT-EMP-000030-20260103T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T22:00:00",
+    "check_out": "2026-01-04T06:00:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000061",
+    "attendance_id": "ATT-EMP-000015-20260103T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T06:00:00",
+    "check_out": "2026-01-03T14:00:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000062",
+    "attendance_id": "ATT-EMP-000019-20260103T061500",
+    "attendance_status": "Late",
+    "check_in": "2026-01-03T06:15:00",
+    "check_out": "2026-01-03T14:00:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000063",
+    "attendance_id": "ATT-EMP-000023-20260103T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:00:00",
+    "check_out": "2026-01-03T22:00:00",
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000064",
+    "attendance_id": "ATT-EMP-000027-20260103T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:00:00",
+    "check_out": "2026-01-03T22:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000065",
+    "attendance_id": "ATT-EMP-000031-20260103T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T22:00:00",
+    "check_out": "2026-01-04T06:00:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000066",
+    "attendance_id": "ATT-EMP-000035-20260103T220500",
+    "attendance_status": "Late",
+    "check_in": "2026-01-03T22:05:00",
+    "check_out": "2026-01-04T06:10:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000067",
+    "attendance_id": "ATT-EMP-000012-20260103T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T06:05:00",
+    "check_out": "2026-01-03T14:00:00",
+    "emp_id": "EMP-000012"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-000068",
+    "attendance_id": "ATT-EMP-000016-20260103T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T06:05:00",
+    "check_out": "2026-01-03T14:05:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000069",
+    "attendance_id": "ATT-EMP-000020-20260103T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:00:00",
+    "check_out": "2026-01-03T22:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-000070",
+    "attendance_id": "ATT-EMP-000024-20260103T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T14:00:00",
+    "check_out": "2026-01-03T22:00:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000071",
+    "attendance_id": "ATT-EMP-000028-20260103T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T22:00:00",
+    "check_out": "2026-01-04T06:00:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-000072",
+    "attendance_id": "ATT-EMP-000032-20260103T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-03T22:00:00",
+    "check_out": "2026-01-04T06:00:00",
+    "emp_id": "EMP-000032"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000073",
+    "attendance_id": "ATT-EMP-000001-20260104T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:00:00",
+    "check_out": "2026-01-04T14:05:00",
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000074",
+    "attendance_id": "ATT-EMP-000005-20260104T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:00:00",
+    "check_out": "2026-01-04T14:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000075",
+    "attendance_id": "ATT-EMP-000009-20260104T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T14:00:00",
+    "check_out": "2026-01-04T22:00:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000076",
+    "attendance_id": "ATT-EMP-000013-20260104T140500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T14:05:00",
+    "check_out": "2026-01-04T22:00:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000077",
+    "attendance_id": "ATT-EMP-000017-20260104T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T22:00:00",
+    "check_out": "2026-01-05T06:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000078",
+    "attendance_id": "ATT-EMP-000021-20260104T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T22:00:00",
+    "check_out": "2026-01-05T06:05:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000079",
+    "attendance_id": "ATT-EMP-000034-20260104T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:05:00",
+    "check_out": "2026-01-04T14:15:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000080",
+    "attendance_id": "ATT-EMP-000038-20260104T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:00:00",
+    "check_out": "2026-01-04T14:00:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000081",
+    "attendance_id": "ATT-EMP-000002-20260104T140000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-04T14:00:00",
+    "check_out": "2026-01-04T22:00:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000082",
+    "attendance_id": "ATT-EMP-000006-20260104T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T14:00:00",
+    "check_out": "2026-01-04T22:10:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000083",
+    "attendance_id": "ATT-EMP-000010-20260104T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T22:00:00",
+    "check_out": "2026-01-05T06:00:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000084",
+    "attendance_id": "ATT-EMP-000014-20260104T220000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000085",
+    "attendance_id": "ATT-EMP-000039-20260104T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:00:00",
+    "check_out": "2026-01-04T14:00:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000086",
+    "attendance_id": "ATT-EMP-000003-20260104T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:00:00",
+    "check_out": "2026-01-04T14:00:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000087",
+    "attendance_id": "ATT-EMP-000007-20260104T140500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T14:05:00",
+    "check_out": "2026-01-04T22:10:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000088",
+    "attendance_id": "ATT-EMP-000015-20260104T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T14:00:00",
+    "check_out": "2026-01-04T22:00:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000089",
+    "attendance_id": "ATT-EMP-000019-20260104T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T22:00:00",
+    "check_out": "2026-01-05T06:00:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000090",
+    "attendance_id": "ATT-EMP-000023-20260104T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T22:00:00",
+    "check_out": "2026-01-05T06:00:00",
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000091",
+    "attendance_id": "ATT-EMP-000036-20260104T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:10:00",
+    "check_out": "2026-01-04T14:00:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-000092",
+    "attendance_id": "ATT-EMP-000040-20260104T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T06:00:00",
+    "check_out": "2026-01-04T14:00:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000093",
+    "attendance_id": "ATT-EMP-000004-20260104T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T14:00:00",
+    "check_out": "2026-01-04T22:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-000094",
+    "attendance_id": "ATT-EMP-000008-20260104T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T14:00:00",
+    "check_out": "2026-01-04T22:00:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000095",
+    "attendance_id": "ATT-EMP-000012-20260104T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T22:00:00",
+    "check_out": "2026-01-05T06:10:00",
+    "emp_id": "EMP-000012"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-000096",
+    "attendance_id": "ATT-EMP-000016-20260104T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-04T22:00:00",
+    "check_out": "2026-01-05T06:00:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000097",
+    "attendance_id": "ATT-EMP-000029-20260105T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T06:00:00",
+    "check_out": "2026-01-05T14:00:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000098",
+    "attendance_id": "ATT-EMP-000033-20260105T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T06:15:00",
+    "check_out": "2026-01-05T14:10:00",
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000099",
+    "attendance_id": "ATT-EMP-000037-20260105T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:00:00",
+    "check_out": "2026-01-05T22:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000100",
+    "attendance_id": "ATT-EMP-000001-20260105T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:10:00",
+    "check_out": "2026-01-05T22:10:00",
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000101",
+    "attendance_id": "ATT-EMP-000005-20260105T221000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-05T22:10:00",
+    "check_out": "2026-01-06T06:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000102",
+    "attendance_id": "ATT-EMP-000009-20260105T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T22:05:00",
+    "check_out": "2026-01-06T06:00:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000103",
+    "attendance_id": "ATT-EMP-000018-20260105T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T06:00:00",
+    "check_out": "2026-01-05T14:10:00",
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000104",
+    "attendance_id": "ATT-EMP-000022-20260105T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T06:00:00",
+    "check_out": "2026-01-05T14:00:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000105",
+    "attendance_id": "ATT-EMP-000026-20260105T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:00:00",
+    "check_out": "2026-01-05T22:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000106",
+    "attendance_id": "ATT-EMP-000030-20260105T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:10:00",
+    "check_out": "2026-01-05T22:00:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000107",
+    "attendance_id": "ATT-EMP-000034-20260105T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T22:00:00",
+    "check_out": "2026-01-06T06:15:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000108",
+    "attendance_id": "ATT-EMP-000038-20260105T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T22:10:00",
+    "check_out": "2026-01-06T06:00:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000109",
+    "attendance_id": "ATT-EMP-000027-20260105T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T06:10:00",
+    "check_out": "2026-01-05T14:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000110",
+    "attendance_id": "ATT-EMP-000031-20260105T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T06:00:00",
+    "check_out": "2026-01-05T14:05:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000111",
+    "attendance_id": "ATT-EMP-000035-20260105T140500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:05:00",
+    "check_out": "2026-01-05T22:05:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000112",
+    "attendance_id": "ATT-EMP-000039-20260105T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:00:00",
+    "check_out": "2026-01-05T22:00:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000113",
+    "attendance_id": "ATT-EMP-000003-20260105T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T22:10:00",
+    "check_out": "2026-01-06T06:00:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000114",
+    "attendance_id": "ATT-EMP-000007-20260105T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T22:00:00",
+    "check_out": "2026-01-06T06:05:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000115",
+    "attendance_id": "ATT-EMP-000020-20260105T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-05T06:00:00",
+    "check_out": "2026-01-05T14:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-000116",
+    "attendance_id": "ATT-EMP-000024-20260105T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T06:00:00",
+    "check_out": "2026-01-05T14:00:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000117",
+    "attendance_id": "ATT-EMP-000028-20260105T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:00:00",
+    "check_out": "2026-01-05T22:15:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-000118",
+    "attendance_id": "ATT-EMP-000032-20260105T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T14:00:00",
+    "check_out": "2026-01-05T22:00:00",
+    "emp_id": "EMP-000032"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000119",
+    "attendance_id": "ATT-EMP-000036-20260105T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T22:00:00",
+    "check_out": "2026-01-06T06:00:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-000120",
+    "attendance_id": "ATT-EMP-000040-20260105T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-05T22:00:00",
+    "check_out": "2026-01-06T06:00:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000121",
+    "attendance_id": "ATT-EMP-000025-20260106T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T06:00:00",
+    "check_out": "2026-01-06T14:05:00",
+    "emp_id": "EMP-000025"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000122",
+    "attendance_id": "ATT-EMP-000013-20260106T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-06T06:00:00",
+    "check_out": "2026-01-06T14:00:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000123",
+    "attendance_id": "ATT-EMP-000017-20260106T140500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:05:00",
+    "check_out": "2026-01-06T22:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000124",
+    "attendance_id": "ATT-EMP-000021-20260106T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:00:00",
+    "check_out": "2026-01-06T22:15:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000125",
+    "attendance_id": "ATT-EMP-000029-20260106T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:00:00",
+    "check_out": "2026-01-07T06:00:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000126",
+    "attendance_id": "ATT-EMP-000033-20260106T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:00:00",
+    "check_out": "2026-01-07T06:00:00",
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000127",
+    "attendance_id": "ATT-EMP-000002-20260106T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T06:00:00",
+    "check_out": "2026-01-06T14:05:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000128",
+    "attendance_id": "ATT-EMP-000006-20260106T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T06:00:00",
+    "check_out": "2026-01-06T14:10:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000129",
+    "attendance_id": "ATT-EMP-000010-20260106T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:00:00",
+    "check_out": "2026-01-06T22:00:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000130",
+    "attendance_id": "ATT-EMP-000014-20260106T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:00:00",
+    "check_out": "2026-01-06T22:00:00",
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000131",
+    "attendance_id": "ATT-EMP-000018-20260106T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:05:00",
+    "check_out": "2026-01-07T06:05:00",
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000132",
+    "attendance_id": "ATT-EMP-000022-20260106T221500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:15:00",
+    "check_out": "2026-01-07T06:00:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000133",
+    "attendance_id": "ATT-EMP-000015-20260106T060000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000134",
+    "attendance_id": "ATT-EMP-000019-20260106T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T06:10:00",
+    "check_out": "2026-01-06T14:00:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000135",
+    "attendance_id": "ATT-EMP-000023-20260106T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:00:00",
+    "check_out": "2026-01-06T22:00:00",
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000136",
+    "attendance_id": "ATT-EMP-000027-20260106T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:00:00",
+    "check_out": "2026-01-06T22:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000137",
+    "attendance_id": "ATT-EMP-000031-20260106T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:00:00",
+    "check_out": "2026-01-07T06:00:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000138",
+    "attendance_id": "ATT-EMP-000035-20260106T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:10:00",
+    "check_out": "2026-01-07T06:15:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000139",
+    "attendance_id": "ATT-EMP-000004-20260106T060000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-A-000140",
+    "attendance_id": "ATT-EMP-000008-20260106T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T06:05:00",
+    "check_out": "2026-01-06T14:00:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000141",
+    "attendance_id": "ATT-EMP-000012-20260106T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:00:00",
+    "check_out": "2026-01-06T22:00:00",
+    "emp_id": "EMP-000012"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-B-000142",
+    "attendance_id": "ATT-EMP-000016-20260106T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T14:00:00",
+    "check_out": "2026-01-06T22:15:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000143",
+    "attendance_id": "ATT-EMP-000020-20260106T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:00:00",
+    "check_out": "2026-01-07T06:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-06-C-000144",
+    "attendance_id": "ATT-EMP-000024-20260106T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-06T22:10:00",
+    "check_out": "2026-01-07T06:05:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000145",
+    "attendance_id": "ATT-EMP-000025-20260107T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T06:00:00",
+    "check_out": "2026-01-07T14:00:00",
+    "emp_id": "EMP-000025"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000146",
+    "attendance_id": "ATT-EMP-000037-20260107T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T06:00:00",
+    "check_out": "2026-01-07T14:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000147",
+    "attendance_id": "ATT-EMP-000001-20260107T140000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000148",
+    "attendance_id": "ATT-EMP-000009-20260107T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T14:00:00",
+    "check_out": "2026-01-07T22:00:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000149",
+    "attendance_id": "ATT-EMP-000013-20260107T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:00:00",
+    "check_out": "2026-01-08T06:00:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000150",
+    "attendance_id": "ATT-EMP-000017-20260107T221500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:15:00",
+    "check_out": "2026-01-08T06:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000151",
+    "attendance_id": "ATT-EMP-000026-20260107T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-07T06:00:00",
+    "check_out": "2026-01-07T14:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000152",
+    "attendance_id": "ATT-EMP-000030-20260107T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T06:00:00",
+    "check_out": "2026-01-07T14:10:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000153",
+    "attendance_id": "ATT-EMP-000034-20260107T140500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T14:05:00",
+    "check_out": "2026-01-07T22:05:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000154",
+    "attendance_id": "ATT-EMP-000038-20260107T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T14:00:00",
+    "check_out": "2026-01-07T22:10:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000155",
+    "attendance_id": "ATT-EMP-000002-20260107T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:00:00",
+    "check_out": "2026-01-08T06:10:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000156",
+    "attendance_id": "ATT-EMP-000006-20260107T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:00:00",
+    "check_out": "2026-01-08T06:00:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000157",
+    "attendance_id": "ATT-EMP-000011-20260107T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T06:00:00",
+    "check_out": "2026-01-07T14:15:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000158",
+    "attendance_id": "ATT-EMP-000039-20260107T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T06:15:00",
+    "check_out": "2026-01-07T14:15:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000159",
+    "attendance_id": "ATT-EMP-000003-20260107T140000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-07T14:00:00",
+    "check_out": "2026-01-07T22:05:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000160",
+    "attendance_id": "ATT-EMP-000007-20260107T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T14:00:00",
+    "check_out": "2026-01-07T22:15:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000161",
+    "attendance_id": "ATT-EMP-000015-20260107T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:00:00",
+    "check_out": "2026-01-08T06:00:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000162",
+    "attendance_id": "ATT-EMP-000019-20260107T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:00:00",
+    "check_out": "2026-01-08T06:00:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000163",
+    "attendance_id": "ATT-EMP-000028-20260107T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-07T06:00:00",
+    "check_out": "2026-01-07T14:10:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-A-000164",
+    "attendance_id": "ATT-EMP-000036-20260107T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T06:10:00",
+    "check_out": "2026-01-07T14:10:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000165",
+    "attendance_id": "ATT-EMP-000040-20260107T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T14:00:00",
+    "check_out": "2026-01-07T22:00:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000166",
+    "attendance_id": "ATT-EMP-000004-20260107T141500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T14:15:00",
+    "check_out": "2026-01-07T22:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000167",
+    "attendance_id": "ATT-EMP-000008-20260107T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:10:00",
+    "check_out": "2026-01-08T06:00:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-C-000168",
+    "attendance_id": "ATT-EMP-000012-20260107T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T22:00:00",
+    "check_out": "2026-01-08T06:00:00",
+    "emp_id": "EMP-000012"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000169",
+    "attendance_id": "ATT-EMP-000005-20260108T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-08T06:00:00",
+    "check_out": "2026-01-08T14:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000170",
+    "attendance_id": "ATT-EMP-000025-20260108T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T06:00:00",
+    "check_out": "2026-01-08T14:00:00",
+    "emp_id": "EMP-000025"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000171",
+    "attendance_id": "ATT-EMP-000029-20260108T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:00:00",
+    "check_out": "2026-01-08T22:10:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000172",
+    "attendance_id": "ATT-EMP-000033-20260108T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:00:00",
+    "check_out": "2026-01-08T22:00:00",
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000173",
+    "attendance_id": "ATT-EMP-000037-20260108T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T22:00:00",
+    "check_out": "2026-01-09T06:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000174",
+    "attendance_id": "ATT-EMP-000001-20260108T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T22:00:00",
+    "check_out": "2026-01-09T06:00:00",
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000175",
+    "attendance_id": "ATT-EMP-000010-20260108T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T06:00:00",
+    "check_out": "2026-01-08T14:05:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000176",
+    "attendance_id": "ATT-EMP-000014-20260108T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T06:05:00",
+    "check_out": "2026-01-08T14:10:00",
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000177",
+    "attendance_id": "ATT-EMP-000018-20260108T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:10:00",
+    "check_out": "2026-01-08T22:10:00",
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000178",
+    "attendance_id": "ATT-EMP-000022-20260108T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:00:00",
+    "check_out": "2026-01-08T22:00:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000179",
+    "attendance_id": "ATT-EMP-000026-20260108T220500",
+    "attendance_status": "Late",
+    "check_in": "2026-01-08T22:05:00",
+    "check_out": "2026-01-09T06:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000180",
+    "attendance_id": "ATT-EMP-000030-20260108T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T22:00:00",
+    "check_out": "2026-01-09T06:00:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000181",
+    "attendance_id": "ATT-EMP-000011-20260108T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T06:00:00",
+    "check_out": "2026-01-08T14:00:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000182",
+    "attendance_id": "ATT-EMP-000023-20260108T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T06:00:00",
+    "check_out": "2026-01-08T14:00:00",
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000183",
+    "attendance_id": "ATT-EMP-000027-20260108T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:00:00",
+    "check_out": "2026-01-08T22:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000184",
+    "attendance_id": "ATT-EMP-000031-20260108T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:00:00",
+    "check_out": "2026-01-08T22:00:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000185",
+    "attendance_id": "ATT-EMP-000035-20260108T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T22:00:00",
+    "check_out": "2026-01-09T06:15:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000186",
+    "attendance_id": "ATT-EMP-000039-20260108T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T22:00:00",
+    "check_out": "2026-01-09T06:05:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000187",
+    "attendance_id": "ATT-EMP-000016-20260108T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T06:10:00",
+    "check_out": "2026-01-08T14:10:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-A-000188",
+    "attendance_id": "ATT-EMP-000020-20260108T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T06:15:00",
+    "check_out": "2026-01-08T14:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000189",
+    "attendance_id": "ATT-EMP-000024-20260108T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:00:00",
+    "check_out": "2026-01-08T22:00:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-B-000190",
+    "attendance_id": "ATT-EMP-000028-20260108T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T14:00:00",
+    "check_out": "2026-01-08T22:00:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000191",
+    "attendance_id": "ATT-EMP-000036-20260108T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T22:00:00",
+    "check_out": "2026-01-09T06:00:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-08-C-000192",
+    "attendance_id": "ATT-EMP-000040-20260108T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-08T22:10:00",
+    "check_out": "2026-01-09T06:10:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000193",
+    "attendance_id": "ATT-EMP-000021-20260109T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:10:00",
+    "check_out": "2026-01-09T14:00:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000194",
+    "attendance_id": "ATT-EMP-000005-20260109T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:10:00",
+    "check_out": "2026-01-09T14:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000195",
+    "attendance_id": "ATT-EMP-000009-20260109T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T14:00:00",
+    "check_out": "2026-01-09T22:00:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000196",
+    "attendance_id": "ATT-EMP-000013-20260109T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T14:10:00",
+    "check_out": "2026-01-09T22:05:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000197",
+    "attendance_id": "ATT-EMP-000017-20260109T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:00:00",
+    "check_out": "2026-01-10T06:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000198",
+    "attendance_id": "ATT-EMP-000025-20260109T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:10:00",
+    "check_out": "2026-01-10T06:00:00",
+    "emp_id": "EMP-000025"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000199",
+    "attendance_id": "ATT-EMP-000034-20260109T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:00:00",
+    "check_out": "2026-01-09T14:00:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000200",
+    "attendance_id": "ATT-EMP-000038-20260109T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:00:00",
+    "check_out": "2026-01-09T14:00:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000201",
+    "attendance_id": "ATT-EMP-000002-20260109T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T14:00:00",
+    "check_out": "2026-01-09T22:00:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000202",
+    "attendance_id": "ATT-EMP-000006-20260109T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T14:00:00",
+    "check_out": "2026-01-09T22:00:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000203",
+    "attendance_id": "ATT-EMP-000010-20260109T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:10:00",
+    "check_out": "2026-01-10T06:00:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000204",
+    "attendance_id": "ATT-EMP-000014-20260109T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:00:00",
+    "check_out": "2026-01-10T06:00:00",
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000205",
+    "attendance_id": "ATT-EMP-000011-20260109T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:00:00",
+    "check_out": "2026-01-09T14:00:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000206",
+    "attendance_id": "ATT-EMP-000003-20260109T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:00:00",
+    "check_out": "2026-01-09T14:15:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000207",
+    "attendance_id": "ATT-EMP-000007-20260109T140000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000208",
+    "attendance_id": "ATT-EMP-000015-20260109T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T14:00:00",
+    "check_out": "2026-01-09T22:05:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000209",
+    "attendance_id": "ATT-EMP-000019-20260109T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:05:00",
+    "check_out": "2026-01-10T06:00:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000210",
+    "attendance_id": "ATT-EMP-000023-20260109T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:00:00",
+    "check_out": "2026-01-10T06:00:00",
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000211",
+    "attendance_id": "ATT-EMP-000004-20260109T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:00:00",
+    "check_out": "2026-01-09T14:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-A-000212",
+    "attendance_id": "ATT-EMP-000008-20260109T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T06:00:00",
+    "check_out": "2026-01-09T14:05:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000213",
+    "attendance_id": "ATT-EMP-000016-20260109T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T14:00:00",
+    "check_out": "2026-01-09T22:00:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-B-000214",
+    "attendance_id": "ATT-EMP-000020-20260109T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T14:00:00",
+    "check_out": "2026-01-09T22:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000215",
+    "attendance_id": "ATT-EMP-000024-20260109T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:00:00",
+    "check_out": "2026-01-10T06:10:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-09-C-000216",
+    "attendance_id": "ATT-EMP-000028-20260109T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-09T22:00:00",
+    "check_out": "2026-01-10T06:00:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000217",
+    "attendance_id": "ATT-EMP-000021-20260110T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:00:00",
+    "check_out": "2026-01-10T14:00:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000218",
+    "attendance_id": "ATT-EMP-000029-20260110T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:00:00",
+    "check_out": "2026-01-10T14:00:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000219",
+    "attendance_id": "ATT-EMP-000033-20260110T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:00:00",
+    "check_out": "2026-01-10T22:00:00",
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000220",
+    "attendance_id": "ATT-EMP-000037-20260110T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:00:00",
+    "check_out": "2026-01-10T22:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000221",
+    "attendance_id": "ATT-EMP-000001-20260110T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:10:00",
+    "check_out": "2026-01-11T06:00:00",
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000222",
+    "attendance_id": "ATT-EMP-000005-20260110T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:00:00",
+    "check_out": "2026-01-11T06:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000223",
+    "attendance_id": "ATT-EMP-000018-20260110T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:00:00",
+    "check_out": "2026-01-10T14:10:00",
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000224",
+    "attendance_id": "ATT-EMP-000022-20260110T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:05:00",
+    "check_out": "2026-01-10T14:00:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000225",
+    "attendance_id": "ATT-EMP-000026-20260110T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:10:00",
+    "check_out": "2026-01-10T22:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000226",
+    "attendance_id": "ATT-EMP-000030-20260110T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:00:00",
+    "check_out": "2026-01-10T22:05:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000227",
+    "attendance_id": "ATT-EMP-000034-20260110T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:00:00",
+    "check_out": "2026-01-11T06:05:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000228",
+    "attendance_id": "ATT-EMP-000038-20260110T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:00:00",
+    "check_out": "2026-01-11T06:00:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000229",
+    "attendance_id": "ATT-EMP-000011-20260110T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:05:00",
+    "check_out": "2026-01-10T14:00:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000230",
+    "attendance_id": "ATT-EMP-000027-20260110T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:00:00",
+    "check_out": "2026-01-10T14:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000231",
+    "attendance_id": "ATT-EMP-000031-20260110T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:00:00",
+    "check_out": "2026-01-10T22:00:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000232",
+    "attendance_id": "ATT-EMP-000035-20260110T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:00:00",
+    "check_out": "2026-01-10T22:10:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000233",
+    "attendance_id": "ATT-EMP-000039-20260110T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:00:00",
+    "check_out": "2026-01-11T06:00:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000234",
+    "attendance_id": "ATT-EMP-000003-20260110T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:00:00",
+    "check_out": "2026-01-11T06:15:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000235",
+    "attendance_id": "ATT-EMP-000032-20260110T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:00:00",
+    "check_out": "2026-01-10T14:00:00",
+    "emp_id": "EMP-000032"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-A-000236",
+    "attendance_id": "ATT-EMP-000036-20260110T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T06:10:00",
+    "check_out": "2026-01-10T14:00:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000237",
+    "attendance_id": "ATT-EMP-000040-20260110T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:00:00",
+    "check_out": "2026-01-10T22:00:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-B-000238",
+    "attendance_id": "ATT-EMP-000004-20260110T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T14:00:00",
+    "check_out": "2026-01-10T22:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000239",
+    "attendance_id": "ATT-EMP-000008-20260110T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:00:00",
+    "check_out": "2026-01-11T06:00:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-10-C-000240",
+    "attendance_id": "ATT-EMP-000016-20260110T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-10T22:00:00",
+    "check_out": "2026-01-11T06:15:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000241",
+    "attendance_id": "ATT-EMP-000009-20260111T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T06:00:00",
+    "check_out": "2026-01-11T14:00:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000242",
+    "attendance_id": "ATT-EMP-000013-20260111T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T06:05:00",
+    "check_out": "2026-01-11T14:00:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000243",
+    "attendance_id": "ATT-EMP-000017-20260111T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:10:00",
+    "check_out": "2026-01-11T22:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000244",
+    "attendance_id": "ATT-EMP-000021-20260111T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:10:00",
+    "check_out": "2026-01-11T22:15:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000245",
+    "attendance_id": "ATT-EMP-000025-20260111T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T22:00:00",
+    "check_out": "2026-01-12T06:00:00",
+    "emp_id": "EMP-000025"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000246",
+    "attendance_id": "ATT-EMP-000029-20260111T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T22:10:00",
+    "check_out": "2026-01-12T06:00:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000247",
+    "attendance_id": "ATT-EMP-000002-20260111T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T06:00:00",
+    "check_out": "2026-01-11T14:00:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000248",
+    "attendance_id": "ATT-EMP-000006-20260111T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T06:15:00",
+    "check_out": "2026-01-11T14:10:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000249",
+    "attendance_id": "ATT-EMP-000010-20260111T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:10:00",
+    "check_out": "2026-01-11T22:00:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000250",
+    "attendance_id": "ATT-EMP-000014-20260111T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:00:00",
+    "check_out": "2026-01-11T22:00:00",
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000251",
+    "attendance_id": "ATT-EMP-000018-20260111T220000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000252",
+    "attendance_id": "ATT-EMP-000022-20260111T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T22:10:00",
+    "check_out": "2026-01-12T06:00:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000253",
+    "attendance_id": "ATT-EMP-000007-20260111T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T06:05:00",
+    "check_out": "2026-01-11T14:00:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000254",
+    "attendance_id": "ATT-EMP-000015-20260111T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T06:00:00",
+    "check_out": "2026-01-11T14:00:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000255",
+    "attendance_id": "ATT-EMP-000019-20260111T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:00:00",
+    "check_out": "2026-01-11T22:00:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000256",
+    "attendance_id": "ATT-EMP-000023-20260111T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:00:00",
+    "check_out": "2026-01-11T22:00:00",
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000257",
+    "attendance_id": "ATT-EMP-000011-20260111T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T22:00:00",
+    "check_out": "2026-01-12T06:00:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000258",
+    "attendance_id": "ATT-EMP-000027-20260111T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T22:05:00",
+    "check_out": "2026-01-12T06:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000259",
+    "attendance_id": "ATT-EMP-000032-20260111T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T06:00:00",
+    "check_out": "2026-01-11T14:00:00",
+    "emp_id": "EMP-000032"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-A-000260",
+    "attendance_id": "ATT-EMP-000020-20260111T060500",
+    "attendance_status": "Late",
+    "check_in": "2026-01-11T06:05:00",
+    "check_out": "2026-01-11T14:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000261",
+    "attendance_id": "ATT-EMP-000024-20260111T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:00:00",
+    "check_out": "2026-01-11T22:00:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-B-000262",
+    "attendance_id": "ATT-EMP-000028-20260111T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T14:10:00",
+    "check_out": "2026-01-11T22:00:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000263",
+    "attendance_id": "ATT-EMP-000036-20260111T221500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T22:15:00",
+    "check_out": "2026-01-12T06:00:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-11-C-000264",
+    "attendance_id": "ATT-EMP-000040-20260111T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-11T22:00:00",
+    "check_out": "2026-01-12T06:00:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000265",
+    "attendance_id": "ATT-EMP-000025-20260112T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-12T06:00:00",
+    "check_out": "2026-01-12T14:00:00",
+    "emp_id": "EMP-000025"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000266",
+    "attendance_id": "ATT-EMP-000033-20260112T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T06:00:00",
+    "check_out": "2026-01-12T14:15:00",
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000267",
+    "attendance_id": "ATT-EMP-000037-20260112T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:00:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000268",
+    "attendance_id": "ATT-EMP-000001-20260112T140500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:05:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000269",
+    "attendance_id": "ATT-EMP-000005-20260112T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T22:00:00",
+    "check_out": "2026-01-13T06:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000270",
+    "attendance_id": "ATT-EMP-000009-20260112T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T22:00:00",
+    "check_out": "2026-01-13T06:00:00",
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000271",
+    "attendance_id": "ATT-EMP-000026-20260112T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T06:00:00",
+    "check_out": "2026-01-12T14:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000272",
+    "attendance_id": "ATT-EMP-000030-20260112T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-12T06:00:00",
+    "check_out": "2026-01-12T14:00:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000273",
+    "attendance_id": "ATT-EMP-000034-20260112T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:10:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000274",
+    "attendance_id": "ATT-EMP-000038-20260112T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:00:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000275",
+    "attendance_id": "ATT-EMP-000002-20260112T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T22:00:00",
+    "check_out": "2026-01-13T06:00:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000276",
+    "attendance_id": "ATT-EMP-000006-20260112T221500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T22:15:00",
+    "check_out": "2026-01-13T06:10:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000277",
+    "attendance_id": "ATT-EMP-000011-20260112T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T06:05:00",
+    "check_out": "2026-01-12T14:05:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000278",
+    "attendance_id": "ATT-EMP-000031-20260112T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T06:00:00",
+    "check_out": "2026-01-12T14:05:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000279",
+    "attendance_id": "ATT-EMP-000035-20260112T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:00:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000280",
+    "attendance_id": "ATT-EMP-000039-20260112T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:00:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000281",
+    "attendance_id": "ATT-EMP-000003-20260112T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T22:05:00",
+    "check_out": "2026-01-13T06:00:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000282",
+    "attendance_id": "ATT-EMP-000007-20260112T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T22:00:00",
+    "check_out": "2026-01-13T06:00:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000283",
+    "attendance_id": "ATT-EMP-000032-20260112T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T06:00:00",
+    "check_out": "2026-01-12T14:00:00",
+    "emp_id": "EMP-000032"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-A-000284",
+    "attendance_id": "ATT-EMP-000004-20260112T060000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-12T06:00:00",
+    "check_out": "2026-01-12T14:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000285",
+    "attendance_id": "ATT-EMP-000008-20260112T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:00:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-B-000286",
+    "attendance_id": "ATT-EMP-000016-20260112T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T14:00:00",
+    "check_out": "2026-01-12T22:00:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000287",
+    "attendance_id": "ATT-EMP-000020-20260112T220000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-12-C-000288",
+    "attendance_id": "ATT-EMP-000024-20260112T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-12T22:00:00",
+    "check_out": "2026-01-13T06:00:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000289",
+    "attendance_id": "ATT-EMP-000013-20260113T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:15:00",
+    "check_out": "2026-01-13T14:10:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000290",
+    "attendance_id": "ATT-EMP-000017-20260113T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:00:00",
+    "check_out": "2026-01-13T14:00:00",
+    "emp_id": "EMP-000017"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000291",
+    "attendance_id": "ATT-EMP-000021-20260113T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T14:00:00",
+    "check_out": "2026-01-13T22:00:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000292",
+    "attendance_id": "ATT-EMP-000029-20260113T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T14:00:00",
+    "check_out": "2026-01-13T22:00:00",
+    "emp_id": "EMP-000029"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000293",
+    "attendance_id": "ATT-EMP-000025-20260113T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T22:00:00",
+    "check_out": "2026-01-14T06:00:00",
+    "emp_id": "EMP-000025"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000294",
+    "attendance_id": "ATT-EMP-000033-20260113T220000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000295",
+    "attendance_id": "ATT-EMP-000010-20260113T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:10:00",
+    "check_out": "2026-01-13T14:00:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000296",
+    "attendance_id": "ATT-EMP-000014-20260113T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:00:00",
+    "check_out": "2026-01-13T14:00:00",
+    "emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000297",
+    "attendance_id": "ATT-EMP-000018-20260113T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T14:00:00",
+    "check_out": "2026-01-13T22:10:00",
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000298",
+    "attendance_id": "ATT-EMP-000022-20260113T140000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-13T14:00:00",
+    "check_out": "2026-01-13T22:00:00",
+    "emp_id": "EMP-000022"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000299",
+    "attendance_id": "ATT-EMP-000026-20260113T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T22:05:00",
+    "check_out": "2026-01-14T06:00:00",
+    "emp_id": "EMP-000026"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000300",
+    "attendance_id": "ATT-EMP-000030-20260113T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T22:00:00",
+    "check_out": "2026-01-14T06:05:00",
+    "emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000301",
+    "attendance_id": "ATT-EMP-000015-20260113T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:00:00",
+    "check_out": "2026-01-13T14:10:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000302",
+    "attendance_id": "ATT-EMP-000019-20260113T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:05:00",
+    "check_out": "2026-01-13T14:15:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000303",
+    "attendance_id": "ATT-EMP-000023-20260113T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T14:00:00",
+    "check_out": "2026-01-13T22:00:00",
+    "emp_id": "EMP-000023"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000304",
+    "attendance_id": "ATT-EMP-000027-20260113T141500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T14:15:00",
+    "check_out": "2026-01-13T22:00:00",
+    "emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000305",
+    "attendance_id": "ATT-EMP-000011-20260113T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T22:00:00",
+    "check_out": "2026-01-14T06:00:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000306",
+    "attendance_id": "ATT-EMP-000031-20260113T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T22:10:00",
+    "check_out": "2026-01-14T06:00:00",
+    "emp_id": "EMP-000031"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000307",
+    "attendance_id": "ATT-EMP-000012-20260113T060500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:05:00",
+    "check_out": "2026-01-13T14:15:00",
+    "emp_id": "EMP-000012"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-A-000308",
+    "attendance_id": "ATT-EMP-000028-20260113T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T06:00:00",
+    "check_out": "2026-01-13T14:00:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000309",
+    "attendance_id": "ATT-EMP-000036-20260113T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T14:10:00",
+    "check_out": "2026-01-13T22:00:00",
+    "emp_id": "EMP-000036"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-B-000310",
+    "attendance_id": "ATT-EMP-000040-20260113T140000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-13T14:00:00",
+    "check_out": "2026-01-13T22:05:00",
+    "emp_id": "EMP-000040"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000311",
+    "attendance_id": "ATT-EMP-000032-20260113T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T22:00:00",
+    "check_out": "2026-01-14T06:00:00",
+    "emp_id": "EMP-000032"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-13-C-000312",
+    "attendance_id": "ATT-EMP-000004-20260113T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-13T22:00:00",
+    "check_out": "2026-01-14T06:00:00",
+    "emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000313",
+    "attendance_id": "ATT-EMP-000037-20260114T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:15:00",
+    "check_out": "2026-01-14T14:00:00",
+    "emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000314",
+    "attendance_id": "ATT-EMP-000001-20260114T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:00:00",
+    "check_out": "2026-01-14T14:00:00",
+    "emp_id": "EMP-000001"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000315",
+    "attendance_id": "ATT-EMP-000005-20260114T141000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T14:10:00",
+    "check_out": "2026-01-14T22:00:00",
+    "emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000316",
+    "attendance_id": "ATT-EMP-000009-20260114T140000",
+    "attendance_status": "Absent",
+    "check_in": null,
+    "check_out": null,
+    "emp_id": "EMP-000009"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000317",
+    "attendance_id": "ATT-EMP-000013-20260114T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T22:00:00",
+    "check_out": "2026-01-15T06:05:00",
+    "emp_id": "EMP-000013"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000318",
+    "attendance_id": "ATT-EMP-000021-20260114T220000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-14T22:00:00",
+    "check_out": "2026-01-15T06:00:00",
+    "emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000319",
+    "attendance_id": "ATT-EMP-000034-20260114T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:15:00",
+    "check_out": "2026-01-14T14:05:00",
+    "emp_id": "EMP-000034"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000320",
+    "attendance_id": "ATT-EMP-000038-20260114T061000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:10:00",
+    "check_out": "2026-01-14T14:00:00",
+    "emp_id": "EMP-000038"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000321",
+    "attendance_id": "ATT-EMP-000002-20260114T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T14:00:00",
+    "check_out": "2026-01-14T22:05:00",
+    "emp_id": "EMP-000002"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000322",
+    "attendance_id": "ATT-EMP-000006-20260114T140500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T14:05:00",
+    "check_out": "2026-01-14T22:00:00",
+    "emp_id": "EMP-000006"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000323",
+    "attendance_id": "ATT-EMP-000010-20260114T220000",
+    "attendance_status": "Late",
+    "check_in": "2026-01-14T22:00:00",
+    "check_out": "2026-01-15T06:00:00",
+    "emp_id": "EMP-000010"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000324",
+    "attendance_id": "ATT-EMP-000018-20260114T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T22:00:00",
+    "check_out": "2026-01-15T06:00:00",
+    "emp_id": "EMP-000018"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000325",
+    "attendance_id": "ATT-EMP-000035-20260114T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:00:00",
+    "check_out": "2026-01-14T14:00:00",
+    "emp_id": "EMP-000035"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000326",
+    "attendance_id": "ATT-EMP-000039-20260114T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:00:00",
+    "check_out": "2026-01-14T14:00:00",
+    "emp_id": "EMP-000039"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000327",
+    "attendance_id": "ATT-EMP-000003-20260114T141500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T14:15:00",
+    "check_out": "2026-01-14T22:00:00",
+    "emp_id": "EMP-000003"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000328",
+    "attendance_id": "ATT-EMP-000007-20260114T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T14:00:00",
+    "check_out": "2026-01-14T22:10:00",
+    "emp_id": "EMP-000007"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000329",
+    "attendance_id": "ATT-EMP-000015-20260114T221500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T22:15:00",
+    "check_out": "2026-01-15T06:00:00",
+    "emp_id": "EMP-000015"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000330",
+    "attendance_id": "ATT-EMP-000019-20260114T220000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T22:00:00",
+    "check_out": "2026-01-15T06:05:00",
+    "emp_id": "EMP-000019"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000331",
+    "attendance_id": "ATT-EMP-000012-20260114T061500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:15:00",
+    "check_out": "2026-01-14T14:00:00",
+    "emp_id": "EMP-000012"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-A-000332",
+    "attendance_id": "ATT-EMP-000008-20260114T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T06:00:00",
+    "check_out": "2026-01-14T14:00:00",
+    "emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000333",
+    "attendance_id": "ATT-EMP-000016-20260114T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T14:00:00",
+    "check_out": "2026-01-14T22:00:00",
+    "emp_id": "EMP-000016"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-B-000334",
+    "attendance_id": "ATT-EMP-000020-20260114T141500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T14:15:00",
+    "check_out": "2026-01-14T22:00:00",
+    "emp_id": "EMP-000020"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000335",
+    "attendance_id": "ATT-EMP-000024-20260114T221000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T22:10:00",
+    "check_out": "2026-01-15T06:00:00",
+    "emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-14-C-000336",
+    "attendance_id": "ATT-EMP-000028-20260114T220500",
+    "attendance_status": "Present",
+    "check_in": "2026-01-14T22:05:00",
+    "check_out": "2026-01-15T06:10:00",
+    "emp_id": "EMP-000028"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-07-B-000337",
+    "attendance_id": "ATT-EMP-000011-20260107T140000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-07T14:00:00",
+    "check_out": "2026-01-07T22:15:00",
+    "emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000338",
+    "attendance_id": "ATT-EMP-000009-20260101T060000",
+    "attendance_status": "Present",
+    "check_in": "2026-01-01T06:00:00",
+    "check_out": "2026-01-01T14:00:00",
+    "emp_id": "EMP-000009"
+  }
+]

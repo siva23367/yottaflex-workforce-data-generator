@@ -1,0 +1,2354 @@
+[
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 3,
+    "requirement_id": "COV-000001",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000002",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000003",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000004",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000005",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000006",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000007",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000008",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000009",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000010",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000011",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000012",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000013",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000014",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000015",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000016",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000017",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000018",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000019",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000020",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000021",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000022",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000023",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-01",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000024",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000025",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000026",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000027",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000028",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000029",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000030",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000031",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000032",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000033",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000034",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000035",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000036",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000037",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000038",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000039",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000040",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000041",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000042",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000043",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000044",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000045",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000046",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000047",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-02",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000048",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000049",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000050",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000051",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000052",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000053",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000054",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000055",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000056",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000057",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000058",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000059",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000060",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000061",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000062",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000063",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000064",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000065",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000066",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000067",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000068",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000069",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000070",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000071",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-03",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000072",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000073",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000074",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000075",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000076",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000077",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000078",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000079",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000080",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000081",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000082",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000083",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000084",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000085",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000086",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000087",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000088",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000089",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000090",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000091",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000092",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000093",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000094",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000095",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-04",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000096",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000097",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000098",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000099",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000100",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000101",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000102",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000103",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000104",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000105",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000106",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000107",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000108",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000109",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000110",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000111",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000112",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000113",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000114",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000115",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000116",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000117",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000118",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000119",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-05",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000120",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000121",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000122",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000123",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000124",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000125",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000126",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000127",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000128",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000129",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000130",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000131",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000132",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000133",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000134",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000135",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000136",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000137",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000138",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000139",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000140",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000141",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000142",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000143",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-06",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000144",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000145",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000146",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000147",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000148",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000149",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000150",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000151",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000152",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000153",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000154",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000155",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000156",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000157",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000158",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000159",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000160",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000161",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000162",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000163",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000164",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000165",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000166",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000167",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-07",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000168",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000169",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000170",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000171",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000172",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000173",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000174",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000175",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000176",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000177",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000178",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000179",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000180",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000181",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000182",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000183",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000184",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000185",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000186",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000187",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000188",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000189",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000190",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000191",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-08",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000192",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000193",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000194",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000195",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000196",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000197",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000198",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000199",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000200",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000201",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000202",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000203",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000204",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000205",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000206",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000207",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000208",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000209",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000210",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000211",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000212",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000213",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000214",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000215",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-09",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000216",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000217",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000218",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000219",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000220",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000221",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000222",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000223",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000224",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000225",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000226",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000227",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000228",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000229",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000230",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000231",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000232",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000233",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000234",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000235",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000236",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000237",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000238",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000239",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-10",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000240",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000241",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000242",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000243",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000244",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000245",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000246",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000247",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000248",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000249",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000250",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000251",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000252",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000253",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000254",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000255",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000256",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000257",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000258",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000259",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000260",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000261",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000262",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000263",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-11",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000264",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000265",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000266",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000267",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000268",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000269",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000270",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000271",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000272",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000273",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000274",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000275",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000276",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000277",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000278",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000279",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000280",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000281",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000282",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000283",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000284",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000285",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000286",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000287",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-12",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000288",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000289",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000290",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000291",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000292",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000293",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000294",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000295",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000296",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000297",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000298",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000299",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000300",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000301",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000302",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000303",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000304",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000305",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000306",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000307",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000308",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000309",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000310",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000311",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-13",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000312",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000313",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000314",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000315",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000316",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000317",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000318",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000319",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000320",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-A"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000321",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000322",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000323",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000324",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000325",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000326",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000327",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000328",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-B"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000329",
+    "skill_id": "SKL-01",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000330",
+    "skill_id": "SKL-02",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000331",
+    "skill_id": "SKL-03",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000332",
+    "skill_id": "SKL-04",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000333",
+    "skill_id": "SKL-05",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000334",
+    "skill_id": "SKL-06",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000335",
+    "skill_id": "SKL-07",
+    "template_id": "SFT-C"
+  },
+  {
+    "date": "2026-01-14",
+    "min_staff_required": 1,
+    "requirement_id": "COV-000336",
+    "skill_id": "SKL-08",
+    "template_id": "SFT-C"
+  }
+]

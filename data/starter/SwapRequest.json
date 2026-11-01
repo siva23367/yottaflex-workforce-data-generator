@@ -1,0 +1,16 @@
+[
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000021",
+    "requesting_emp_id": "EMP-000012",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000001",
+    "target_emp_id": "EMP-000004"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000001",
+    "requesting_emp_id": "EMP-000001",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000002",
+    "target_emp_id": "EMP-000009"
+  }
+]

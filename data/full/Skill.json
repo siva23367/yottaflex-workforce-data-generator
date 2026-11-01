@@ -1,0 +1,34 @@
+[
+  {
+    "skill_id": "SKL-01",
+    "skill_name": "Customer Support"
+  },
+  {
+    "skill_id": "SKL-02",
+    "skill_name": "Warehouse"
+  },
+  {
+    "skill_id": "SKL-03",
+    "skill_name": "Logistics"
+  },
+  {
+    "skill_id": "SKL-04",
+    "skill_name": "Sales"
+  },
+  {
+    "skill_id": "SKL-05",
+    "skill_name": "IT Support"
+  },
+  {
+    "skill_id": "SKL-06",
+    "skill_name": "Finance"
+  },
+  {
+    "skill_id": "SKL-07",
+    "skill_name": "Security"
+  },
+  {
+    "skill_id": "SKL-08",
+    "skill_name": "Operations"
+  }
+]

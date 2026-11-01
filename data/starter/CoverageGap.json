@@ -1,0 +1,2354 @@
+[
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000001",
+    "requirement_id": "COV-000001",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000002",
+    "requirement_id": "COV-000002",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000003",
+    "requirement_id": "COV-000003",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000004",
+    "requirement_id": "COV-000004",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000005",
+    "requirement_id": "COV-000005",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000006",
+    "requirement_id": "COV-000006",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000007",
+    "requirement_id": "COV-000007",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000008",
+    "requirement_id": "COV-000008",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000009",
+    "requirement_id": "COV-000009",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000010",
+    "requirement_id": "COV-000010",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000011",
+    "requirement_id": "COV-000011",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000012",
+    "requirement_id": "COV-000012",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000013",
+    "requirement_id": "COV-000013",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000014",
+    "requirement_id": "COV-000014",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000015",
+    "requirement_id": "COV-000015",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000016",
+    "requirement_id": "COV-000016",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000017",
+    "requirement_id": "COV-000017",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000018",
+    "requirement_id": "COV-000018",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000019",
+    "requirement_id": "COV-000019",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000020",
+    "requirement_id": "COV-000020",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000021",
+    "requirement_id": "COV-000021",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000022",
+    "requirement_id": "COV-000022",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000023",
+    "requirement_id": "COV-000023",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000024",
+    "requirement_id": "COV-000024",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000025",
+    "requirement_id": "COV-000025",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000026",
+    "requirement_id": "COV-000026",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000027",
+    "requirement_id": "COV-000027",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000028",
+    "requirement_id": "COV-000028",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000029",
+    "requirement_id": "COV-000029",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000030",
+    "requirement_id": "COV-000030",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000031",
+    "requirement_id": "COV-000031",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000032",
+    "requirement_id": "COV-000032",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000033",
+    "requirement_id": "COV-000033",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000034",
+    "requirement_id": "COV-000034",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000035",
+    "requirement_id": "COV-000035",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000036",
+    "requirement_id": "COV-000036",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000037",
+    "requirement_id": "COV-000037",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000038",
+    "requirement_id": "COV-000038",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000039",
+    "requirement_id": "COV-000039",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000040",
+    "requirement_id": "COV-000040",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000041",
+    "requirement_id": "COV-000041",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000042",
+    "requirement_id": "COV-000042",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000043",
+    "requirement_id": "COV-000043",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000044",
+    "requirement_id": "COV-000044",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000045",
+    "requirement_id": "COV-000045",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000046",
+    "requirement_id": "COV-000046",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000047",
+    "requirement_id": "COV-000047",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000048",
+    "requirement_id": "COV-000048",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000049",
+    "requirement_id": "COV-000049",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000050",
+    "requirement_id": "COV-000050",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000051",
+    "requirement_id": "COV-000051",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000052",
+    "requirement_id": "COV-000052",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000053",
+    "requirement_id": "COV-000053",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000054",
+    "requirement_id": "COV-000054",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000055",
+    "requirement_id": "COV-000055",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000056",
+    "requirement_id": "COV-000056",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000057",
+    "requirement_id": "COV-000057",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000058",
+    "requirement_id": "COV-000058",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000059",
+    "requirement_id": "COV-000059",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000060",
+    "requirement_id": "COV-000060",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000061",
+    "requirement_id": "COV-000061",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000062",
+    "requirement_id": "COV-000062",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000063",
+    "requirement_id": "COV-000063",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000064",
+    "requirement_id": "COV-000064",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000065",
+    "requirement_id": "COV-000065",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000066",
+    "requirement_id": "COV-000066",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000067",
+    "requirement_id": "COV-000067",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000068",
+    "requirement_id": "COV-000068",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000069",
+    "requirement_id": "COV-000069",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000070",
+    "requirement_id": "COV-000070",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000071",
+    "requirement_id": "COV-000071",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000072",
+    "requirement_id": "COV-000072",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000073",
+    "requirement_id": "COV-000073",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000074",
+    "requirement_id": "COV-000074",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000075",
+    "requirement_id": "COV-000075",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000076",
+    "requirement_id": "COV-000076",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000077",
+    "requirement_id": "COV-000077",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000078",
+    "requirement_id": "COV-000078",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000079",
+    "requirement_id": "COV-000079",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000080",
+    "requirement_id": "COV-000080",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000081",
+    "requirement_id": "COV-000081",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000082",
+    "requirement_id": "COV-000082",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000083",
+    "requirement_id": "COV-000083",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000084",
+    "requirement_id": "COV-000084",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000085",
+    "requirement_id": "COV-000085",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000086",
+    "requirement_id": "COV-000086",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000087",
+    "requirement_id": "COV-000087",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000088",
+    "requirement_id": "COV-000088",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000089",
+    "requirement_id": "COV-000089",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000090",
+    "requirement_id": "COV-000090",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000091",
+    "requirement_id": "COV-000091",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000092",
+    "requirement_id": "COV-000092",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000093",
+    "requirement_id": "COV-000093",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000094",
+    "requirement_id": "COV-000094",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000095",
+    "requirement_id": "COV-000095",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000096",
+    "requirement_id": "COV-000096",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000097",
+    "requirement_id": "COV-000097",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000098",
+    "requirement_id": "COV-000098",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000099",
+    "requirement_id": "COV-000099",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000100",
+    "requirement_id": "COV-000100",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000101",
+    "requirement_id": "COV-000101",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000102",
+    "requirement_id": "COV-000102",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000103",
+    "requirement_id": "COV-000103",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000104",
+    "requirement_id": "COV-000104",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000105",
+    "requirement_id": "COV-000105",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000106",
+    "requirement_id": "COV-000106",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000107",
+    "requirement_id": "COV-000107",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000108",
+    "requirement_id": "COV-000108",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000109",
+    "requirement_id": "COV-000109",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000110",
+    "requirement_id": "COV-000110",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000111",
+    "requirement_id": "COV-000111",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000112",
+    "requirement_id": "COV-000112",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000113",
+    "requirement_id": "COV-000113",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000114",
+    "requirement_id": "COV-000114",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000115",
+    "requirement_id": "COV-000115",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000116",
+    "requirement_id": "COV-000116",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000117",
+    "requirement_id": "COV-000117",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000118",
+    "requirement_id": "COV-000118",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000119",
+    "requirement_id": "COV-000119",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000120",
+    "requirement_id": "COV-000120",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000121",
+    "requirement_id": "COV-000121",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000122",
+    "requirement_id": "COV-000122",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000123",
+    "requirement_id": "COV-000123",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000124",
+    "requirement_id": "COV-000124",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000125",
+    "requirement_id": "COV-000125",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000126",
+    "requirement_id": "COV-000126",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000127",
+    "requirement_id": "COV-000127",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000128",
+    "requirement_id": "COV-000128",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000129",
+    "requirement_id": "COV-000129",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000130",
+    "requirement_id": "COV-000130",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000131",
+    "requirement_id": "COV-000131",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000132",
+    "requirement_id": "COV-000132",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000133",
+    "requirement_id": "COV-000133",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000134",
+    "requirement_id": "COV-000134",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000135",
+    "requirement_id": "COV-000135",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000136",
+    "requirement_id": "COV-000136",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000137",
+    "requirement_id": "COV-000137",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000138",
+    "requirement_id": "COV-000138",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000139",
+    "requirement_id": "COV-000139",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000140",
+    "requirement_id": "COV-000140",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000141",
+    "requirement_id": "COV-000141",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000142",
+    "requirement_id": "COV-000142",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000143",
+    "requirement_id": "COV-000143",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000144",
+    "requirement_id": "COV-000144",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000145",
+    "requirement_id": "COV-000145",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 4,
+    "gap": 0,
+    "gap_id": "GAP-000146",
+    "requirement_id": "COV-000146",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000147",
+    "requirement_id": "COV-000147",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000148",
+    "requirement_id": "COV-000148",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000149",
+    "requirement_id": "COV-000149",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000150",
+    "requirement_id": "COV-000150",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000151",
+    "requirement_id": "COV-000151",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000152",
+    "requirement_id": "COV-000152",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000153",
+    "requirement_id": "COV-000153",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000154",
+    "requirement_id": "COV-000154",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 4,
+    "gap": 0,
+    "gap_id": "GAP-000155",
+    "requirement_id": "COV-000155",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000156",
+    "requirement_id": "COV-000156",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000157",
+    "requirement_id": "COV-000157",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000158",
+    "requirement_id": "COV-000158",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000159",
+    "requirement_id": "COV-000159",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000160",
+    "requirement_id": "COV-000160",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000161",
+    "requirement_id": "COV-000161",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000162",
+    "requirement_id": "COV-000162",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000163",
+    "requirement_id": "COV-000163",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000164",
+    "requirement_id": "COV-000164",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000165",
+    "requirement_id": "COV-000165",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000166",
+    "requirement_id": "COV-000166",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000167",
+    "requirement_id": "COV-000167",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000168",
+    "requirement_id": "COV-000168",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000169",
+    "requirement_id": "COV-000169",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 4,
+    "gap": 0,
+    "gap_id": "GAP-000170",
+    "requirement_id": "COV-000170",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000171",
+    "requirement_id": "COV-000171",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000172",
+    "requirement_id": "COV-000172",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000173",
+    "requirement_id": "COV-000173",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000174",
+    "requirement_id": "COV-000174",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000175",
+    "requirement_id": "COV-000175",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000176",
+    "requirement_id": "COV-000176",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000177",
+    "requirement_id": "COV-000177",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000178",
+    "requirement_id": "COV-000178",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000179",
+    "requirement_id": "COV-000179",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000180",
+    "requirement_id": "COV-000180",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000181",
+    "requirement_id": "COV-000181",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000182",
+    "requirement_id": "COV-000182",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000183",
+    "requirement_id": "COV-000183",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000184",
+    "requirement_id": "COV-000184",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000185",
+    "requirement_id": "COV-000185",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000186",
+    "requirement_id": "COV-000186",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000187",
+    "requirement_id": "COV-000187",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000188",
+    "requirement_id": "COV-000188",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000189",
+    "requirement_id": "COV-000189",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000190",
+    "requirement_id": "COV-000190",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000191",
+    "requirement_id": "COV-000191",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000192",
+    "requirement_id": "COV-000192",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000193",
+    "requirement_id": "COV-000193",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000194",
+    "requirement_id": "COV-000194",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000195",
+    "requirement_id": "COV-000195",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000196",
+    "requirement_id": "COV-000196",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000197",
+    "requirement_id": "COV-000197",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000198",
+    "requirement_id": "COV-000198",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000199",
+    "requirement_id": "COV-000199",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000200",
+    "requirement_id": "COV-000200",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000201",
+    "requirement_id": "COV-000201",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000202",
+    "requirement_id": "COV-000202",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000203",
+    "requirement_id": "COV-000203",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000204",
+    "requirement_id": "COV-000204",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000205",
+    "requirement_id": "COV-000205",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000206",
+    "requirement_id": "COV-000206",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000207",
+    "requirement_id": "COV-000207",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000208",
+    "requirement_id": "COV-000208",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000209",
+    "requirement_id": "COV-000209",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000210",
+    "requirement_id": "COV-000210",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000211",
+    "requirement_id": "COV-000211",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000212",
+    "requirement_id": "COV-000212",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000213",
+    "requirement_id": "COV-000213",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000214",
+    "requirement_id": "COV-000214",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000215",
+    "requirement_id": "COV-000215",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000216",
+    "requirement_id": "COV-000216",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000217",
+    "requirement_id": "COV-000217",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000218",
+    "requirement_id": "COV-000218",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000219",
+    "requirement_id": "COV-000219",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000220",
+    "requirement_id": "COV-000220",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000221",
+    "requirement_id": "COV-000221",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000222",
+    "requirement_id": "COV-000222",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000223",
+    "requirement_id": "COV-000223",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000224",
+    "requirement_id": "COV-000224",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000225",
+    "requirement_id": "COV-000225",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000226",
+    "requirement_id": "COV-000226",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000227",
+    "requirement_id": "COV-000227",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000228",
+    "requirement_id": "COV-000228",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000229",
+    "requirement_id": "COV-000229",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000230",
+    "requirement_id": "COV-000230",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000231",
+    "requirement_id": "COV-000231",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000232",
+    "requirement_id": "COV-000232",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000233",
+    "requirement_id": "COV-000233",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000234",
+    "requirement_id": "COV-000234",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000235",
+    "requirement_id": "COV-000235",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000236",
+    "requirement_id": "COV-000236",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000237",
+    "requirement_id": "COV-000237",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000238",
+    "requirement_id": "COV-000238",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000239",
+    "requirement_id": "COV-000239",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000240",
+    "requirement_id": "COV-000240",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000241",
+    "requirement_id": "COV-000241",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000242",
+    "requirement_id": "COV-000242",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000243",
+    "requirement_id": "COV-000243",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000244",
+    "requirement_id": "COV-000244",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000245",
+    "requirement_id": "COV-000245",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000246",
+    "requirement_id": "COV-000246",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000247",
+    "requirement_id": "COV-000247",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000248",
+    "requirement_id": "COV-000248",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000249",
+    "requirement_id": "COV-000249",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000250",
+    "requirement_id": "COV-000250",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000251",
+    "requirement_id": "COV-000251",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000252",
+    "requirement_id": "COV-000252",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000253",
+    "requirement_id": "COV-000253",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000254",
+    "requirement_id": "COV-000254",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000255",
+    "requirement_id": "COV-000255",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000256",
+    "requirement_id": "COV-000256",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000257",
+    "requirement_id": "COV-000257",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000258",
+    "requirement_id": "COV-000258",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000259",
+    "requirement_id": "COV-000259",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000260",
+    "requirement_id": "COV-000260",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000261",
+    "requirement_id": "COV-000261",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000262",
+    "requirement_id": "COV-000262",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000263",
+    "requirement_id": "COV-000263",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000264",
+    "requirement_id": "COV-000264",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000265",
+    "requirement_id": "COV-000265",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 4,
+    "gap": 0,
+    "gap_id": "GAP-000266",
+    "requirement_id": "COV-000266",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000267",
+    "requirement_id": "COV-000267",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000268",
+    "requirement_id": "COV-000268",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000269",
+    "requirement_id": "COV-000269",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000270",
+    "requirement_id": "COV-000270",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000271",
+    "requirement_id": "COV-000271",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000272",
+    "requirement_id": "COV-000272",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000273",
+    "requirement_id": "COV-000273",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000274",
+    "requirement_id": "COV-000274",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000275",
+    "requirement_id": "COV-000275",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000276",
+    "requirement_id": "COV-000276",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000277",
+    "requirement_id": "COV-000277",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000278",
+    "requirement_id": "COV-000278",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000279",
+    "requirement_id": "COV-000279",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000280",
+    "requirement_id": "COV-000280",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000281",
+    "requirement_id": "COV-000281",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000282",
+    "requirement_id": "COV-000282",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000283",
+    "requirement_id": "COV-000283",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000284",
+    "requirement_id": "COV-000284",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000285",
+    "requirement_id": "COV-000285",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000286",
+    "requirement_id": "COV-000286",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000287",
+    "requirement_id": "COV-000287",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000288",
+    "requirement_id": "COV-000288",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000289",
+    "requirement_id": "COV-000289",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000290",
+    "requirement_id": "COV-000290",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000291",
+    "requirement_id": "COV-000291",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000292",
+    "requirement_id": "COV-000292",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000293",
+    "requirement_id": "COV-000293",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000294",
+    "requirement_id": "COV-000294",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000295",
+    "requirement_id": "COV-000295",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000296",
+    "requirement_id": "COV-000296",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000297",
+    "requirement_id": "COV-000297",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000298",
+    "requirement_id": "COV-000298",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000299",
+    "requirement_id": "COV-000299",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000300",
+    "requirement_id": "COV-000300",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000301",
+    "requirement_id": "COV-000301",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000302",
+    "requirement_id": "COV-000302",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000303",
+    "requirement_id": "COV-000303",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000304",
+    "requirement_id": "COV-000304",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000305",
+    "requirement_id": "COV-000305",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 4,
+    "gap": 0,
+    "gap_id": "GAP-000306",
+    "requirement_id": "COV-000306",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000307",
+    "requirement_id": "COV-000307",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000308",
+    "requirement_id": "COV-000308",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000309",
+    "requirement_id": "COV-000309",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000310",
+    "requirement_id": "COV-000310",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000311",
+    "requirement_id": "COV-000311",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000312",
+    "requirement_id": "COV-000312",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000313",
+    "requirement_id": "COV-000313",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000314",
+    "requirement_id": "COV-000314",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000315",
+    "requirement_id": "COV-000315",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000316",
+    "requirement_id": "COV-000316",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000317",
+    "requirement_id": "COV-000317",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000318",
+    "requirement_id": "COV-000318",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000319",
+    "requirement_id": "COV-000319",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000320",
+    "requirement_id": "COV-000320",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000321",
+    "requirement_id": "COV-000321",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000322",
+    "requirement_id": "COV-000322",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000323",
+    "requirement_id": "COV-000323",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000324",
+    "requirement_id": "COV-000324",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000325",
+    "requirement_id": "COV-000325",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000326",
+    "requirement_id": "COV-000326",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000327",
+    "requirement_id": "COV-000327",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 1,
+    "gap": 0,
+    "gap_id": "GAP-000328",
+    "requirement_id": "COV-000328",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000329",
+    "requirement_id": "COV-000329",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000330",
+    "requirement_id": "COV-000330",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000331",
+    "requirement_id": "COV-000331",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 3,
+    "gap": 0,
+    "gap_id": "GAP-000332",
+    "requirement_id": "COV-000332",
+    "status": "MET"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000333",
+    "requirement_id": "COV-000333",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000334",
+    "requirement_id": "COV-000334",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 0,
+    "gap": 1,
+    "gap_id": "GAP-000335",
+    "requirement_id": "COV-000335",
+    "status": "GAP"
+  },
+  {
+    "assigned_staff": 2,
+    "gap": 0,
+    "gap_id": "GAP-000336",
+    "requirement_id": "COV-000336",
+    "status": "MET"
+  }
+]

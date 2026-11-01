@@ -1,0 +1,4 @@
+template_id,shift_name,start_time,end_time,hours
+SFT-A,Day,06:00,14:00,8
+SFT-B,Evening,14:00,22:00,8
+SFT-C,Night,22:00,06:00,8

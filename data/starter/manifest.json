@@ -1,0 +1,117 @@
+{
+  "ground_truth_rows": 122,
+  "metrics": {
+    "absence_count": 11,
+    "actual_overtime_employee_weeks": 4,
+    "attendance_statuses": {
+      "Absent": 11,
+      "Late": 24,
+      "Present": 303
+    },
+    "coverage_gap_count": 117,
+    "coverage_met": 219,
+    "coverage_requirements": 336,
+    "coverage_shortfall_total": 117,
+    "leave_statuses": {
+      "Approved": 11,
+      "Pending": 9,
+      "Rejected": 10
+    },
+    "scenario_counts": {
+      "APPROVED_LEAVE_OVERLAP": 1,
+      "EMPLOYEE_DOUBLE_BOOKED": 2,
+      "OVERTIME_CAP_EXCEEDED": 1,
+      "REQUIRED_SKILL_ABSENT": 117,
+      "SWAP_APPLIED_WITHOUT_APPROVAL": 1
+    },
+    "scheduled_cap_violation_assignments": 1,
+    "scheduled_overtime_employee_weeks": 1,
+    "swap_statuses": {
+      "Approved": 1,
+      "Pending": 1
+    },
+    "total_actual_overtime_hours": 9.08,
+    "total_scheduled_overtime_hours": 8,
+    "workload_hours": {
+      "maximum": 88,
+      "minimum": 48,
+      "standard_deviation": 6.68
+    }
+  },
+  "seed": 77,
+  "source_manifest": {
+    "external_sources": [],
+    "personal_data": false,
+    "provenance": "Fully synthetic data generated locally"
+  },
+  "tables": {
+    "AttendanceEvent.csv": {
+      "rows": 338,
+      "sha256": "fc738b6d93a9687238e885f504ea316e117164e5bfec35fe93f2dbc1f28c3a01"
+    },
+    "CoverageGap.csv": {
+      "rows": 336,
+      "sha256": "ac6a47fbe45ba3eb06567f488570a96efc4674b1730f26e080f2a79f832b0dda"
+    },
+    "CoverageRequirement.csv": {
+      "rows": 336,
+      "sha256": "b6a912574eaf02172af111e489343f0ddd94a4b879c70dbcff8a5f88b71a1819"
+    },
+    "Employee.csv": {
+      "rows": 40,
+      "sha256": "2f8ce06a20e781df6cfe40d0dc260dfe8dc097d038c4e05039fde7780e4355af"
+    },
+    "EmployeeSkill.csv": {
+      "rows": 53,
+      "sha256": "7e927863f26b4f98df72f45958f0509832c2f3b4a6876a4300cde552fdcee96c"
+    },
+    "HolidayCalendar.csv": {
+      "rows": 1,
+      "sha256": "a56824b954c1131629bf6bba4121c50364cdedaa647628fe45bfcae7b3242d8b"
+    },
+    "LeaveRequest.csv": {
+      "rows": 30,
+      "sha256": "8fff0656b8b96c25d5b3f6c86bc78cc3b9db67e0c362c3434b66a24e360b5459"
+    },
+    "LeaveRequestEvent.csv": {
+      "rows": 30,
+      "sha256": "7aa75294b44d1160a647dbfb72c72dcd1f4516d1556bed67bd31905e578d6cc2"
+    },
+    "OvertimeSummary.csv": {
+      "rows": 119,
+      "sha256": "e9ceec7272b38cf5ae7212b44e7f0d70fd9e85d8f5d01ef6b678bdd0ca426351"
+    },
+    "ShiftAssignment.csv": {
+      "rows": 338,
+      "sha256": "88c2f9f6664bd3be8956b5b587c108f877e3c56052b058e69184c4da1fa34453"
+    },
+    "ShiftAssignmentEvent.csv": {
+      "rows": 340,
+      "sha256": "d14e84e552a06e0d9b899f1d49e8240381bd2d95bb3f0f8d1a9b29bb216ba321"
+    },
+    "ShiftTemplate.csv": {
+      "rows": 3,
+      "sha256": "6346cde9ecc9ffab52505e9f61c63705e77ed9033fcf57faddf692f72f811e73"
+    },
+    "Skill.csv": {
+      "rows": 8,
+      "sha256": "478c4cb9e74e73f4866761d3d929d8c547c588358aae9113d090ac2ffb9b2981"
+    },
+    "SwapRequest.csv": {
+      "rows": 2,
+      "sha256": "e854adb6680df8b6dd4450c7389827f51737b08085206aa1c9fb8e2ca53afd49"
+    },
+    "SwapRequestEvent.csv": {
+      "rows": 5,
+      "sha256": "418d889ee436192f7a60f06ec84f9012344e55cfd1211305d10c20cf74b5dfa7"
+    },
+    "Team.csv": {
+      "rows": 4,
+      "sha256": "e0807fd5f768f4ea65a85d8473d4893377b2fd0a1caedfb7209baed4ae05f41f"
+    },
+    "ground_truth/ground_truth.csv": {
+      "rows": 122,
+      "sha256": "d8ef09d23a3c28d9a6e1fc436ae523f7046cab9ad9b1dcef64d823b74ad2b838"
+    }
+  }
+}

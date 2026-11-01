@@ -1,0 +1,3 @@
+swap_id,requesting_emp_id,target_emp_id,assignment_id,status
+SWP-2026-000001,EMP-000012,EMP-000004,SHIFT-2026-01-01-B-000021,Pending
+SWP-2026-000002,EMP-000001,EMP-000009,SHIFT-2026-01-01-A-000001,Approved

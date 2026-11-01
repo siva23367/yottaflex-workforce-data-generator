@@ -1,0 +1,267 @@
+[
+  {
+    "emp_id": "EMP-000001",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000001",
+    "proficiency": "Basic",
+    "skill_id": "SKL-06"
+  },
+  {
+    "emp_id": "EMP-000002",
+    "proficiency": "Basic",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000003",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000003",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000004",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000005",
+    "proficiency": "Basic",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000005",
+    "proficiency": "Basic",
+    "skill_id": "SKL-08"
+  },
+  {
+    "emp_id": "EMP-000006",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000006",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-07"
+  },
+  {
+    "emp_id": "EMP-000007",
+    "proficiency": "Basic",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000008",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000008",
+    "proficiency": "Basic",
+    "skill_id": "SKL-08"
+  },
+  {
+    "emp_id": "EMP-000009",
+    "proficiency": "Basic",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000010",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000011",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000011",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000012",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000013",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000014",
+    "proficiency": "Basic",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000015",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000016",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000017",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000018",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000018",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000019",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000020",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000021",
+    "proficiency": "Basic",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000022",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000023",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000024",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000024",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-08"
+  },
+  {
+    "emp_id": "EMP-000025",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000025",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000026",
+    "proficiency": "Basic",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000027",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000028",
+    "proficiency": "Basic",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000028",
+    "proficiency": "Basic",
+    "skill_id": "SKL-08"
+  },
+  {
+    "emp_id": "EMP-000029",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000030",
+    "proficiency": "Basic",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000031",
+    "proficiency": "Advanced",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000031",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-08"
+  },
+  {
+    "emp_id": "EMP-000032",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000033",
+    "proficiency": "Basic",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000034",
+    "proficiency": "Basic",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000034",
+    "proficiency": "Basic",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000035",
+    "proficiency": "Basic",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000036",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000037",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-01"
+  },
+  {
+    "emp_id": "EMP-000038",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-02"
+  },
+  {
+    "emp_id": "EMP-000039",
+    "proficiency": "Intermediate",
+    "skill_id": "SKL-03"
+  },
+  {
+    "emp_id": "EMP-000040",
+    "proficiency": "Basic",
+    "skill_id": "SKL-04"
+  },
+  {
+    "emp_id": "EMP-000040",
+    "proficiency": "Basic",
+    "skill_id": "SKL-08"
+  }
+]

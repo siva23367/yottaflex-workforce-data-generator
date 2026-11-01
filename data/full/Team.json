@@ -1,0 +1,402 @@
+[
+  {
+    "team_id": "TEAM-001",
+    "team_name": "Team 001"
+  },
+  {
+    "team_id": "TEAM-002",
+    "team_name": "Team 002"
+  },
+  {
+    "team_id": "TEAM-003",
+    "team_name": "Team 003"
+  },
+  {
+    "team_id": "TEAM-004",
+    "team_name": "Team 004"
+  },
+  {
+    "team_id": "TEAM-005",
+    "team_name": "Team 005"
+  },
+  {
+    "team_id": "TEAM-006",
+    "team_name": "Team 006"
+  },
+  {
+    "team_id": "TEAM-007",
+    "team_name": "Team 007"
+  },
+  {
+    "team_id": "TEAM-008",
+    "team_name": "Team 008"
+  },
+  {
+    "team_id": "TEAM-009",
+    "team_name": "Team 009"
+  },
+  {
+    "team_id": "TEAM-010",
+    "team_name": "Team 010"
+  },
+  {
+    "team_id": "TEAM-011",
+    "team_name": "Team 011"
+  },
+  {
+    "team_id": "TEAM-012",
+    "team_name": "Team 012"
+  },
+  {
+    "team_id": "TEAM-013",
+    "team_name": "Team 013"
+  },
+  {
+    "team_id": "TEAM-014",
+    "team_name": "Team 014"
+  },
+  {
+    "team_id": "TEAM-015",
+    "team_name": "Team 015"
+  },
+  {
+    "team_id": "TEAM-016",
+    "team_name": "Team 016"
+  },
+  {
+    "team_id": "TEAM-017",
+    "team_name": "Team 017"
+  },
+  {
+    "team_id": "TEAM-018",
+    "team_name": "Team 018"
+  },
+  {
+    "team_id": "TEAM-019",
+    "team_name": "Team 019"
+  },
+  {
+    "team_id": "TEAM-020",
+    "team_name": "Team 020"
+  },
+  {
+    "team_id": "TEAM-021",
+    "team_name": "Team 021"
+  },
+  {
+    "team_id": "TEAM-022",
+    "team_name": "Team 022"
+  },
+  {
+    "team_id": "TEAM-023",
+    "team_name": "Team 023"
+  },
+  {
+    "team_id": "TEAM-024",
+    "team_name": "Team 024"
+  },
+  {
+    "team_id": "TEAM-025",
+    "team_name": "Team 025"
+  },
+  {
+    "team_id": "TEAM-026",
+    "team_name": "Team 026"
+  },
+  {
+    "team_id": "TEAM-027",
+    "team_name": "Team 027"
+  },
+  {
+    "team_id": "TEAM-028",
+    "team_name": "Team 028"
+  },
+  {
+    "team_id": "TEAM-029",
+    "team_name": "Team 029"
+  },
+  {
+    "team_id": "TEAM-030",
+    "team_name": "Team 030"
+  },
+  {
+    "team_id": "TEAM-031",
+    "team_name": "Team 031"
+  },
+  {
+    "team_id": "TEAM-032",
+    "team_name": "Team 032"
+  },
+  {
+    "team_id": "TEAM-033",
+    "team_name": "Team 033"
+  },
+  {
+    "team_id": "TEAM-034",
+    "team_name": "Team 034"
+  },
+  {
+    "team_id": "TEAM-035",
+    "team_name": "Team 035"
+  },
+  {
+    "team_id": "TEAM-036",
+    "team_name": "Team 036"
+  },
+  {
+    "team_id": "TEAM-037",
+    "team_name": "Team 037"
+  },
+  {
+    "team_id": "TEAM-038",
+    "team_name": "Team 038"
+  },
+  {
+    "team_id": "TEAM-039",
+    "team_name": "Team 039"
+  },
+  {
+    "team_id": "TEAM-040",
+    "team_name": "Team 040"
+  },
+  {
+    "team_id": "TEAM-041",
+    "team_name": "Team 041"
+  },
+  {
+    "team_id": "TEAM-042",
+    "team_name": "Team 042"
+  },
+  {
+    "team_id": "TEAM-043",
+    "team_name": "Team 043"
+  },
+  {
+    "team_id": "TEAM-044",
+    "team_name": "Team 044"
+  },
+  {
+    "team_id": "TEAM-045",
+    "team_name": "Team 045"
+  },
+  {
+    "team_id": "TEAM-046",
+    "team_name": "Team 046"
+  },
+  {
+    "team_id": "TEAM-047",
+    "team_name": "Team 047"
+  },
+  {
+    "team_id": "TEAM-048",
+    "team_name": "Team 048"
+  },
+  {
+    "team_id": "TEAM-049",
+    "team_name": "Team 049"
+  },
+  {
+    "team_id": "TEAM-050",
+    "team_name": "Team 050"
+  },
+  {
+    "team_id": "TEAM-051",
+    "team_name": "Team 051"
+  },
+  {
+    "team_id": "TEAM-052",
+    "team_name": "Team 052"
+  },
+  {
+    "team_id": "TEAM-053",
+    "team_name": "Team 053"
+  },
+  {
+    "team_id": "TEAM-054",
+    "team_name": "Team 054"
+  },
+  {
+    "team_id": "TEAM-055",
+    "team_name": "Team 055"
+  },
+  {
+    "team_id": "TEAM-056",
+    "team_name": "Team 056"
+  },
+  {
+    "team_id": "TEAM-057",
+    "team_name": "Team 057"
+  },
+  {
+    "team_id": "TEAM-058",
+    "team_name": "Team 058"
+  },
+  {
+    "team_id": "TEAM-059",
+    "team_name": "Team 059"
+  },
+  {
+    "team_id": "TEAM-060",
+    "team_name": "Team 060"
+  },
+  {
+    "team_id": "TEAM-061",
+    "team_name": "Team 061"
+  },
+  {
+    "team_id": "TEAM-062",
+    "team_name": "Team 062"
+  },
+  {
+    "team_id": "TEAM-063",
+    "team_name": "Team 063"
+  },
+  {
+    "team_id": "TEAM-064",
+    "team_name": "Team 064"
+  },
+  {
+    "team_id": "TEAM-065",
+    "team_name": "Team 065"
+  },
+  {
+    "team_id": "TEAM-066",
+    "team_name": "Team 066"
+  },
+  {
+    "team_id": "TEAM-067",
+    "team_name": "Team 067"
+  },
+  {
+    "team_id": "TEAM-068",
+    "team_name": "Team 068"
+  },
+  {
+    "team_id": "TEAM-069",
+    "team_name": "Team 069"
+  },
+  {
+    "team_id": "TEAM-070",
+    "team_name": "Team 070"
+  },
+  {
+    "team_id": "TEAM-071",
+    "team_name": "Team 071"
+  },
+  {
+    "team_id": "TEAM-072",
+    "team_name": "Team 072"
+  },
+  {
+    "team_id": "TEAM-073",
+    "team_name": "Team 073"
+  },
+  {
+    "team_id": "TEAM-074",
+    "team_name": "Team 074"
+  },
+  {
+    "team_id": "TEAM-075",
+    "team_name": "Team 075"
+  },
+  {
+    "team_id": "TEAM-076",
+    "team_name": "Team 076"
+  },
+  {
+    "team_id": "TEAM-077",
+    "team_name": "Team 077"
+  },
+  {
+    "team_id": "TEAM-078",
+    "team_name": "Team 078"
+  },
+  {
+    "team_id": "TEAM-079",
+    "team_name": "Team 079"
+  },
+  {
+    "team_id": "TEAM-080",
+    "team_name": "Team 080"
+  },
+  {
+    "team_id": "TEAM-081",
+    "team_name": "Team 081"
+  },
+  {
+    "team_id": "TEAM-082",
+    "team_name": "Team 082"
+  },
+  {
+    "team_id": "TEAM-083",
+    "team_name": "Team 083"
+  },
+  {
+    "team_id": "TEAM-084",
+    "team_name": "Team 084"
+  },
+  {
+    "team_id": "TEAM-085",
+    "team_name": "Team 085"
+  },
+  {
+    "team_id": "TEAM-086",
+    "team_name": "Team 086"
+  },
+  {
+    "team_id": "TEAM-087",
+    "team_name": "Team 087"
+  },
+  {
+    "team_id": "TEAM-088",
+    "team_name": "Team 088"
+  },
+  {
+    "team_id": "TEAM-089",
+    "team_name": "Team 089"
+  },
+  {
+    "team_id": "TEAM-090",
+    "team_name": "Team 090"
+  },
+  {
+    "team_id": "TEAM-091",
+    "team_name": "Team 091"
+  },
+  {
+    "team_id": "TEAM-092",
+    "team_name": "Team 092"
+  },
+  {
+    "team_id": "TEAM-093",
+    "team_name": "Team 093"
+  },
+  {
+    "team_id": "TEAM-094",
+    "team_name": "Team 094"
+  },
+  {
+    "team_id": "TEAM-095",
+    "team_name": "Team 095"
+  },
+  {
+    "team_id": "TEAM-096",
+    "team_name": "Team 096"
+  },
+  {
+    "team_id": "TEAM-097",
+    "team_name": "Team 097"
+  },
+  {
+    "team_id": "TEAM-098",
+    "team_name": "Team 098"
+  },
+  {
+    "team_id": "TEAM-099",
+    "team_name": "Team 099"
+  },
+  {
+    "team_id": "TEAM-100",
+    "team_name": "Team 100"
+  }
+]

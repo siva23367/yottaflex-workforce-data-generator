@@ -1,0 +1,272 @@
+[
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000001",
+    "leave_id": "LVE-2026-000001",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000002",
+    "leave_id": "LVE-2026-000002",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000003",
+    "leave_id": "LVE-2026-000003",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000004",
+    "leave_id": "LVE-2026-000004",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000005",
+    "leave_id": "LVE-2026-000005",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000006",
+    "leave_id": "LVE-2026-000006",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000007",
+    "leave_id": "LVE-2026-000007",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000008",
+    "leave_id": "LVE-2026-000008",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-10T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000009",
+    "leave_id": "LVE-2026-000009",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000010",
+    "leave_id": "LVE-2026-000010",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000011",
+    "leave_id": "LVE-2026-000011",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000012",
+    "leave_id": "LVE-2026-000012",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-04T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000013",
+    "leave_id": "LVE-2026-000013",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-12T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000014",
+    "leave_id": "LVE-2026-000014",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000015",
+    "leave_id": "LVE-2026-000015",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000016",
+    "leave_id": "LVE-2026-000016",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2026-01-11T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000017",
+    "leave_id": "LVE-2026-000017",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-09T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000018",
+    "leave_id": "LVE-2026-000018",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000019",
+    "leave_id": "LVE-2026-000019",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000020",
+    "leave_id": "LVE-2026-000020",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "EMPLOYEE",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "PENDING_REVIEW",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000021",
+    "leave_id": "LVE-2026-000021",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000022",
+    "leave_id": "LVE-2026-000022",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-05T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000023",
+    "leave_id": "LVE-2026-000023",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000024",
+    "leave_id": "LVE-2026-000024",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-12T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000025",
+    "leave_id": "LVE-2026-000025",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000026",
+    "leave_id": "LVE-2026-000026",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000027",
+    "leave_id": "LVE-2026-000027",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-10T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000028",
+    "leave_id": "LVE-2026-000028",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-07T09:00:00",
+    "event_type": "REJECTED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000029",
+    "leave_id": "LVE-2026-000029",
+    "to_status": "Rejected"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-06T09:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Submitted",
+    "leave_event_id": "LVE-EVT-000030",
+    "leave_id": "LVE-2026-000030",
+    "to_status": "Approved"
+  }
+]

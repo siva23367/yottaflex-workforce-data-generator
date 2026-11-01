@@ -1,0 +1,2612 @@
+[
+  {
+    "actor": "EMP-001861",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000001",
+    "swap_id": "SWP-2026-000001",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000002",
+    "swap_id": "SWP-2026-000001",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001961",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000003",
+    "swap_id": "SWP-2026-000002",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000004",
+    "swap_id": "SWP-2026-000002",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000061",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000005",
+    "swap_id": "SWP-2026-000003",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000006",
+    "swap_id": "SWP-2026-000003",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000161",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000007",
+    "swap_id": "SWP-2026-000004",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000008",
+    "swap_id": "SWP-2026-000004",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000261",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000009",
+    "swap_id": "SWP-2026-000005",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000010",
+    "swap_id": "SWP-2026-000005",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000361",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000011",
+    "swap_id": "SWP-2026-000006",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000012",
+    "swap_id": "SWP-2026-000006",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001862",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000013",
+    "swap_id": "SWP-2026-000007",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000014",
+    "swap_id": "SWP-2026-000007",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001962",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000015",
+    "swap_id": "SWP-2026-000008",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000016",
+    "swap_id": "SWP-2026-000008",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000062",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000017",
+    "swap_id": "SWP-2026-000009",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000018",
+    "swap_id": "SWP-2026-000009",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000162",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000019",
+    "swap_id": "SWP-2026-000010",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000020",
+    "swap_id": "SWP-2026-000010",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000262",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000021",
+    "swap_id": "SWP-2026-000011",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000022",
+    "swap_id": "SWP-2026-000011",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000362",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000023",
+    "swap_id": "SWP-2026-000012",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000024",
+    "swap_id": "SWP-2026-000012",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001863",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000025",
+    "swap_id": "SWP-2026-000013",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000026",
+    "swap_id": "SWP-2026-000013",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001963",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000027",
+    "swap_id": "SWP-2026-000014",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000028",
+    "swap_id": "SWP-2026-000014",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000063",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000029",
+    "swap_id": "SWP-2026-000015",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000030",
+    "swap_id": "SWP-2026-000015",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000163",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000031",
+    "swap_id": "SWP-2026-000016",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000032",
+    "swap_id": "SWP-2026-000016",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000263",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000033",
+    "swap_id": "SWP-2026-000017",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000034",
+    "swap_id": "SWP-2026-000017",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000363",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000035",
+    "swap_id": "SWP-2026-000018",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000036",
+    "swap_id": "SWP-2026-000018",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001864",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000037",
+    "swap_id": "SWP-2026-000019",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000038",
+    "swap_id": "SWP-2026-000019",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001964",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000039",
+    "swap_id": "SWP-2026-000020",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000040",
+    "swap_id": "SWP-2026-000020",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000064",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000041",
+    "swap_id": "SWP-2026-000021",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000042",
+    "swap_id": "SWP-2026-000021",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000164",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000043",
+    "swap_id": "SWP-2026-000022",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000044",
+    "swap_id": "SWP-2026-000022",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000264",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000045",
+    "swap_id": "SWP-2026-000023",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000046",
+    "swap_id": "SWP-2026-000023",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000364",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000047",
+    "swap_id": "SWP-2026-000024",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000048",
+    "swap_id": "SWP-2026-000024",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001965",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000049",
+    "swap_id": "SWP-2026-000025",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000050",
+    "swap_id": "SWP-2026-000025",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000065",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000051",
+    "swap_id": "SWP-2026-000026",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000052",
+    "swap_id": "SWP-2026-000026",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000165",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000053",
+    "swap_id": "SWP-2026-000027",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000054",
+    "swap_id": "SWP-2026-000027",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000265",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000055",
+    "swap_id": "SWP-2026-000028",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000056",
+    "swap_id": "SWP-2026-000028",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000365",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000057",
+    "swap_id": "SWP-2026-000029",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000058",
+    "swap_id": "SWP-2026-000029",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000465",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000059",
+    "swap_id": "SWP-2026-000030",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000060",
+    "swap_id": "SWP-2026-000030",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001966",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000061",
+    "swap_id": "SWP-2026-000031",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000062",
+    "swap_id": "SWP-2026-000031",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000066",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000063",
+    "swap_id": "SWP-2026-000032",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000064",
+    "swap_id": "SWP-2026-000032",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000166",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000065",
+    "swap_id": "SWP-2026-000033",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000066",
+    "swap_id": "SWP-2026-000033",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000366",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000067",
+    "swap_id": "SWP-2026-000034",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000068",
+    "swap_id": "SWP-2026-000034",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000466",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000069",
+    "swap_id": "SWP-2026-000035",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000070",
+    "swap_id": "SWP-2026-000035",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000566",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000071",
+    "swap_id": "SWP-2026-000036",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000072",
+    "swap_id": "SWP-2026-000036",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001867",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000073",
+    "swap_id": "SWP-2026-000037",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000074",
+    "swap_id": "SWP-2026-000037",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001967",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000075",
+    "swap_id": "SWP-2026-000038",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000076",
+    "swap_id": "SWP-2026-000038",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000067",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000077",
+    "swap_id": "SWP-2026-000039",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000078",
+    "swap_id": "SWP-2026-000039",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000167",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000079",
+    "swap_id": "SWP-2026-000040",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000080",
+    "swap_id": "SWP-2026-000040",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000267",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000081",
+    "swap_id": "SWP-2026-000041",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000082",
+    "swap_id": "SWP-2026-000041",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000367",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000083",
+    "swap_id": "SWP-2026-000042",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000084",
+    "swap_id": "SWP-2026-000042",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000068",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000085",
+    "swap_id": "SWP-2026-000043",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000086",
+    "swap_id": "SWP-2026-000043",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000168",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000087",
+    "swap_id": "SWP-2026-000044",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000088",
+    "swap_id": "SWP-2026-000044",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000268",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000089",
+    "swap_id": "SWP-2026-000045",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000090",
+    "swap_id": "SWP-2026-000045",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000368",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000091",
+    "swap_id": "SWP-2026-000046",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000092",
+    "swap_id": "SWP-2026-000046",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000468",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000093",
+    "swap_id": "SWP-2026-000047",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000094",
+    "swap_id": "SWP-2026-000047",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000568",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000095",
+    "swap_id": "SWP-2026-000048",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000096",
+    "swap_id": "SWP-2026-000048",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001869",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000097",
+    "swap_id": "SWP-2026-000049",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000098",
+    "swap_id": "SWP-2026-000049",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001969",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000099",
+    "swap_id": "SWP-2026-000050",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000100",
+    "swap_id": "SWP-2026-000050",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000069",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000101",
+    "swap_id": "SWP-2026-000051",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000102",
+    "swap_id": "SWP-2026-000051",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000169",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000103",
+    "swap_id": "SWP-2026-000052",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000104",
+    "swap_id": "SWP-2026-000052",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000269",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000105",
+    "swap_id": "SWP-2026-000053",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000106",
+    "swap_id": "SWP-2026-000053",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000369",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000107",
+    "swap_id": "SWP-2026-000054",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000108",
+    "swap_id": "SWP-2026-000054",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001870",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000109",
+    "swap_id": "SWP-2026-000055",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000110",
+    "swap_id": "SWP-2026-000055",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001970",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000111",
+    "swap_id": "SWP-2026-000056",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000112",
+    "swap_id": "SWP-2026-000056",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000070",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000113",
+    "swap_id": "SWP-2026-000057",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000114",
+    "swap_id": "SWP-2026-000057",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000170",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000115",
+    "swap_id": "SWP-2026-000058",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000116",
+    "swap_id": "SWP-2026-000058",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000270",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000117",
+    "swap_id": "SWP-2026-000059",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000118",
+    "swap_id": "SWP-2026-000059",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000370",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000119",
+    "swap_id": "SWP-2026-000060",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000120",
+    "swap_id": "SWP-2026-000060",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001871",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000121",
+    "swap_id": "SWP-2026-000061",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000122",
+    "swap_id": "SWP-2026-000061",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001971",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000123",
+    "swap_id": "SWP-2026-000062",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000124",
+    "swap_id": "SWP-2026-000062",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000071",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000125",
+    "swap_id": "SWP-2026-000063",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000126",
+    "swap_id": "SWP-2026-000063",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000171",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000127",
+    "swap_id": "SWP-2026-000064",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000128",
+    "swap_id": "SWP-2026-000064",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000271",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000129",
+    "swap_id": "SWP-2026-000065",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000130",
+    "swap_id": "SWP-2026-000065",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000371",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000131",
+    "swap_id": "SWP-2026-000066",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000132",
+    "swap_id": "SWP-2026-000066",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000772",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000133",
+    "swap_id": "SWP-2026-000067",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000134",
+    "swap_id": "SWP-2026-000067",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001972",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000135",
+    "swap_id": "SWP-2026-000068",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000136",
+    "swap_id": "SWP-2026-000068",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000072",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000137",
+    "swap_id": "SWP-2026-000069",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000138",
+    "swap_id": "SWP-2026-000069",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000172",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000139",
+    "swap_id": "SWP-2026-000070",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000140",
+    "swap_id": "SWP-2026-000070",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000272",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000141",
+    "swap_id": "SWP-2026-000071",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000142",
+    "swap_id": "SWP-2026-000071",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000372",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000143",
+    "swap_id": "SWP-2026-000072",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000144",
+    "swap_id": "SWP-2026-000072",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001873",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000145",
+    "swap_id": "SWP-2026-000073",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000146",
+    "swap_id": "SWP-2026-000073",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001973",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000147",
+    "swap_id": "SWP-2026-000074",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000148",
+    "swap_id": "SWP-2026-000074",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000073",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000149",
+    "swap_id": "SWP-2026-000075",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000150",
+    "swap_id": "SWP-2026-000075",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000173",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000151",
+    "swap_id": "SWP-2026-000076",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000152",
+    "swap_id": "SWP-2026-000076",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000273",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000153",
+    "swap_id": "SWP-2026-000077",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000154",
+    "swap_id": "SWP-2026-000077",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000473",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000155",
+    "swap_id": "SWP-2026-000078",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000156",
+    "swap_id": "SWP-2026-000078",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001274",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000157",
+    "swap_id": "SWP-2026-000079",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000158",
+    "swap_id": "SWP-2026-000079",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001974",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000159",
+    "swap_id": "SWP-2026-000080",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000160",
+    "swap_id": "SWP-2026-000080",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000074",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000161",
+    "swap_id": "SWP-2026-000081",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000162",
+    "swap_id": "SWP-2026-000081",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000174",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000163",
+    "swap_id": "SWP-2026-000082",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000164",
+    "swap_id": "SWP-2026-000082",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000274",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000165",
+    "swap_id": "SWP-2026-000083",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000166",
+    "swap_id": "SWP-2026-000083",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000374",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000167",
+    "swap_id": "SWP-2026-000084",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000168",
+    "swap_id": "SWP-2026-000084",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001875",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000169",
+    "swap_id": "SWP-2026-000085",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000170",
+    "swap_id": "SWP-2026-000085",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001975",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000171",
+    "swap_id": "SWP-2026-000086",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000172",
+    "swap_id": "SWP-2026-000086",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000075",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000173",
+    "swap_id": "SWP-2026-000087",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000174",
+    "swap_id": "SWP-2026-000087",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000175",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000175",
+    "swap_id": "SWP-2026-000088",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000176",
+    "swap_id": "SWP-2026-000088",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000275",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000177",
+    "swap_id": "SWP-2026-000089",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000178",
+    "swap_id": "SWP-2026-000089",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000375",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000179",
+    "swap_id": "SWP-2026-000090",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000180",
+    "swap_id": "SWP-2026-000090",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000776",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000181",
+    "swap_id": "SWP-2026-000091",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000182",
+    "swap_id": "SWP-2026-000091",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001976",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000183",
+    "swap_id": "SWP-2026-000092",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000184",
+    "swap_id": "SWP-2026-000092",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000076",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000185",
+    "swap_id": "SWP-2026-000093",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000186",
+    "swap_id": "SWP-2026-000093",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000176",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000187",
+    "swap_id": "SWP-2026-000094",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000188",
+    "swap_id": "SWP-2026-000094",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000276",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000189",
+    "swap_id": "SWP-2026-000095",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000190",
+    "swap_id": "SWP-2026-000095",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000376",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000191",
+    "swap_id": "SWP-2026-000096",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000192",
+    "swap_id": "SWP-2026-000096",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001877",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000193",
+    "swap_id": "SWP-2026-000097",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000194",
+    "swap_id": "SWP-2026-000097",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001977",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000195",
+    "swap_id": "SWP-2026-000098",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000196",
+    "swap_id": "SWP-2026-000098",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000077",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000197",
+    "swap_id": "SWP-2026-000099",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000198",
+    "swap_id": "SWP-2026-000099",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000177",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000199",
+    "swap_id": "SWP-2026-000100",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000200",
+    "swap_id": "SWP-2026-000100",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000277",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000201",
+    "swap_id": "SWP-2026-000101",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000202",
+    "swap_id": "SWP-2026-000101",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000377",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000203",
+    "swap_id": "SWP-2026-000102",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000204",
+    "swap_id": "SWP-2026-000102",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001878",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000205",
+    "swap_id": "SWP-2026-000103",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000206",
+    "swap_id": "SWP-2026-000103",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001978",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000207",
+    "swap_id": "SWP-2026-000104",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000208",
+    "swap_id": "SWP-2026-000104",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000078",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000209",
+    "swap_id": "SWP-2026-000105",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000210",
+    "swap_id": "SWP-2026-000105",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000178",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000211",
+    "swap_id": "SWP-2026-000106",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000212",
+    "swap_id": "SWP-2026-000106",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000278",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000213",
+    "swap_id": "SWP-2026-000107",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000214",
+    "swap_id": "SWP-2026-000107",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000378",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000215",
+    "swap_id": "SWP-2026-000108",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED_WITHOUT_APPROVAL",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000216",
+    "swap_id": "SWP-2026-000108",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000001",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000217",
+    "swap_id": "SWP-2026-000109",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000117",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000218",
+    "swap_id": "SWP-2026-000110",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000233",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000219",
+    "swap_id": "SWP-2026-000111",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-30T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000220",
+    "swap_id": "SWP-2026-000111",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-01T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000221",
+    "swap_id": "SWP-2026-000111",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000349",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000222",
+    "swap_id": "SWP-2026-000112",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-30T13:00:00",
+    "event_type": "DENIED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000223",
+    "swap_id": "SWP-2026-000112",
+    "to_status": "Denied"
+  },
+  {
+    "actor": "EMP-000465",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000224",
+    "swap_id": "SWP-2026-000113",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-30T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000225",
+    "swap_id": "SWP-2026-000113",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-01T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000226",
+    "swap_id": "SWP-2026-000113",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000581",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000227",
+    "swap_id": "SWP-2026-000114",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-30T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000228",
+    "swap_id": "SWP-2026-000114",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-01T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000229",
+    "swap_id": "SWP-2026-000114",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000098",
+    "event_at": "2025-12-30T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000230",
+    "swap_id": "SWP-2026-000115",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-30T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000231",
+    "swap_id": "SWP-2026-000115",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-01T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000232",
+    "swap_id": "SWP-2026-000115",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000714",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000233",
+    "swap_id": "SWP-2026-000116",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000830",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000234",
+    "swap_id": "SWP-2026-000117",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T13:00:00",
+    "event_type": "DENIED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000235",
+    "swap_id": "SWP-2026-000117",
+    "to_status": "Denied"
+  },
+  {
+    "actor": "EMP-000946",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000236",
+    "swap_id": "SWP-2026-000118",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000237",
+    "swap_id": "SWP-2026-000118",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-02T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000238",
+    "swap_id": "SWP-2026-000118",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001062",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000239",
+    "swap_id": "SWP-2026-000119",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000240",
+    "swap_id": "SWP-2026-000119",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-02T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000241",
+    "swap_id": "SWP-2026-000119",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001178",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000242",
+    "swap_id": "SWP-2026-000120",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000243",
+    "swap_id": "SWP-2026-000120",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-02T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000244",
+    "swap_id": "SWP-2026-000120",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000695",
+    "event_at": "2025-12-31T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000245",
+    "swap_id": "SWP-2026-000121",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2025-12-31T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000246",
+    "swap_id": "SWP-2026-000121",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-02T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000247",
+    "swap_id": "SWP-2026-000121",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001311",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000248",
+    "swap_id": "SWP-2026-000122",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-01T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000249",
+    "swap_id": "SWP-2026-000122",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-03T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000250",
+    "swap_id": "SWP-2026-000122",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001527",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000251",
+    "swap_id": "SWP-2026-000123",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-01T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000252",
+    "swap_id": "SWP-2026-000123",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-03T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000253",
+    "swap_id": "SWP-2026-000123",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001543",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000254",
+    "swap_id": "SWP-2026-000124",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-01T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000255",
+    "swap_id": "SWP-2026-000124",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-03T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000256",
+    "swap_id": "SWP-2026-000124",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001659",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000257",
+    "swap_id": "SWP-2026-000125",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-001775",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000258",
+    "swap_id": "SWP-2026-000126",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-01T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000259",
+    "swap_id": "SWP-2026-000126",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-03T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000260",
+    "swap_id": "SWP-2026-000126",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001292",
+    "event_at": "2026-01-01T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000261",
+    "swap_id": "SWP-2026-000127",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-01T13:00:00",
+    "event_type": "DENIED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000262",
+    "swap_id": "SWP-2026-000127",
+    "to_status": "Denied"
+  },
+  {
+    "actor": "EMP-001908",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000263",
+    "swap_id": "SWP-2026-000128",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T13:00:00",
+    "event_type": "DENIED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000264",
+    "swap_id": "SWP-2026-000128",
+    "to_status": "Denied"
+  },
+  {
+    "actor": "EMP-000124",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000265",
+    "swap_id": "SWP-2026-000129",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T13:00:00",
+    "event_type": "DENIED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000266",
+    "swap_id": "SWP-2026-000129",
+    "to_status": "Denied"
+  },
+  {
+    "actor": "EMP-000140",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000267",
+    "swap_id": "SWP-2026-000130",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T13:00:00",
+    "event_type": "DENIED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000268",
+    "swap_id": "SWP-2026-000130",
+    "to_status": "Denied"
+  },
+  {
+    "actor": "EMP-000356",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000269",
+    "swap_id": "SWP-2026-000131",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000270",
+    "swap_id": "SWP-2026-000131",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000271",
+    "swap_id": "SWP-2026-000131",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000172",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000272",
+    "swap_id": "SWP-2026-000132",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000273",
+    "swap_id": "SWP-2026-000132",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000274",
+    "swap_id": "SWP-2026-000132",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001889",
+    "event_at": "2026-01-02T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000275",
+    "swap_id": "SWP-2026-000133",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-02T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000276",
+    "swap_id": "SWP-2026-000133",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-04T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000277",
+    "swap_id": "SWP-2026-000133",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000605",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000278",
+    "swap_id": "SWP-2026-000134",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "EMP-000721",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000279",
+    "swap_id": "SWP-2026-000135",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-03T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000280",
+    "swap_id": "SWP-2026-000135",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-05T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000281",
+    "swap_id": "SWP-2026-000135",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000737",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000282",
+    "swap_id": "SWP-2026-000136",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-03T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000283",
+    "swap_id": "SWP-2026-000136",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-05T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000284",
+    "swap_id": "SWP-2026-000136",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-000953",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000285",
+    "swap_id": "SWP-2026-000137",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-03T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000286",
+    "swap_id": "SWP-2026-000137",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-05T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000287",
+    "swap_id": "SWP-2026-000137",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "EMP-001069",
+    "event_at": "2026-01-03T09:00:00",
+    "event_type": "REQUESTED",
+    "from_status": "NotSubmitted",
+    "swap_event_id": "SWP-EVT-000288",
+    "swap_id": "SWP-2026-000138",
+    "to_status": "Pending"
+  },
+  {
+    "actor": "MANAGER",
+    "event_at": "2026-01-03T13:00:00",
+    "event_type": "APPROVED",
+    "from_status": "Pending",
+    "swap_event_id": "SWP-EVT-000289",
+    "swap_id": "SWP-2026-000138",
+    "to_status": "Approved"
+  },
+  {
+    "actor": "SYSTEM",
+    "event_at": "2026-01-05T06:00:00",
+    "event_type": "APPLIED",
+    "from_status": "Approved",
+    "swap_event_id": "SWP-EVT-000290",
+    "swap_id": "SWP-2026-000138",
+    "to_status": "Approved"
+  }
+]

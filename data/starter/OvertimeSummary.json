@@ -1,0 +1,1192 @@
+[
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57900,
+    "emp_id": "EMP-000001",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000001-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 85800,
+    "emp_id": "EMP-000001",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000001-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57300,
+    "emp_id": "EMP-000001",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000001-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 87000,
+    "emp_id": "EMP-000002",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000002-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 116100,
+    "emp_id": "EMP-000002",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000002-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57900,
+    "emp_id": "EMP-000002",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000002-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86100,
+    "emp_id": "EMP-000003",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000003-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 116700,
+    "emp_id": "EMP-000003",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000003-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 56400,
+    "emp_id": "EMP-000003",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000003-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114000,
+    "emp_id": "EMP-000004",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000004-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 85500,
+    "emp_id": "EMP-000004",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000004-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000004",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000004-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 87000,
+    "emp_id": "EMP-000005",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000005-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114000,
+    "emp_id": "EMP-000005",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000005-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57000,
+    "emp_id": "EMP-000005",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000005-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86100,
+    "emp_id": "EMP-000006",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000006-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115500,
+    "emp_id": "EMP-000006",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000006-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57000,
+    "emp_id": "EMP-000006",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000006-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86700,
+    "emp_id": "EMP-000007",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000007-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 87300,
+    "emp_id": "EMP-000007",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000007-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 58200,
+    "emp_id": "EMP-000007",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000007-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86400,
+    "emp_id": "EMP-000008",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000008-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114600,
+    "emp_id": "EMP-000008",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000008-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000008",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000008-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 1200,
+    "actual_worked_seconds": 145200,
+    "emp_id": "EMP-000009",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000009-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114900,
+    "emp_id": "EMP-000009",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000009-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28800,
+    "emp_id": "EMP-000009",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000009-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86400,
+    "emp_id": "EMP-000010",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000010-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114300,
+    "emp_id": "EMP-000010",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000010-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57000,
+    "emp_id": "EMP-000010",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000010-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28800,
+    "emp_id": "EMP-000011",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000011-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 30300,
+    "actual_worked_seconds": 174300,
+    "emp_id": "EMP-000011",
+    "scheduled_hours": 48,
+    "scheduled_overtime_hours": 8,
+    "summary_id": "OTS-EMP-000011-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000011",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000011-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57900,
+    "emp_id": "EMP-000012",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000012-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000012",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000012-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57300,
+    "emp_id": "EMP-000012",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000012-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 87000,
+    "emp_id": "EMP-000013",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000013-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114600,
+    "emp_id": "EMP-000013",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000013-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000013",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000013-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000014",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000014-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115500,
+    "emp_id": "EMP-000014",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000014-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28800,
+    "emp_id": "EMP-000014",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000014-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86400,
+    "emp_id": "EMP-000015",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000015-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86700,
+    "emp_id": "EMP-000015",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000015-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57300,
+    "emp_id": "EMP-000015",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000015-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 85500,
+    "emp_id": "EMP-000016",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000016-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 117000,
+    "emp_id": "EMP-000016",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000016-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000016",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000016-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86100,
+    "emp_id": "EMP-000017",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000017-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 113400,
+    "emp_id": "EMP-000017",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000017-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28800,
+    "emp_id": "EMP-000017",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000017-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 29400,
+    "emp_id": "EMP-000018",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000018-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 116400,
+    "emp_id": "EMP-000018",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000018-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 58200,
+    "emp_id": "EMP-000018",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000018-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 85500,
+    "emp_id": "EMP-000019",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000019-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114300,
+    "emp_id": "EMP-000019",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000019-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 58500,
+    "emp_id": "EMP-000019",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000019-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000020",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000020-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 142800,
+    "emp_id": "EMP-000020",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000020-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 27900,
+    "emp_id": "EMP-000020",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000020-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 87300,
+    "emp_id": "EMP-000021",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000021-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115800,
+    "emp_id": "EMP-000021",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000021-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000021",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000021-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 58200,
+    "emp_id": "EMP-000022",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000022-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 142200,
+    "emp_id": "EMP-000022",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000022-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28800,
+    "emp_id": "EMP-000022",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000022-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000023",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000023-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115200,
+    "emp_id": "EMP-000023",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000023-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28800,
+    "emp_id": "EMP-000023",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000023-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000024",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000024-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 300,
+    "actual_worked_seconds": 144300,
+    "emp_id": "EMP-000024",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000024-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57000,
+    "emp_id": "EMP-000024",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000024-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 143700,
+    "emp_id": "EMP-000025",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000025-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000025",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000025-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57000,
+    "emp_id": "EMP-000026",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000026-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114300,
+    "emp_id": "EMP-000026",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000026-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57300,
+    "emp_id": "EMP-000026",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000026-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000027",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000027-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 143100,
+    "emp_id": "EMP-000027",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000027-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 27900,
+    "emp_id": "EMP-000027",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000027-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57300,
+    "emp_id": "EMP-000028",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000028-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 900,
+    "actual_worked_seconds": 144900,
+    "emp_id": "EMP-000028",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000028-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57900,
+    "emp_id": "EMP-000028",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000028-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000029",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000029-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 144000,
+    "emp_id": "EMP-000029",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000029-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28800,
+    "emp_id": "EMP-000029",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000029-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000030",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000030-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115500,
+    "emp_id": "EMP-000030",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000030-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57900,
+    "emp_id": "EMP-000030",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000030-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000031",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000031-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115500,
+    "emp_id": "EMP-000031",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000031-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57300,
+    "emp_id": "EMP-000031",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000031-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 58200,
+    "emp_id": "EMP-000032",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000032-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 86400,
+    "emp_id": "EMP-000032",
+    "scheduled_hours": 24,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000032-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000032",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000032-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57900,
+    "emp_id": "EMP-000033",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000033-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 114900,
+    "emp_id": "EMP-000033",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000033-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 29700,
+    "emp_id": "EMP-000033",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000033-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 58200,
+    "emp_id": "EMP-000034",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000034-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 116400,
+    "emp_id": "EMP-000034",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000034-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 56400,
+    "emp_id": "EMP-000034",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000034-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57900,
+    "emp_id": "EMP-000035",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000035-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 117000,
+    "emp_id": "EMP-000035",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000035-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000035",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000035-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000036",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000036-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 142500,
+    "emp_id": "EMP-000036",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000036-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 28200,
+    "emp_id": "EMP-000036",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000036-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000037",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000037-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115200,
+    "emp_id": "EMP-000037",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000037-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 56700,
+    "emp_id": "EMP-000037",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000037-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57300,
+    "emp_id": "EMP-000038",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000038-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115200,
+    "emp_id": "EMP-000038",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000038-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57000,
+    "emp_id": "EMP-000038",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000038-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000039",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000039-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 115500,
+    "emp_id": "EMP-000039",
+    "scheduled_hours": 32,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000039-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 57600,
+    "emp_id": "EMP-000039",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000039-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 58500,
+    "emp_id": "EMP-000040",
+    "scheduled_hours": 16,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000040-2025-12-29",
+    "week_start": "2025-12-29",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 144000,
+    "emp_id": "EMP-000040",
+    "scheduled_hours": 40,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000040-2026-01-05",
+    "week_start": "2026-01-05",
+    "weekly_hours_cap": 40
+  },
+  {
+    "actual_overtime_seconds": 0,
+    "actual_worked_seconds": 29100,
+    "emp_id": "EMP-000040",
+    "scheduled_hours": 8,
+    "scheduled_overtime_hours": 0,
+    "summary_id": "OTS-EMP-000040-2026-01-12",
+    "week_start": "2026-01-12",
+    "weekly_hours_cap": 40
+  }
+]

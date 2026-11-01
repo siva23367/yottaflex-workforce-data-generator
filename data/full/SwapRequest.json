@@ -1,0 +1,968 @@
+[
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002161",
+    "requesting_emp_id": "EMP-001861",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000001",
+    "target_emp_id": "EMP-000061"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002162",
+    "requesting_emp_id": "EMP-001961",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000002",
+    "target_emp_id": "EMP-000161"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002163",
+    "requesting_emp_id": "EMP-000061",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000003",
+    "target_emp_id": "EMP-000261"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002164",
+    "requesting_emp_id": "EMP-000161",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000004",
+    "target_emp_id": "EMP-000061"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002165",
+    "requesting_emp_id": "EMP-000261",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000005",
+    "target_emp_id": "EMP-000061"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002166",
+    "requesting_emp_id": "EMP-000361",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000006",
+    "target_emp_id": "EMP-000161"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002167",
+    "requesting_emp_id": "EMP-001862",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000007",
+    "target_emp_id": "EMP-000062"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002168",
+    "requesting_emp_id": "EMP-001962",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000008",
+    "target_emp_id": "EMP-000162"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002169",
+    "requesting_emp_id": "EMP-000062",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000009",
+    "target_emp_id": "EMP-000262"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002170",
+    "requesting_emp_id": "EMP-000162",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000010",
+    "target_emp_id": "EMP-000062"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002171",
+    "requesting_emp_id": "EMP-000262",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000011",
+    "target_emp_id": "EMP-000062"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002172",
+    "requesting_emp_id": "EMP-000362",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000012",
+    "target_emp_id": "EMP-000162"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002173",
+    "requesting_emp_id": "EMP-001863",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000013",
+    "target_emp_id": "EMP-000063"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002174",
+    "requesting_emp_id": "EMP-001963",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000014",
+    "target_emp_id": "EMP-000163"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002175",
+    "requesting_emp_id": "EMP-000063",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000015",
+    "target_emp_id": "EMP-000263"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002176",
+    "requesting_emp_id": "EMP-000163",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000016",
+    "target_emp_id": "EMP-000063"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002177",
+    "requesting_emp_id": "EMP-000263",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000017",
+    "target_emp_id": "EMP-000063"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002178",
+    "requesting_emp_id": "EMP-000363",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000018",
+    "target_emp_id": "EMP-000163"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002179",
+    "requesting_emp_id": "EMP-001864",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000019",
+    "target_emp_id": "EMP-000064"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002180",
+    "requesting_emp_id": "EMP-001964",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000020",
+    "target_emp_id": "EMP-000164"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002181",
+    "requesting_emp_id": "EMP-000064",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000021",
+    "target_emp_id": "EMP-000264"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002182",
+    "requesting_emp_id": "EMP-000164",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000022",
+    "target_emp_id": "EMP-000064"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002183",
+    "requesting_emp_id": "EMP-000264",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000023",
+    "target_emp_id": "EMP-000064"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002184",
+    "requesting_emp_id": "EMP-000364",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000024",
+    "target_emp_id": "EMP-000164"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002185",
+    "requesting_emp_id": "EMP-001965",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000025",
+    "target_emp_id": "EMP-000165"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002186",
+    "requesting_emp_id": "EMP-000065",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000026",
+    "target_emp_id": "EMP-000265"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002187",
+    "requesting_emp_id": "EMP-000165",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000027",
+    "target_emp_id": "EMP-000065"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002188",
+    "requesting_emp_id": "EMP-000265",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000028",
+    "target_emp_id": "EMP-000165"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002189",
+    "requesting_emp_id": "EMP-000365",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000029",
+    "target_emp_id": "EMP-000065"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002190",
+    "requesting_emp_id": "EMP-000465",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000030",
+    "target_emp_id": "EMP-000165"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002191",
+    "requesting_emp_id": "EMP-001966",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000031",
+    "target_emp_id": "EMP-000166"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002192",
+    "requesting_emp_id": "EMP-000066",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000032",
+    "target_emp_id": "EMP-000366"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002193",
+    "requesting_emp_id": "EMP-000166",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000033",
+    "target_emp_id": "EMP-000066"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002194",
+    "requesting_emp_id": "EMP-000366",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000034",
+    "target_emp_id": "EMP-000166"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002195",
+    "requesting_emp_id": "EMP-000466",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000035",
+    "target_emp_id": "EMP-000066"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002196",
+    "requesting_emp_id": "EMP-000566",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000036",
+    "target_emp_id": "EMP-000166"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002197",
+    "requesting_emp_id": "EMP-001867",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000037",
+    "target_emp_id": "EMP-000067"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002198",
+    "requesting_emp_id": "EMP-001967",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000038",
+    "target_emp_id": "EMP-000167"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002199",
+    "requesting_emp_id": "EMP-000067",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000039",
+    "target_emp_id": "EMP-000267"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002200",
+    "requesting_emp_id": "EMP-000167",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000040",
+    "target_emp_id": "EMP-000067"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002201",
+    "requesting_emp_id": "EMP-000267",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000041",
+    "target_emp_id": "EMP-000067"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002202",
+    "requesting_emp_id": "EMP-000367",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000042",
+    "target_emp_id": "EMP-000167"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002203",
+    "requesting_emp_id": "EMP-000068",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000043",
+    "target_emp_id": "EMP-000268"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002204",
+    "requesting_emp_id": "EMP-000168",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000044",
+    "target_emp_id": "EMP-000068"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002205",
+    "requesting_emp_id": "EMP-000268",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000045",
+    "target_emp_id": "EMP-000068"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002206",
+    "requesting_emp_id": "EMP-000368",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000046",
+    "target_emp_id": "EMP-000168"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002207",
+    "requesting_emp_id": "EMP-000468",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000047",
+    "target_emp_id": "EMP-000068"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002208",
+    "requesting_emp_id": "EMP-000568",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000048",
+    "target_emp_id": "EMP-000168"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002209",
+    "requesting_emp_id": "EMP-001869",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000049",
+    "target_emp_id": "EMP-000069"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002210",
+    "requesting_emp_id": "EMP-001969",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000050",
+    "target_emp_id": "EMP-000169"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002211",
+    "requesting_emp_id": "EMP-000069",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000051",
+    "target_emp_id": "EMP-000269"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002212",
+    "requesting_emp_id": "EMP-000169",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000052",
+    "target_emp_id": "EMP-000069"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002213",
+    "requesting_emp_id": "EMP-000269",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000053",
+    "target_emp_id": "EMP-000069"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002214",
+    "requesting_emp_id": "EMP-000369",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000054",
+    "target_emp_id": "EMP-000169"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002215",
+    "requesting_emp_id": "EMP-001870",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000055",
+    "target_emp_id": "EMP-000070"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002216",
+    "requesting_emp_id": "EMP-001970",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000056",
+    "target_emp_id": "EMP-000170"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002217",
+    "requesting_emp_id": "EMP-000070",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000057",
+    "target_emp_id": "EMP-000270"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002218",
+    "requesting_emp_id": "EMP-000170",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000058",
+    "target_emp_id": "EMP-000070"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002219",
+    "requesting_emp_id": "EMP-000270",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000059",
+    "target_emp_id": "EMP-000070"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002220",
+    "requesting_emp_id": "EMP-000370",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000060",
+    "target_emp_id": "EMP-000170"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002221",
+    "requesting_emp_id": "EMP-001871",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000061",
+    "target_emp_id": "EMP-000071"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002222",
+    "requesting_emp_id": "EMP-001971",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000062",
+    "target_emp_id": "EMP-000171"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002223",
+    "requesting_emp_id": "EMP-000071",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000063",
+    "target_emp_id": "EMP-000271"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002224",
+    "requesting_emp_id": "EMP-000171",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000064",
+    "target_emp_id": "EMP-000071"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002225",
+    "requesting_emp_id": "EMP-000271",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000065",
+    "target_emp_id": "EMP-000071"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002226",
+    "requesting_emp_id": "EMP-000371",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000066",
+    "target_emp_id": "EMP-000171"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002227",
+    "requesting_emp_id": "EMP-000772",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000067",
+    "target_emp_id": "EMP-000072"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002228",
+    "requesting_emp_id": "EMP-001972",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000068",
+    "target_emp_id": "EMP-000172"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002229",
+    "requesting_emp_id": "EMP-000072",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000069",
+    "target_emp_id": "EMP-000272"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002230",
+    "requesting_emp_id": "EMP-000172",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000070",
+    "target_emp_id": "EMP-000072"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002231",
+    "requesting_emp_id": "EMP-000272",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000071",
+    "target_emp_id": "EMP-000072"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002232",
+    "requesting_emp_id": "EMP-000372",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000072",
+    "target_emp_id": "EMP-000172"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002233",
+    "requesting_emp_id": "EMP-001873",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000073",
+    "target_emp_id": "EMP-000073"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002234",
+    "requesting_emp_id": "EMP-001973",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000074",
+    "target_emp_id": "EMP-000173"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002235",
+    "requesting_emp_id": "EMP-000073",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000075",
+    "target_emp_id": "EMP-000273"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002236",
+    "requesting_emp_id": "EMP-000173",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000076",
+    "target_emp_id": "EMP-000073"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002237",
+    "requesting_emp_id": "EMP-000273",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000077",
+    "target_emp_id": "EMP-000073"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002238",
+    "requesting_emp_id": "EMP-000473",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000078",
+    "target_emp_id": "EMP-000173"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002239",
+    "requesting_emp_id": "EMP-001274",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000079",
+    "target_emp_id": "EMP-000074"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002240",
+    "requesting_emp_id": "EMP-001974",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000080",
+    "target_emp_id": "EMP-000174"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002241",
+    "requesting_emp_id": "EMP-000074",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000081",
+    "target_emp_id": "EMP-000274"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002242",
+    "requesting_emp_id": "EMP-000174",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000082",
+    "target_emp_id": "EMP-000074"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002243",
+    "requesting_emp_id": "EMP-000274",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000083",
+    "target_emp_id": "EMP-000074"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002244",
+    "requesting_emp_id": "EMP-000374",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000084",
+    "target_emp_id": "EMP-000174"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002245",
+    "requesting_emp_id": "EMP-001875",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000085",
+    "target_emp_id": "EMP-000075"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002246",
+    "requesting_emp_id": "EMP-001975",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000086",
+    "target_emp_id": "EMP-000175"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002247",
+    "requesting_emp_id": "EMP-000075",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000087",
+    "target_emp_id": "EMP-000275"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002248",
+    "requesting_emp_id": "EMP-000175",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000088",
+    "target_emp_id": "EMP-000075"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002249",
+    "requesting_emp_id": "EMP-000275",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000089",
+    "target_emp_id": "EMP-000075"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002250",
+    "requesting_emp_id": "EMP-000375",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000090",
+    "target_emp_id": "EMP-000175"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002251",
+    "requesting_emp_id": "EMP-000776",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000091",
+    "target_emp_id": "EMP-000076"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002252",
+    "requesting_emp_id": "EMP-001976",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000092",
+    "target_emp_id": "EMP-000176"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002253",
+    "requesting_emp_id": "EMP-000076",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000093",
+    "target_emp_id": "EMP-000276"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002254",
+    "requesting_emp_id": "EMP-000176",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000094",
+    "target_emp_id": "EMP-000076"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002255",
+    "requesting_emp_id": "EMP-000276",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000095",
+    "target_emp_id": "EMP-000076"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002256",
+    "requesting_emp_id": "EMP-000376",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000096",
+    "target_emp_id": "EMP-000176"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002257",
+    "requesting_emp_id": "EMP-001877",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000097",
+    "target_emp_id": "EMP-000077"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002258",
+    "requesting_emp_id": "EMP-001977",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000098",
+    "target_emp_id": "EMP-000177"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002259",
+    "requesting_emp_id": "EMP-000077",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000099",
+    "target_emp_id": "EMP-000277"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002260",
+    "requesting_emp_id": "EMP-000177",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000100",
+    "target_emp_id": "EMP-000077"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002261",
+    "requesting_emp_id": "EMP-000277",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000101",
+    "target_emp_id": "EMP-000077"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002262",
+    "requesting_emp_id": "EMP-000377",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000102",
+    "target_emp_id": "EMP-000177"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002263",
+    "requesting_emp_id": "EMP-001878",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000103",
+    "target_emp_id": "EMP-000078"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002264",
+    "requesting_emp_id": "EMP-001978",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000104",
+    "target_emp_id": "EMP-000178"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002265",
+    "requesting_emp_id": "EMP-000078",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000105",
+    "target_emp_id": "EMP-000278"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002266",
+    "requesting_emp_id": "EMP-000178",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000106",
+    "target_emp_id": "EMP-000078"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002267",
+    "requesting_emp_id": "EMP-000278",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000107",
+    "target_emp_id": "EMP-000078"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002268",
+    "requesting_emp_id": "EMP-000378",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000108",
+    "target_emp_id": "EMP-000178"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000001",
+    "requesting_emp_id": "EMP-000001",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000109",
+    "target_emp_id": "EMP-000201"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000098",
+    "requesting_emp_id": "EMP-000117",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000110",
+    "target_emp_id": "EMP-000317"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000195",
+    "requesting_emp_id": "EMP-000233",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000111",
+    "target_emp_id": "EMP-000033"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-B-000292",
+    "requesting_emp_id": "EMP-000349",
+    "status": "Denied",
+    "swap_id": "SWP-2026-000112",
+    "target_emp_id": "EMP-000049"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000389",
+    "requesting_emp_id": "EMP-000465",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000113",
+    "target_emp_id": "EMP-000065"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-C-000486",
+    "requesting_emp_id": "EMP-000581",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000114",
+    "target_emp_id": "EMP-000081"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-01-A-000583",
+    "requesting_emp_id": "EMP-000098",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000115",
+    "target_emp_id": "EMP-000298"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-000680",
+    "requesting_emp_id": "EMP-000714",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000116",
+    "target_emp_id": "EMP-000014"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000777",
+    "requesting_emp_id": "EMP-000830",
+    "status": "Denied",
+    "swap_id": "SWP-2026-000117",
+    "target_emp_id": "EMP-000030"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-B-000874",
+    "requesting_emp_id": "EMP-000946",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000118",
+    "target_emp_id": "EMP-000046"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-000971",
+    "requesting_emp_id": "EMP-001062",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000119",
+    "target_emp_id": "EMP-000062"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-C-001068",
+    "requesting_emp_id": "EMP-001178",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000120",
+    "target_emp_id": "EMP-000078"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-02-A-001165",
+    "requesting_emp_id": "EMP-000695",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000121",
+    "target_emp_id": "EMP-000095"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-001262",
+    "requesting_emp_id": "EMP-001311",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000122",
+    "target_emp_id": "EMP-000011"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-001359",
+    "requesting_emp_id": "EMP-001527",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000123",
+    "target_emp_id": "EMP-000027"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-B-001456",
+    "requesting_emp_id": "EMP-001543",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000124",
+    "target_emp_id": "EMP-000043"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-001553",
+    "requesting_emp_id": "EMP-001659",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000125",
+    "target_emp_id": "EMP-000059"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-C-001650",
+    "requesting_emp_id": "EMP-001775",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000126",
+    "target_emp_id": "EMP-000075"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-03-A-001747",
+    "requesting_emp_id": "EMP-001292",
+    "status": "Denied",
+    "swap_id": "SWP-2026-000127",
+    "target_emp_id": "EMP-000092"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-001844",
+    "requesting_emp_id": "EMP-001908",
+    "status": "Denied",
+    "swap_id": "SWP-2026-000128",
+    "target_emp_id": "EMP-000008"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-001941",
+    "requesting_emp_id": "EMP-000124",
+    "status": "Denied",
+    "swap_id": "SWP-2026-000129",
+    "target_emp_id": "EMP-000024"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-B-002038",
+    "requesting_emp_id": "EMP-000140",
+    "status": "Denied",
+    "swap_id": "SWP-2026-000130",
+    "target_emp_id": "EMP-000240"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002135",
+    "requesting_emp_id": "EMP-000356",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000131",
+    "target_emp_id": "EMP-000056"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-C-002232",
+    "requesting_emp_id": "EMP-000172",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000132",
+    "target_emp_id": "EMP-000272"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-04-A-002329",
+    "requesting_emp_id": "EMP-001889",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000133",
+    "target_emp_id": "EMP-000089"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-A-002426",
+    "requesting_emp_id": "EMP-000605",
+    "status": "Pending",
+    "swap_id": "SWP-2026-000134",
+    "target_emp_id": "EMP-000005"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-002523",
+    "requesting_emp_id": "EMP-000721",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000135",
+    "target_emp_id": "EMP-000021"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-B-002620",
+    "requesting_emp_id": "EMP-000737",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000136",
+    "target_emp_id": "EMP-000037"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-002717",
+    "requesting_emp_id": "EMP-000953",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000137",
+    "target_emp_id": "EMP-000053"
+  },
+  {
+    "assignment_id": "SHIFT-2026-01-05-C-002814",
+    "requesting_emp_id": "EMP-001069",
+    "status": "Approved",
+    "swap_id": "SWP-2026-000138",
+    "target_emp_id": "EMP-000069"
+  }
+]

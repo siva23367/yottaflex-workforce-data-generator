@@ -1,0 +1,23 @@
+[
+  {
+    "end_time": "14:00",
+    "hours": 8,
+    "shift_name": "Day",
+    "start_time": "06:00",
+    "template_id": "SFT-A"
+  },
+  {
+    "end_time": "22:00",
+    "hours": 8,
+    "shift_name": "Evening",
+    "start_time": "14:00",
+    "template_id": "SFT-B"
+  },
+  {
+    "end_time": "06:00",
+    "hours": 8,
+    "shift_name": "Night",
+    "start_time": "22:00",
+    "template_id": "SFT-C"
+  }
+]
