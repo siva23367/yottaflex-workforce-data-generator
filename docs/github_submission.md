@@ -14,7 +14,4 @@ git remote add origin https://github.com/YOUR_GITHUB_USERNAME/yottaflex-workforc
 git push -u origin main
 ```
 
-3. Open the repository URL in a private/incognito browser window to confirm it is public and all files are visible.
-4. Paste that repository URL into the YottaFlex submission portal. The portal states that submission is final and can be made only once, so verify the URL and repository first.
 
-Do not submit the local ZIP download link; the portal asks for a public GitHub repository URL.
